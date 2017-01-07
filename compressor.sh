@@ -1,0 +1,1 @@
+jpegoptim --max=100 images/*.jpg

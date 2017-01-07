@@ -1,0 +1,5028 @@
+Aves 
+Accipitriformes 
+Accipitridae Vigors, 1824
+Accipitri 
+Accipitroidea 
+Accipiter Brisson, 1760
+Accipiter bicolor (Vieillot, 1817)
+Accipiter cooperii (Bonaparte, 1828)
+Accipiter efficax Balouet & Olson, 1989
+Accipiter fasciatus (Vigors & Horsfield, 1826)
+Accipiter fasciatus vigilax (Wetmore, 1926)
+Accipiter francesii A. Smith, 1834
+Accipiter francesiae Smith, 1834
+Accipiter francesii brutus (Schlegel, 1866)
+Accipiter gentilis (Linnaeus, 1758)
+Astur palumbarius Linnaeus, 1758
+Falco gentilis Linnaeus, 1758
+Accipiter gentilis arrigonii (Kleinschmidt, 1903)
+Accipiter gentilis gentilis (Linnaeus, 1758)
+Accipiter haplochrous P. L. Sclater, 1859
+Accipiter nisus (Linnaeus, 1758)
+Accipiter nisus nisus (Linnaeus, 1758)
+Accipiter nisus wolterstorffi Kleinschmidt, 1901
+Falco nisus Linnaeus, 1758
+Accipiter poliogaster (Temminck, 1824)
+Accipiter quartus Balouet & Olson, 1989
+Accipiter striatus Vieillot, 1807
+Accipiter superciliosus (Linnaeus, 1766)
+Accipiter ventralis P. L. Sclater, 1866
+Aegypius Savigny, 1809
+Aegypius monachus (Linnaeus, 1766)
+Vultur monachus Linnaeus, 1766
+Aquila Brisson, 1760
+Aquila adalberti C. L. Brehm, 1861
+Aquila chrysaetos (Linnaeus, 1758)
+Aquila fulva Linnaeus, 1758
+Falco chrysaetos Linnaeus, 1758
+Aquila fasciata Vieillot, 1822
+Hieraaetus fasciatus (Vieillot, 1822)
+Aquila heliaca Savigny, 1809
+Aquila nipalensis Hodgson, 1833
+Busarellus Lesson, 1843
+Busarellus nigricollis (Latham, 1790)
+Buteogallus Lesson, 1830
+Buteogallus aequinoctialis (Gmelin, 1788)
+Buteogallus anthracinus Deppe, 1830
+Buteogallus meridionalis (Latham, 1790)
+Buteogallus schistaceus (Sundevall, 1850)
+Asturina schistacea Sundevall, 1850
+Leucopternis schistacea (Sundevall, 1850)
+Leucopternis schistaceus (Sundevall, 1850)
+Buteogallus urubitinga (Gmelin, 1788)
+Buteo Lacépède, 1799
+Buteo albonotatus Kaup, 1847
+Buteo brachyurus Vieillot, 1816
+Buteo buteo (Linnaeus, 1758)
+Falco buteo Linnaeus, 1758
+Falco vulgaris 
+Buteo buteo vulpinus Gloger, 1833
+Buteo jamaicensis (Gmelin, 1788)
+Falco jamaicensis Gmelin, 1788
+Buteo lagopus (Pontoppidan, 1763)
+Falco lagopus Pontoppidan, 1763
+Buteo nitidus (Latham, 1790)
+Asturina nitida (Latham, 1790)
+Falco nitidus Latham, 1790
+Buteo platypterus (Vieillot, 1823)
+Buteo rufinus (Cretzschmar, 1827)
+Buteo ferox Gmelin, 1771
+Falco rufinus Cretzschmar, 1827
+Buteo rufinus cirtensis (Levaillant, 1850)
+Chondrohierax Lesson, 1843
+Chondrohierax uncinatus (Temminck, 1822)
+Circaetus Vieillot, 1816
+Circaetus gallicus (Gmelin, 1788)
+Circaetus ferox 
+Falco gallicus Gmelin, 1788
+Circus Lacépède, 1799
+Circus aeruginosus (Linnaeus, 1758)
+Falco aeruginosus Linnaeus, 1758
+Circus approximans Peale, 1848
+Circus approximans approximans 
+Circus buffoni (Gmelin, 1788)
+Circus cyaneus (Linnaeus, 1758)
+Falco cyaneus Linnaeus, 1766
+Circus hudsonius (Linnaeus, 1766)
+Circus macrosceles Newton, 1863
+Circus macrourus (S. G. Gmelin, 1771)
+Accipiter macrourus Gmelin, 1771
+Circus maillardi J. Verreaux, 1862
+Circus pygargus (Linnaeus, 1758)
+Falco pygargus Linnaeus, 1758
+Clanga Adamowicz, 1858
+Clanga clanga (Pallas, 1811)
+Aquila clanga Pallas, 1811
+Clanga pomarina (C. L. Brehm, 1831)
+Aquila pomarina C. L. Brehm, 1831
+Elanoides Vieillot, 1818
+Elanoides forficatus (Linnaeus, 1758)
+Falco forficatus Linnaeus, 1758
+Elanoides forficatus yetapa (Vieillot, 1818)
+Milvus yetapa Vieillot, 1818
+Elanus Savigny, 1809
+Elanus caeruleus (Desfontaines, 1789)
+Falco caeruleus Desfontaines, 1789
+Elanus leucurus Vieillot, 1818
+Gampsonyx Vigors, 1825
+Gampsonyx swainsonii Vigors, 1825
+Geranoaetus Kaup, 1844
+Geranoaetus albicaudatus (Vieillot, 1816)
+Buteo albicaudatus Vieillot, 1816
+Geranoaetus albicaudatus colonus Berlepsch, 1892
+Geranospiza Kaup, 1847
+Geranospiza caerulescens (Vieillot, 1817)
+Gypaetus Storr, 1784
+Gypaetus barbatus (Linnaeus, 1758)
+Vultur barbatus Linnaeus, 1758
+Gyps Savigny, 1809
+Gyps fulvus (Hablizl, 1783)
+Vultur fulvus Hablizl, 1783
+Gyps melitensis 
+Haliaeetus Savigny, 1809
+Haliaeetus albicilla (Linnaeus, 1758)
+Falco albicilla Linnaeus, 1758
+Haliaeetus leucocephalus (Linnaeus, 1766)
+Haliaeetus leucogaster (Gmelin, 1788)
+Haliastur Selby, 1840
+Haliastur sphenurus (Vieillot, 1818)
+Harpagus Vigors, 1824
+Harpagus bidentatus (Latham, 1790)
+Harpagus diodon (Temminck, 1823)
+Harpia Vieillot, 1816
+Harpia harpyja (Linnaeus, 1758)
+Harpyhaliaetus Lafresnaye, 1842
+Harpyhaliaetus solitarius (Tschudi, 1844)
+Helicolestes Bangs & Penard, 1918
+Helicolestes hamatus (Temminck, 1821)
+Falco hamatus Temminck, 1821
+Rostrhamus hamatus (Temminck, 1821)
+Hieraaetus Kaup, 1844
+Hieraaetus pennatus (Gmelin, 1788)
+Aquila pennata (Gmelin, 1788)
+Falco pennatus Gmelin, 1788
+Ictinia Vieillot, 1816
+Ictinia plumbea (Gmelin, 1788)
+Leptodon Sundevall, 1836
+Leptodon cayanensis (Latham, 1790)
+Leucopternis Kaup, 1847
+Leucopternis melanops (Latham, 1790)
+Milvus 
+Milvus migrans (Boddaert, 1783)
+Falco migrans Boddaert, 1783
+Milvus korschun 
+Milvus migrans parasitus Grant & Mackworth-Praed, 1933
+Milvus milvus (Linnaeus, 1758)
+Falco milvus Linnaeus, 1758
+Morphnus Dumont, 1816
+Morphnus guianensis (Daudin, 1800)
+Neophron Savigny, 1809
+Neophron percnopterus (Linnaeus, 1758)
+Vultur perenopterus Linnaeus, 1758
+Pernis Cuvier, 1817
+Pernis apivorus (Linnaeus, 1758)
+Falco apivorus Linnaeus, 1758
+Pseudastur Blyth, 1849
+Pseudastur albicollis (Latham, 1790)
+Falco albicollis Latham, 1790
+Leucopternis albicollis (Latham, 1790)
+Rostrhamus Lesson, 1830
+Rostrhamus sociabilis (Vieillot, 1817)
+Rupornis Kaup, 1844
+Rupornis magnirostris (Gmelin, 1788)
+Buteo magnirostris (Gmelin, 1788)
+Falco magnirostris Gmelin, 1788
+Spizaetus Vieillot, 1816
+Spizaetus melanoleucus (Vieillot, 1816)
+Buteo melanoleucus Vieillot, 1816
+Spizastur melanoleucus (Vieillot, 1816)
+Spizaetus ornatus (Daudin, 1800)
+Spizaetus tyrannus (Wied-Neuwied, 1820)
+Falco tyrannus Wied-Neuwied, 1820
+Spizaetus tyrannus serus Friedmann, 1950
+Torgos Kaup, 1828
+Torgos tracheliotus (J. R. Forster, 1791)
+Aegypius tracheliotus (J. R. Forster, 1791)
+Torgos tracheliotos (Forster, 1791)
+Vultur tracheliotus Forster, 1791
+Cathartidae Lafresnaye, 1839
+Cathartes Illiger, 1811
+Cathartes aura (Linnaeus, 1758)
+Vultur aura Linnaeus, 1758
+Cathartes aura ruficollis Spix, 1824
+Cathartes burrovianus Cassin, 1845
+Cathartes burrovianus urubutinga Pelzeln, 1861
+Cathartes melambrotus Wetmore, 1964
+Coragyps I. Geoffroy Saint-Hilaire Saint-Hilaire, 1853
+Coragyps atratus (Bechstein, 1793)
+Vultur atratus Bechstein, 1793
+Coragyps atratus brasiliensis (Bonaparte, 1850)
+Cathartes brasiliensis Bonaparte, 1850
+Sarcoramphus Duméril, 1806
+Sarcoramphus papa Linnaeus, 1758
+Pandionidae 
+Pandionoidea 
+Pandion Savigny, 1809
+Pandion haliaetus (Linnaeus, 1758)
+Falco haliaetus Linnaeus, 1758
+Pandion haliaetus carolinensis (Gmelin, 1788)
+Pandion haliaetus cristatus (Vieillot, 1816)
+Pandion haliaetus ridgwayi Maynard, 1887
+Anseriformes 
+Anatidae 
+Aix 
+Aix galericulata (Linnaeus, 1758)
+Aix sponsa (Linnaeus, 1758)
+Alopochen Stejneger, 1885
+Alopochen aegyptiacus (Linnaeus, 1766)
+Alopochen aegyptiaca (Linnaeus, 1766)
+Anas aegyptiaca Linnaeus, 1766
+Alopochen kervazoi (G.S. Cowles, 1994)
+Mascarenachen kervazoi G.S. Cowles, 1994
+Anas Linnaeus, 1758
+Querquedula 
+Anas acuta Linnaeus, 1758
+Anas aucklandica (G.R. Gray, 1844)
+Anas aucklandica aucklandica (Gray, 1844)
+Anas aucklandica nesiotis (J. H. Fleming, 1935)
+Anas bahamensis Linnaeus, 1758
+Anas crecca Linnaeus, 1758
+Anas crecca carolinensis Gmelin, 1789
+Anas carolinensis Gmelin, 1789
+Anas crecca crecca Linnaeus, 1758
+Anas cyanoptera Vieillot, 1816
+Spatula cyanoptera (Vieillot, 1816)
+Anas eatoni (Sharpe, 1875)
+Anas eatoni drygalskii Reichenow, 1904
+Anas eatoni eatoni (Sharpe, 1875)
+Anas gracilis Buller, 1869
+Anas marecula Olson & Jouventin, 1996
+Anas melleri P. L. Sclater, 1865
+Anas platyrhynchos Linnaeus, 1758
+Anas boschas Linnaeus, 1758
+Anas rhynchotis Latham, 1801
+Anas rhynchotis rhynchotis Latham, 1801
+Anas rubripes Brewster, 1902
+Anas superciliosa Gmelin, 1789
+Anas superciliosa pelewensis Hartlaub & Finsch, 1872
+Anas theodori Newton & Gadow, 1893
+Anser Brisson, 1760
+Anser albifrons (Scopoli, 1769)
+Branta albifrons Scopoli, 1769
+Anser albifrons albifrons (Scopoli, 1769)
+Anser albifrons flavirostris Dalgety & Scott, 1948
+Anser anser (Linnaeus, 1758)
+Anas anser Linnaeus, 1758
+Anser domesticus (Linnaeus, 1758)
+Anser anser anser (Linnaeus, 1758)
+Anser anser rubrirostris Swinhoe, 1871
+Anser brachyrhynchus (Baillon, 1833)
+Anser caerulescens (Linnaeus, 1758)
+Anas caerulescens Linnaeus, 1758
+Chen caerulescens (Linnaeus, 1758)
+Anser erythropus (Linnaeus, 1758)
+Anser fabalis (Latham, 1787)
+Anser fabilis Latham, 1787
+Anser fabalis fabalis (Latham, 1787)
+Anser fabalis rossicus Buturlin, 1933
+Anser indicus (Latham, 1790)
+Eulabeia indica Latham
+Aythya Boie, 1822
+Aythya affinis (Eyton, 1838)
+Fuligula affinis Eyton, 1838
+Aythya americana (Eyton, 1838)
+Aythya australis (Eyton, 1838)
+Aythya australis australis (Eyton, 1838)
+Aythya collaris (Donovan, 1809)
+Anas collaris Donovan, 1809
+Aythya ferina (Linnaeus, 1758)
+Anas ferina Linnaeus, 1758
+Nyroca ferina 
+Aythya fuligula (Linnaeus, 1758)
+Anas fuligula Linnaeus, 1758
+Aythya marila (Linnaeus, 1761)
+Anas marila Linnaeus, 1761
+Aythya nyroca (Güldenstädt, 1770)
+Anas nyroca Guldenstad, 1770
+Nyroca fuligula 
+Aythya valisineria (Wilson, 1814)
+Branta 
+Branta bernicla (Linnaeus, 1758)
+Anas bernicla Linnaeus, 1758
+Branta bernicla bernicla (Linnaeus, 1758)
+Branta bernicla hrota (O.F. Müller, 1776)
+Branta hrota (O.F. Müller, 1776)
+Branta canadensis (Linnaeus, 1758)
+Anas canadensis Linnaeus, 1758
+Branta leucopsis (Bechstein, 1803)
+Anas leucopsis Bechstein, 1803
+Branta nigricans (Lawrence, 1846)
+Branta bernicla nigricans (Lawrence, 1846)
+Branta ruficollis (Pallas, 1769)
+Anser ruficollis Pallas, 1769
+Rufibrenta ruficollis 
+Bucephala 
+Bucephala albeola (Linnaeus, 1758)
+Anas albeola Linnaeus, 1758
+Bucephala clangula (Linnaeus, 1758)
+Anas clangula Linnaeus, 1758
+Glaucionetta clangula 
+Bucephala islandica (Gmelin, 1789)
+Anas islandica Gmelin, 1789
+Cairina Fleming, 1822
+Cairina moschata (Linnaeus, 1758)
+Anas moschata Linnaeus, 1758
+Callonetta Delacour, 1936
+Callonetta leucophrys (Vieillot, 1816)
+Anas leucophrys Vieillot, 1816
+Clangula Leach, 1819
+Clangula hyemalis (Linnaeus, 1758)
+Anas hyemalis Linnaeus, 1758
+Cygnus Bartram, 1791
+Cygnus atratus (Latham, 1790)
+Cygnus columbianus (Ord, 1815)
+Anas columbianus Ord, 1815
+Cygnus colombianus 
+Cygnus columbianus columbianus (Ord, 1815)
+Olor columbianus 
+Cygnus columbianus bewickii (Yarrel, 1830)
+Cygnus bewickii Yarrell, 1830
+Cygnus cygnus (Linnaeus, 1758)
+Anas cygnus Linnaeus, 1758
+Olor cygnus 
+Cygnus olor (Gmelin, 1803)
+Anas olor Gmelin, 1789
+Dendrocygna Swainson, 1837
+Dendrocygna arborea (Linnaeus, 1758)
+Dendrocygna arcuata (Horsfield, 1824)
+Dendrocygna arcuata arcuata (Horsfield, 1824)
+Dendrocygna autumnalis (Linnaeus, 1758)
+Anas autumnalis Linnaeus, 1758
+Dendrocygna bicolor (Vieillot, 1816)
+Dendrocygna viduata (Linnaeus, 1766)
+Histrionicus Lesson, 1828
+Histrionicus histrionicus (Linnaeus, 1758)
+Lophodytes Reichenbach, 1852
+Lophodytes cucullatus (Linnaeus, 1758)
+Mergellus cucullatus (Linnaeus, 1758)
+Mergus cucullatus Linnaeus, 1758
+Mareca Stephens, 1824
+Mareca americana (Gmelin, 1789)
+Anas americana Gmelin, 1789
+Mareca penelope (Linnaeus, 1758)
+Anas penelope Linnaeus, 1758
+Mareca strepera (Linnaeus, 1758)
+Anas strepera Linnaeus, 1758
+Marmaronetta 
+Marmaronetta angustirostris (Ménétries, 1832)
+Anas angustirostris Ménétries, 1832
+Melanitta Boie, 1822
+Melanitta americana (Swainson, 1832)
+Melanitta nigra americana (Swainson, 1832)
+Melanitta deglandi (Bonaparte, 1850)
+Oedemia deglandi Bonaparte, 1850
+Melanitta fusca (Linnaeus, 1758)
+Anas fusca Linnaus, 1758
+Oidemia fusca 
+Melanitta nigra (Linnaeus, 1758)
+Anas nigra Linnaeus, 1758
+Oidemia nigra 
+Melanitta perspicillata (Linnaeus, 1758)
+Anas perspicillata Linnaeus, 1758
+Mergellus Selby, 1840
+Mergellus albellus (Linnaeus, 1758)
+Mergullus albellus (Linnaeus, 1758)
+Mergus albellus (Linnaeus, 1758)
+Mergus albellus Linnaeus, 1758
+Mergus 
+Mergus merganser Linnaeus, 1758
+Mergus serrator Linnaeus, 1758
+Netta Kaup, 1829
+Netta peposaca (Vieillot, 1816)
+Anas peposaca Vieillot, 1816
+Netta rufina (Pallas, 1773)
+Anas rufina Pallas, 1773
+Nomonyx 
+Nomonyx dominicus (Linnaeus, 1766)
+Oxyura dominica (Linnaeus, 1766)
+Oxyura Bonaparte, 1828
+Oxyura jamaicensis (Gmelin, 1789)
+Anas jamaicensis Gmelin, 1789
+Oxyura leucocephala (Scopoli, 1769)
+Anas leucocephala Scopoli, 1769
+Polysticta 
+Polysticta stelleri (Pallas, 1769)
+Anas stelleri Pallas, 1769
+Polystica stelleri (Pallas, 1769)
+Somateria stelleri 
+Sarkidiornis Eyton, 1838
+Sarkidiornis melanotos (Pennant, 1769)
+Sibirionetta von Boetticher, 1929
+Sibirionetta formosa (Georgi, 1775)
+Anas formosa Georgi, 1775
+Somateria 
+Somateria mollissima (Linnaeus, 1758)
+Anas molissima Linnaeus, 1758
+Somateria spectabilis (Linnaeus, 1758)
+Anas spectabilis Linnaeus, 1758
+Spatula Boie, 1822
+Spatula clypeata (Linnaeus, 1758)
+Anas clypeata Linnaeus, 1758
+Spatula discors (Linnaeus, 1766)
+Anas discors Linnaeus, 1766
+Spatula querquedula (Linnaeus, 1758)
+Anas querquedula Linnaeus, 1758
+Querquedula creca 
+Tadorna Oken, 1817
+Tadorna ferruginea (Pallas, 1764)
+Anas ferruginea Pallas, 1764
+Casarca ferruginea (Pallas, 1764)
+Tadorna tadorna (Linnaeus, 1758)
+Anas tadorna Linnaeus, 1758
+Anatoidea 
+Anhimidae 
+Anhima Brisson, 1760
+Anhima cornuta (Linnaeus, 1766)
+Palamedea cornuta Linnaeus, 1766
+Anhimoidea 
+Anseri 
+Anserimorphae 
+Bucerotiformes 
+Bucerotimorphae 
+Upupi 
+Upupiformes 
+Upupidae 
+Upupoidea 
+Upupa 
+Upupa epops Linnaeus, 1758
+Caprimulgiformes 
+Apodiformes 
+Apodimorphae 
+Caprimulgi 
+Trochiliformes 
+Aegothelidae 
+Aegotheli 
+Aegotheloidea 
+Aegotheles Vigors & Horsfield, 1826
+Aegotheles savesi E. L. Layard & E. L. C. Layard, 1881
+Apodidae 
+Apodi 
+Apodoidea 
+Aerodramus Oberholser, 1906
+Aerodramus francicus (Gmelin, 1789)
+Collocalia francica (Gmelin, 1789)
+Aerodramus leucophaeus (Peale, 1848)
+Collocalia leucophaea (Peale, 1848)
+Aerodramus ocistus (Oberholser, 1906)
+Collocalia ocista (Oberholser, 1906)
+Aerodramus ocistus gilliardi (Somadikarta, 1994)
+Aerodramus ocistus ocistus (Oberholser, 1906)
+Aerodramus spodiopygius (Peale, 1848)
+Collocalia spodiopygia (Peale, 1848)
+Aerodramus spodiopygius leucopygius (Wallace, 1864)
+Collocalia leucopygia Wallace, 1864
+Aerodramus vanikorensis (Quoy & Gaimard, 1830)
+Collocalia vanikorensis (Quoy & Gaimard, 1830)
+Aeronautes Hartert, 1892
+Aeronautes montivagus (d'Orbigny & Lafresnaye, 1837)
+Cypselus montivagus d'Orbigny & Lafresnaye, 1837
+Aeronautes montivagus tatei (Chapman, 1929)
+Duidia tatei Chapman, 1929
+Apus Scopoli, 1777
+Apus affinis (J.E. Gray, 1830)
+Cypselus affinis J.E. Gray, 1830
+Apus apus (Linnaeus, 1758)
+Cypselus apus 
+Hirundo apus Linnaeus, 1758
+Apus balstoni (E. Bartlett, 1880)
+Apus barbatus (Sclater, 1866)
+Apus barbatus mayottensis (Nicoll, 1906)
+Apus pallidus (Shelley, 1870)
+Cypselus pallidus Shelley, 1870
+Chaetura Berlpesch & Hartert, 1902
+Chaetura brachyura (Jardine, 1846)
+Chaetura chapmani Hellmayr, 1907
+Chaetura martinica (Hermann, 1783)
+Chaetura meridionalis Hellmayr, 1907
+Chaetura andrei meridionalis Hellmayr , 1907
+Chaetura andrei auct. non Berlepsch & Hartert, 1902
+Chaetura pelagica (Linnaeus, 1758)
+Chaetura spinicaudus (Temminck, 1839)
+Cypselus spinicaudus Temminck, 1839
+Chaetura vauxi (Townsend, 1839)
+Chaetura vauxi andrei Berlepsch & Hartert, 1902
+Chaetura andrei Berlepsch & Hartert, 1902
+Collocalia Gray, 1840
+Collocalia esculenta (Linnaeus, 1758)
+Collocalia esculenta albidior Salomonsen, 1983
+Cypseloides Streubel, 1848
+Cypseloides cryptus J.T.Zimmer, 1945
+Cypseloides niger (Gmelin, 1789)
+Hirundo nigra Gmelin, 1789
+Nephoecetes niger (Gmelin, 1789)
+Cypsiurus Lesson, 1843
+Cypsiurus parvus (Lichtenstein, 1823)
+Cypsiurus parvus griveaudi 
+Hirundapus Hodgson, 1837
+Hirundapus caudacutus (Latham, 1801)
+Panyptila Cabanis, 1847
+Panyptila cayennensis (Gmelin, 1789)
+Streptoprocne Oberholser, 1906
+Streptoprocne zonaris (Shaw, 1796)
+Hirundo zonaris Shaw, 1796
+Streptoprocne zonaris albicincta (Cabanis, 1862)
+Hemiprocne albicincta Cabanis, 1862
+Tachornis Gosse, 1847
+Tachornis squamata (Cassin, 1853)
+Cypselus squamatus Cassin, 1853
+Reinarda squamata (Cassin, 1853)
+Tachymarptis Roberts, 1922
+Tachymarptis melba (Linnaeus, 1758)
+Apus melba (Linnaeus, 1758)
+Hirundo melba Linnaeus, 1758
+Zoonavena Mathews, 1918
+Zoonavena grandidieri (Verreaux, 1867)
+Caprimulgidae 
+Caprimulgoidea 
+Antrostomus Bonaparte, 1838
+Antrostomus carolinensis (Gmelin, 1789)
+Caprimulgus carolinensis Gmelin, 1789
+Caprimulgus Linnaeus, 1758
+Caprimulgus europaeus Linnaeus, 1758
+Caprimulgus europaeus europaeus Linnaeus, 1758
+Caprimulgus europaeus meridionalis Hartert, 1896
+Caprimulgus ruficollis Temminck, 1820
+Caprimulgus rufus (Boddaert, 1783)
+Caprimulgus vociferus A. Wilson, 1812
+Chordeiles Swainson, 1832
+Chordeiles acutipennis (Hermann, 1783)
+Chordeiles gundlachii Lawrence, 1856
+Chordeiles minor (J.R. Forster, 1771)
+Chordeiles nacunda (Vieillot, 1817)
+Caprimulgus nacunda Vieillot, 1817
+Podager nacunda (Vieillot, 1817)
+Eurostopodus 
+Eurostopodus mystacalis (Temminck, 1826)
+Eurostopodus mystacalis exul Mayr, 1941
+Eurostopodus exul Mayr, 1941
+Hydropsalis Wagler, 1832
+Hydropsalis cayennensis (Gmelin, 1789)
+Caprimulgus cayennensis Gmelin, 1789
+Hydropsalis climacocerca (Tschudi, 1844)
+Caprimulgus climacocercus Tschudi, 1844
+Hydropsalis climacocerca schomburgki Sclater, 1866
+Hydropsalis maculicaudus (Lawrence, 1862)
+Caprimulgus maculicaudus (Lawrence, 1862)
+Stenopsis maculicaudus Lawrence, 1862
+Lurocalis Cassin, 1851
+Lurocalis semitorquatus (Gmelin, 1789)
+Nyctidromus Gould, 1838
+Nyctidromus albicollis (Gmelin, 1789)
+Nyctipolus Ridgway, 1912
+Nyctipolus nigrescens (Cabanis, 1848)
+Caprimulgus nigrescens Cabanis, 1848
+Hydropsalis nigrescens (Cabanis, 1848)
+Nyctiprogne Bonaparte, 1854
+Nyctiprogne leucopyga (Spix, 1825)
+Setopagis Ridgway, 1912
+Setopagis maculosa (Todd, 1920)
+Caprimulgus maculosus (Todd, 1920)
+Nyctipolus maculosus Todd, 1920
+Nyctibiidae 
+Nyctibioidea 
+Nyctibius Vieillot, 1816
+Nyctibius aethereus (Wied-Neuwied, 1820)
+Caprimulgus aethereus Wied-Neuwied, 1820
+Nyctibius aethereus longicaudatus (Spix, 1825)
+Caprimulgus longicaudatus Spix, 1825
+Nyctibius bracteatus Gould, 1846
+Nyctibius grandis (Gmelin, 1789)
+Nyctibius griseus (Gmelin, 1789)
+Nyctibius leucopterus (Wied, 1821)
+Steatornithidae Bonaparte, 1842
+Steatornis Humboldt, 1814
+Steatornis caripensis Humboldt, 1817
+Trochilidae 
+Trochili 
+Amazilia Lesson, 1843
+Amazilia brevirostris (Lesson, 1829)
+Amazilia brevirostris chionopectus (Gould, 1859)
+Amazilia chionopectus (Gould, 1859)
+Ornismya brevirostris Gould, 1859
+Amazilia brevirostris brevirostris (Lesson, 1829)
+Amazilia brevirostris orienticola Todd, 1942
+Amazilia chionopectus orienticola Todd, 1942
+Amazilia fimbriata (Gmelin, 1788)
+Amazilia leucogaster (Gmelin, 1788)
+Amazilia viridigaster (Bourcier, 1843)
+Trochilus viridigaster Bourcier, 1843
+Amazilia viridigaster cupreicauda Salvin & Godman, 1884
+Amazilia cupreicauda Salvin & Godman, 1884
+Saucerottia cupreicauda (Salvin & Godman, 1884)
+Anthracothorax F. Boie, 1831
+Anthracothorax nigricollis (Vieillot, 1817)
+Anthracothorax viridigula (Boddaert, 1782)
+Archilochus Reichenbach, 1854
+Archilochus colubris Linnaeus, 1758
+Avocettula Reichenbach, 1849
+Avocettula recurvirostris (Swainson, 1822)
+Anthracothorax recurvirostris (Swainson, 1822)
+Trochilus recurvirostris Swainson, 1822
+Calliphlox F. Boie, 1831
+Calliphlox amethystina (Boddaert, 1783)
+Campylopterus Swainson, 1827
+Campylopterus largipennis (Boddaert, 1783)
+Chlorestes Reichenbach, 1854
+Chlorestes notata (G. C. Reich, 1793)
+Chlorestes notatus (G. C. Reich, 1793)
+Chlorostilbon notatus (G. C. Reich, 1793)
+Trochilus notatus G. C. Reich, 1793
+Chlorostilbon Gould, 1853
+Chlorostilbon mellisugus (Linnaeus, 1758)
+Chrysolampis F. Boie, 1831
+Chrysolampis mosquitus (Linnaeus, 1758)
+Colibri Spix, 1824
+Colibri delphinae (Lesson, 1839)
+Cyanophaia Reichenbach, 1854
+Cyanophaia bicolor (Gmelin, 1788)
+Discosura Bonaparte, 1849
+Discosura longicaudus (Gmelin, 1788)
+Discosura longicauda (Gmelin, 1788)
+Trochilus longicaudus Gmelin, 1788
+Eulampis Boie, 1831
+Eulampis holosericeus (Linnaeus, 1758)
+Sericotes holosericeus (Linnaeus, 1758)
+Trochilus holosericeus Linnaeus, 1758
+Eulampis jugularis (Linnaeus, 1766)
+Eupetomena Gould, 1853
+Eupetomena macroura (Gmelin, 1788)
+Florisuga Bonaparte, 1850
+Florisuga mellivora (Linnaeus, 1758)
+Glaucis F. Boie, 1831
+Glaucis hirsutus (Gmelin, 1788)
+Glaucis hirsuta (Gmelin, 1788)
+Trochilus hirsutus Gmelin, 1788
+Heliomaster Bonaparte, 1850
+Heliomaster longirostris (Audebert & Vieillot, 1801)
+Heliothryx F. Boie, 1831
+Heliothryx auritus (Gmelin, 1788)
+Heliothryx aurita (Gmelin, 1788)
+Trochilus auritus Gmelin, 1788
+Hylocharis F. Boie, 1831
+Hylocharis cyanus (Vieillot, 1818)
+Trochilus cyanus Vieillot, 1818
+Hylocharis cyanus viridiventris Berlepsch, 1880
+Hylocharis sapphirina (Gmelin, 1788)
+Lophornis Lesson, 1829
+Lophornis ornatus (Boddaert, 1783)
+Orthorhyncus Lacepède, 1799
+Orthorhyncus cristatus (Linnaeus, 1758)
+Trochilus cristatus Linnaeus, 1758
+Orthorhyncus cristatus exilis (Gmelin, 1788)
+Phaethornis Swainson, 1827
+Phaethornis augusti (Bourcier, 1847)
+Trochilus augusti Bourcier, 1847
+Phaethornis augusti incanescens (Simon, 1921)
+Anisoterus Augusti incanescens Simon, 1921
+Phaethornis bourcieri (Lesson, 1832)
+Phaethornis longuemareus (Lesson, 1832)
+Trochilus Longuemareus Lesson, 1832
+Phaethornis malaris (Nordmann, 1835)
+Phaethornis ruber (Linnaeus, 1758)
+Phaethornis superciliosus (Linnaeus, 1766)
+Polytmus Brisson, 1766
+Polytmus guainumbi (Pallas, 1764)
+Polytmus theresiae (Da Silva Maia, 1843)
+Selasphorus Swainson, 1832
+Selasphorus rufus (Gmelin, 1788)
+Thalurania Gould, 1848
+Thalurania furcata (Gmelin, 1788)
+Trochilus furcatus Gmelin, 1788
+Thalurania furcata fissilis Berlepsch & Hartert, 1902
+Thalurania furcata furcata (Gmelin, 1788)
+Threnetes Gould, 1852
+Threnetes leucurus (Linnaeus, 1766)
+Threnetes niger (Linnaeus, 1758)
+Threnetes niger niger (Linnaeus, 1758)
+Topaza Gray, 1840
+Topaza pella (Linnaeus, 1758)
+Trochiloidea 
+Charadriiformes 
+Turniciformes 
+Alcidae 
+Alca Linnaeus, 1758
+Alca torda Linnaeus, 1758
+Alca torda britannica Ticehurst, 1936
+Alle Link, 1806
+Alle alle (Linnaeus, 1758)
+Alca alle Linnaeus, 1758
+Plautus alle (L,)
+Plotus alle (L,)
+Cepphus Pallas, 1769
+Cepphus grylle (Linnaeus, 1758)
+Alca grylle Linnaeus, 1758
+Fratercula Brisson, 1760
+Fratercula arctica (Linnaeus, 1758)
+Alca arctica Linnaeus, 1758
+Pinguinus 
+Pinguinus impennis (Linnaeus, 1758)
+Alca impennis Linnaeus, 1758
+Uria Brisson, 1760
+Uria aalge (Pontoppidan, 1763)
+Colymbus aalge Pontoppidan, 1763
+Uria aalge aalge (Pontopidan, 1763)
+Uria aalge albionis Whitherbi, 1923
+Uria lomvia (Linnaeus, 1758)
+Alca lomvia Linnaeus, 1758
+Alcoidea 
+Burhinidae 
+Burhinus Illiger, 1811
+Burhinus oedicnemus (Linnaeus, 1758)
+Chardarias oedicnemus Linnaeus, 1758
+Esacus Lesson, 1831
+Esacus magnirostris (Vieillot, 1818)
+Burhinus giganteus (Wagler, 1829)
+Esacus giganteus (Wagler, 1829)
+Esacus neglectus (Mathews, 1912)
+Charadrii 
+Charadriidae 
+Charadrius Linnaeus, 1758
+Charadrius alexandrinus Linnaeus, 1758
+Charadrius asiaticus Pallas, 1773
+Pluvialis asiaticus 
+Charadrius bicinctus Jardine & Selby, 1827
+Charadrius collaris Vieillot, 1818
+Charadrius dubius Scopoli, 1786
+Charadrius dubius curonicus Gmelin, 1789
+Chardrius dubius 
+Charadrius hiaticula Linnaeus, 1758
+Charadrius leschenaultii Lesson, 1826
+Charadrius marginatus Vieillot, 1818
+Charadrius melodus Ord, 1824
+Charadrius mongolus Pallas, 1776
+Charadrius nivosus (Cassin, 1858)
+Aegialitis nivosa Cassin, 1858
+Charadrius pecuarius Temminck, 1823
+Charadrius semipalmatus Bonaparte, 1825
+Charadrius tricollaris Vieillot, 1818
+Charadrius veredus Gould, 1848
+Charadrius vociferus Linnaeus, 1758
+Charadrius vociferus ternominatus Bangs & Kennard, 1920
+Charadrius wilsonia Ord, 1814
+Charadrius wilsonia cinnamominus (Ridgway, 1919)
+Pagolla wilsonia cinnamomina Ridgway, 1919
+Chettusia 
+Chettusia gregaria (Pallas, 1771)
+Charadrius gregarius Pallas, 1771
+Vanellus gregarius (Pallas, 1771)
+Chettusia leucura (Lichtenstein, 1823)
+Charadrius leucurus Lichtenstein, 1823
+Vanellus leucurus (Lichtenstein, 1823)
+Eudromias Brehm, 1830
+Eudromias morinellus (Linnaeus, 1758)
+Charadrius morinellus Linnaeus, 1758
+Pluvialis Brisson, 1760
+Pluvialis apricaria (Linnaeus, 1758)
+Charadarius apricarius Linnaeus, 1758
+Pluvialis apricaria altifrons (Brehm, 1831)
+Pluvialis dominica (Statius Müller, 1776)
+Charadrius dominicus Müller, 1776
+Pluvialis fulva (Gmelin, 1789)
+Charadrius fulvus Gmelin, 1789
+Pluvialis squatarola (Linnaeus, 1758)
+Charadarius squatarola (Linnaeus, 1758)
+Squatarola squatarola (Linnaeus, 1758)
+Tringa squatarola Linnaeus, 1758
+Vanellus Brisson, 1760
+Vanellus armatus (Burchell, 1822)
+Charadrius armatus Burchell, 1822
+Vanellus cayanus (Latham, 1790)
+Vanellus chilensis (Molina, 1782)
+Parra chilensis Molina, 1782
+Vanellus chilensis cayennensis (Gmelin, 1789)
+Parra cayennensis Gmelin, 1789
+Vanellus lugubris (Lesson, 1826)
+Vanellus miles (Boddaert, 1783)
+Vanellus miles novaehollandiae Stephens, 1819
+Vanellus vanellus (Linnaeus, 1758)
+Tringa vanellus Linnaeus, 1758
+Charadrioidea 
+Chionidae 
+Pluvianellidae 
+Chionis Forster, 1788
+Chionis minor Hartlaub, 1841
+Chionis minor crozettensis (Sharpe, 1896)
+Chionis minor minor Hartlaub, 1841
+Chionoidea 
+Burhinoidea 
+Glareolidae 
+Cursorius Latham, 1790
+Cursorius cursor (Latham, 1787)
+Chardarius cursor Latham, 1707
+Dromas Paykull, 1805
+Dromas ardeola Paykull, 1805
+Glareola Brisson, 1760
+Glareola maldivarum J. R. Forster, 1795
+Glareola nordmanni Fischer, 1842
+Glareola nordmanni Nordmann, 1842
+Glareola ocularis J. Verreaux, 1833
+Glareola pratincola (Linnaeus, 1766)
+Hirundo pratincola Linnaeus, 1766
+Pluvianus 
+Pluvianus aegyptius (Linnaeus, 1758)
+Stiltia 
+Stiltia isabella (Vieillot, 1816)
+Glareoloidea 
+Haematopodidae 
+Haematopus Linnaeus, 1758
+Haematopus finschi G. H. Martens, 1897
+Haematopus ostralegus finschi G. H. Martens, 1897
+Haematopus ostralegus Linnaeus, 1758
+Haematopus ostralegus occidentalis Neumann, 1929
+Haematopus ostralegus ostralegus Linnaeus, 1758
+Haematopus ostralegus longipes Buturlin, 1910
+Haematopus palliatus Temminck, 1820
+Haematopodoidea 
+Recurvirostroidea 
+Jacanidae 
+Jacana Brisson, 1760
+Jacana jacana (Linnaeus, 1766)
+Jacanoidea 
+Lari 
+Laridae 
+Anoinae 
+Gyginae 
+Anous Stephens, 1826
+Anous minutus H. Boie, 1844
+Anous stolidus (Linnaeus, 1758)
+Sterna stolida Linnaeus, 1758
+Anous stolidus pileatus (Scopoli, 1786)
+Anous tenuirostris (Temminck, 1823)
+Chlidonias Rafinesque, 1822
+Chlidonias hybrida (Pallas, 1811)
+Chlidonias hybridus (Pallas, 1811)
+Hydrochelidon leucopareia 
+Sterna hybrida Pallas, 1811
+Chlidonias leucopterus (Temminck, 1815)
+Sterna leucoptera Temminck, 1815
+Chlidonias niger (Linnaeus, 1758)
+Sterna nigra Linnaeus, 1758
+Chlidonias niger surinamensis (Gmelin, 1789)
+Sterna surinamensis Gmelin, 1789
+Chroicocephalus Eyton, 1836
+Chroicocephalus cirrocephalus (Vieillot, 1818)
+Larus cirrocephalus Vieillot, 1818
+Chroicocephalus genei (Brême, 1839)
+Larus genei Brême, 1839
+Chroicocephalus novaehollandiae (Stephens, 1826)
+Larus novaehollandiae Stephens, 1826
+Chroicocephalus novaehollandiae forsteri (Mathews, 1912)
+Larus novaehollandiae forsteri (Mathews, 1912)
+Chroicocephalus philadelphia (Ord, 1815)
+Larus philadelphia (Ord, 1815)
+Sterna philadelphia Ord, 1815
+Chroicocephalus ridibundus (Linnaeus, 1766)
+Larus ridibundus Linnaeus, 1766
+Gelochelidon Brehm, 1830
+Gelochelidon nilotica (Gmelin, 1789)
+Sterna nilotica Gmelin, 1789
+Gelochelidon nilotica gronvoldi (Mathews, 1912)
+Gygis Wagler, 1832
+Gygis alba (Sparrman, 1786)
+Gygis alba candida (Gmelin, 1789)
+Gygis alba microrhyncha Saunders, 1876
+Gygis microrhyncha Saunders, 1876
+Hydrocoloeus Kaup, 1829
+Hydrocoloeus minutus (Pallas, 1776)
+Larus minutus Pallas, 1776
+Hydroprogne Kaup, 1829
+Hydroprogne caspia (Pallas, 1770)
+Hydroprogne tschegrava (Lepechin, 1770)
+Sterna caspia Pallas, 1770
+Sterna tschegrava Lepechin, 1770
+Ichthyaetus Kaup, 1829
+Ichthyaetus audouinii (Payraudeau, 1826)
+Larus audouinii Payraudeau, 1826
+Ichthyaetus ichthyaetus (Pallas, 1773)
+Larus ichthyaetus Pallas, 1773
+Ichthyaetus melanocephalus (Temminck, 1820)
+Larus melanocephalus Temminck, 1820
+Larus Linnaeus, 1758
+Larus argentatus Pontoppidan, 1763
+Larus cachinnans Pallas, 1811
+Larus argentatus cachinnans Pallas, 1811
+Larus cachinnans cachinnans Pallas, 1811
+Larus canus Linnaeus, 1758
+Larus canus canus Linnaeus, 1758
+Larus canus heinei Homeyer, 1853
+Larus delawarensis Ord, 1815
+Larus dominicanus Lichtenstein, 1823
+Larus dominicanus judithae Jiguet, 2002
+Larus dominicanus melisandae Jiguet, 2002
+Larus fuscus Linnaeus, 1758
+Larus fuscus fuscus Linnaeus, 1758
+Larus fuscus graellsii Brehm, 1857
+Larus fuscus intermedius Schioler, 1922
+Larus glaucoides Meyer, 1822
+Larus hyperboreus Gunnerus, 1767
+Larus marinus Linnaeus, 1758
+Larus michahellis Naumann, 1840
+Larus argentatus michaelis 
+Larus cachinnans michahellis Naumann, 1840
+Larus michaellis 
+Larus smithsonianus Coues, 1862
+Larus argentatus smithsonianus Coues, 1862
+Larus utunui Steadman, 2002
+Leucophaeus Bruch, 1853
+Leucophaeus atricilla (Linnaeus, 1758)
+Larus atricilla Linnaeus, 1758
+Leucophaeus pipixcan (Wagler, 1831)
+Larus pipixcan Wagler, 1831
+Onychoprion Wagler, 1832
+Onychoprion anaethetus (Scopoli, 1786)
+Sterna anaethetus Scopoli, 1786
+Onychoprion anaethetus recognitus Mathews, 1912
+Onychoprion fuscatus (Linnaeus, 1766)
+Sterna fuscata Linnaeus, 1766
+Onychoprion fuscatus serratus (Wagler, 1830)
+Sterna fuscata serrata Wagler, 1830
+Onychoprion lunatus (Peale, 1848)
+Sterna lunata Peale, 1848
+Pagophila Kaup, 1829
+Pagophila eburnea (Phipps, 1774)
+Larus eburneus Phipps, 1774
+Phaetusa Wagler, 1832
+Phaetusa simplex (Gmelin, 1789)
+Procelsterna Lafresnaye, 1842
+Procelsterna albivitta Bonaparte, 1856
+Procelsterna cerulea F. D. Bennett, 1840
+Procelsterna caerulea (Bennett, 1840)
+Rhodostethia Macgillivray, 1842
+Rhodostethia rosea (MacGillivray, 1924)
+Larus rosea MacGillivray, 1824
+Larus roseus MacGillivray, 1842
+Larus rossii Richardson, 1825
+Rissa Stephens, 1826
+Rissa tridactyla (Linnaeus, 1758)
+Larus tridactyla Linnaeus, 1758
+Larus tridactylus Linnaeus, 1758
+Rynchops Linnaeus, 1758
+Rynchops niger Linnaeus, 1758
+Sterna Linnaeus, 1758
+Sterna dougallii Montagu, 1813
+Sterna dougallii bangsi Mathews, 1912
+Sterna forsteri Nuttall, 1834
+Sterna hirundo Linnaeus, 1758
+Sterna paradisaea Pontoppidan, 1763
+Sterna macrura 
+Sterna repressa Hartert, 1916
+Sterna sumatrana Raffles, 1822
+Sterna virgata Cabanis, 1875
+Sterna vittata Gmelin, 1789
+Sternula Boie, 1822
+Sternula albifrons (Pallas, 1764)
+Sterna albifrons Pallas, 1764
+Sternula antillarum Lesson, 1847
+Sterna antillarum (Lesson, 1847)
+Sternula nereis (Gould, 1843)
+Sterna nereis (Gould, 1843)
+Sternula nereis exsul (Mathews, 1912)
+Sterna nereis exsul (Mathews, 1912)
+Sternula saundersi (Hume, 1877)
+Sterna saundersi Hume, 1877
+Sternula superciliaris (Vieillot, 1819)
+Sterna superciliaris Vieillot, 1819
+Thalasseus Boie, 1822
+Thalasseus bengalensis (Lesson, 1831)
+Sterna bengalensis Lesson, 1831
+Thalasseus bergii (Lichtenstein, 1823)
+Sterna bergii Lichtenstein, 1823
+Thalasseus bergii cristatus (Stephens, 1826)
+Sterna bergii cristata Stephens, 1826
+Thalasseus elegans (Gambel, 1849)
+Sterna elegans Gambel, 1849
+Thalasseus maximus (Boddaert, 1783)
+Sterna maxima Boddaert, 1783
+Thalasseus sandvicensis (Latham, 1787)
+Sterna sandvicensis Latham, 1787
+Thalasseus sandvicensis acuflavidus (Cabot, 1847)
+Sterna acuflavida acuflavida Cabot, 1847
+Sterna acuflavida Cabot, 1847
+Sterna sandvicensis acuflavida Cabot, 1847
+Thalasseus acuflavidus (Cabot, 1847)
+Thalasseus sandvicensis eurygnathus (Saunders, 1876)
+Sterna acuflavida eurygnatha Saunders, 1876
+Sterna eurygnatha Saunders, 1876
+Sterna sandvicensis eurygnatha Saunders, 1876
+Thalasseus eurygnathus (Saunders, 1876)
+Thalasseus sandvicensis sandvicensis (Latham, 1787)
+Xema Leach, 1819
+Xema sabini (Sabine, 1819)
+Larus (Xema) sabini Sabine, 1819
+Larus sabini Sabine, 1819
+Xema sabinii (Sabine, 1819)
+Larinae 
+Rynchopinae 
+Rynchopidae 
+Sterninae 
+Sternidae 
+Laroidea 
+Recurvirostridae 
+Himantopus Brisson, 1760
+Himantopus himantopus (Linnaeus, 1758)
+Charadrius himantopus Linnaeus, 1758
+Himantopus himantopus himantopus (Linnaeus, 1758)
+Himantopus himantopus mexicanus (Statius Müller, 1776)
+Charadrius mexicanus Statius Müller, 1776
+Himantopus mexicanus (Statius Müller, 1776)
+Recurvirostra Linnaeus, 1758
+Recurvirostra americana Gmelin, 1789
+Recurvirostra avosetta Linnaeus, 1758
+Scolopaci 
+Scolopacidae 
+Phalaropodidae 
+Actitis Illiger, 1811
+Actites 
+Actitis hypoleucos (Linnaeus, 1758)
+Actites hypoleucos (Linnaeus, 1758)
+Tringa hypoleucos Linnaeus, 1758
+Actitis macularius (Linnaeus, 1766)
+Actites macularia (Linnaeus, 1766)
+Actitis macularia (Linnaeus, 1766)
+Tringa macularia Linnaeus, 1766
+Arenaria Brisson, 1760
+Arenaria interpres (Linnaeus, 1758)
+Tringa interpres Linnaeus, 1758
+Arenaria interpres morinella (Linnaeus, 1766)
+Tringa Morinella Linnaeus, 1766
+Bartramia Lesson, 1831
+Bartramia longicauda (Bechstein, 1812)
+Baratramia longicauda (Bechstein, 1812)
+Tringa longicauda Bechstein, 1812
+Calidris Merrem, 1804
+Limicola Koch, 1816
+Philomachus Merrem, 1804
+Tryngites Cabanis, 1857
+Calidris acuminata (Horsfield, 1821)
+Erolia acuminata (Horsfield, 1821)
+Heteropygia acuminata 
+Totanus acuminatus Horsfield, 1821
+Calidris alba (Pallas, 1764)
+Crocethia alba (Pallas, 1764)
+Tringa alba Pallas, 1764
+Calidris alpina (Linnaeus, 1758)
+Erolia alpina (Linnaeus, 1758)
+Pelidna alpina 
+Tringa alpina Linnaeus, 1758
+Calidris alpina alpina (Linnaeus, 1758)
+Calidris alpina arctica (Schioler, 1922)
+Calidris alpina schinzii (Brehm, 1822)
+Calidris bairdii (Coues, 1861)
+Actodromas bairdii Coues, 1861
+Erolia bairdii (Coues, 1861)
+Calidris canutus (Linnaeus, 1758)
+Tringa canutus Linnaeus, 1758
+Calidris canutus canutus (Linnaeus, 1758)
+Calidris canutus islandica (Linnaeus, 1767)
+Calidris canutus rufa (A. Wilson, 1813)
+Tringa rufa A. Wilson, 1813
+Calidris falcinellus (Pontoppidan, 1763)
+Limicola falcinellus (Pontoppidan, 1763)
+Scolpax falcinellus Pontoppidian, 1763
+Calidris ferruginea (Pontoppidan, 1763)
+Calidris testacea 
+Erolia ferruginea (Pontoppidan, 1763)
+Tringa ferrugineus Pontoppidan, 1763
+Calidris fuscicollis (Vieillot, 1819)
+Calidris fusicollis (Vieillot, 1819)
+Erolia fuscicollis (Vieillot, 1819)
+Tringa fuscicollis Vieillot, 1819
+Calidris himantopus (Bonaparte, 1826)
+Micropalama himantopus (Bonaparte, 1826)
+Tringa himantopus Bonaparte, 1826
+Calidris maritima (Brünnich, 1764)
+Erolia maritima (Brünnich, 1764)
+Pelidna maritima 
+Tringa maritima Brünnich, 1764
+Calidris mauri (Cabanis, 1857)
+Ereunetes mauri Cabanis, 1857
+Calidris melanotos (Vieillot, 1819)
+Erolia melanotos (Vieillot, 1819)
+Heteropygia melanotos (Vieillot, 1819)
+Tringa melanotos Vieillot, 1819
+Calidris minuta (Leisler, 1812)
+Erolia minuta Leisler
+Tringa minuta Leisler, 1812
+Calidris minutilla (Vieillot, 1819)
+Erolia minutilla (Vieillot, 1819)
+Tringa minutilla Vieillot, 1819
+Calidris pugnax (Linnaeus, 1758)
+Philomachus pugnax (Linnaeus, 1758)
+Tringa pugnax Linnaeus, 1758
+Calidris pusilla (Linnaeus, 1758)
+Ereunetes pusillus (Linnaeus, 1766)
+Tringa pusilla Linnaeus, 1766
+Calidris ruficollis (Pallas, 1776)
+Calidris subruficollis (Vieillot, 1819)
+Tringa subruficollis Vieillot, 1819
+Tryngites subruficollis (Vieillot, 1819)
+Calidris temminckii (Leisler, 1812)
+Erolia temminckii Leisler, 1812
+Tringa temminckii Leisler, 1812
+Calidris tenuirostris (Horsfield, 1821)
+Gallinago Brisson, 1760
+Gallinago delicata (Ord, 1825)
+Gallinago gallinago delicata (Ord, 1825)
+Scolopax delicata Ord, 1825
+Gallinago gallinago (Linnaeus, 1758)
+Capella galinago 
+Gallinago gallinago faeroeensi (Brehm, 1851)
+Gallinago gallinago gallinago (Linnaeus, 1758)
+Gallino gallino 
+Scolopax gallinago Linnaeus, 1758
+Gallinago media (Latham, 1787)
+Capella media (Latham, 1787)
+Scolopax media Latham, 1787
+Gallinago paraguaiae (Vieillot, 1816)
+Gallinago undulata (Boddaert, 1783)
+Heteroscelus Baird, 1858
+Heteroscelus brevipes (Vieillot, 1816)
+Totanus brevipes Vieillot, 1816
+Tringa brevipes (Vieillot, 1816)
+Heteroscelus incanus (Gmelin, 1789)
+Tringa incana (Gmelin, 1789)
+Limnodromus Wied-Neuwied, 1817
+Limnodromus griseus (Gmelin, 1789)
+Scolopax grisea Gmelin, 1789
+Limnodromus scolopaceus (Say, 1823)
+Limosa scolopacea Say, 1823
+Limosa Brisson, 1760
+Limosa fedoa (Linnaeus, 1758)
+Scolopax fedoa Linnaeus, 1758
+Limosa haemastica (Linnaeus, 1758)
+Limosa lapponica (Linnaeus, 1758)
+Limosa laponica (Linnaeus, 1758)
+Scolopax lapponica Linnaeus, 1758
+Limosa lapponica baueri J.F. Naumann, 1836
+Limosa limosa (Linnaeus, 1758)
+Scolopax limosa Linnaeus, 1758
+Limosa limosa islandica Brehm, 1831
+Limosa limosa limosa (Linnaeus, 1758)
+Lymnocryptes Boie, 1826
+Lymnocryptes minimus (Brünnich, 1764)
+Galinago minima 
+Scolopax minima Brünnich, 1764
+Numenius Brisson, 1760
+Numenius americanus Bechstein, 1812
+Numenius arquata (Linnaeus, 1758)
+Tringa arquata Linnaeus, 1758
+Numenius borealis (Forster, 1772)
+Numenius madagascariensis (Linnaeus, 1766)
+Numenius minutus Gould, 1841
+Numenius phaeopus (Linnaeus, 1758)
+Scolopax phaeopus Linnaeus, 1758
+Numenius phaeopus hudsonicus Latham, 1790
+Numenius phaeopus phaeopus (Linnaeus, 1758)
+Numenius phaeopus variegatus (Scopoli, 1786)
+Numenius tahitiensis (Gmelin, 1789)
+Numenius tenuirostris Vieillot, 1817
+Phalaropus Brisson, 1760
+Phalaropus fulicarius (Linnaeus, 1758)
+Phalaropus fulicaria Linnaeus, 1758
+Tringa fulicaria Linnaeus, 1758
+Phalaropus lobatus (Linnaeus, 1758)
+Lobipes lobatus Linnaeus, 1758
+Tringa lobata Latham, 1801
+Prosobonia Bonaparte, 1850
+Prosobonia cancellata (Gmelin, 1789)
+Aechmorhynchus cancellatus (Gmelin, 1789)
+Prosobonia ellisi Sharpe, 1906
+Prosobonia leucoptera (Gmelin, 1789)
+Prosobonia parvirostris (Peale, 1848)
+Scolopax Linnaeus, 1758
+Scolopax minor Gmelin, 1789
+Scolopax rusticola Linnaeus, 1758
+Scolopax scolopax 
+Steganopus Vieillot, 1819
+Steganopus tricolor Vieillot, 1819
+Phalaropus tricolor (Vieillot, 1819)
+Tringa Linnaeus, 1758
+Tringa erythropus (Pallas, 1764)
+Tringa flavipes (Gmelin, 1789)
+Scolopax flavipes Gmelin, 1789
+Tringa glareola Linnaeus, 1758
+Tringa melanoleuca (Gmelin, 1789)
+Scolopax melanoleuca Gmelin, 1789
+Tringa nebularia (Gunnerus, 1767)
+Scolopax nebularia Gunnerus, 1767
+Tringa ochropus Linnaeus, 1758
+Tringa semipalmata (Gmelin, 1789)
+Catoptrophorus semipalmatus (Gmelin, 1789)
+Scolopax semipalmata Gmelin, 1789
+Tringa semipalmata inornata (Brewster, 1887)
+Symphemia semipalmata inornata Brewster, 1887
+Tringa semipalmata semipalmata (Gmelin, 1789)
+Tringa solitaria Wilson, 1813
+Tringa solitaria cinnamomea (Brewster, 1890)
+Totanus solitarius cinnamomeus Brewster, 1890
+Tringa solitaria solitaria Wilson, 1813
+Tringa stagnatilis (Bechstein, 1803)
+Totanus stagnatilis Bechstein, 1803
+Tringa totanus (Linnaeus, 1758)
+Scolopax totanus Linnaeus, 1758
+Tringa totanus robusta (Schioler, 1919)
+Tringa totanus totanus (Linnaeus, 1758)
+Xenus Kaup, 1829
+Xenus cinereus (Güldenstädt, 1775)
+Scolopax cinerea Guldenstadt, 1775
+Terekia cinerea 
+Tringa cinerea (Güldenstâdt, 1775)
+Tringa cinerea (Güldenstädt, 1775)
+Tringa terek 
+Scolopacoidea 
+Stercorariidae 
+Stercorarioidea 
+Stercorarius Brisson, 1760
+Stercorarius antarcticus (Lesson, 1831)
+Catharacta antarctica (Lesson, 1831)
+Catharacta skua antarctica Mathews, 1912
+Lestris antarcticus Lesson, 1831
+Megalestris antarctica (Lesson, 1831)
+Stercorarius antarctica (Lesson, 1831)
+Stercorarius antarcticus lonnbergi Mathews, 1912
+Catharacta lonnbergi Mathews, 1912
+Stercorarius lonnbergi (Mathews, 1912)
+Stercorarius chilensis Bonaparte, 1857
+Stercorarius longicaudus Vieillot, 1819
+Stercorarius maccormicki Saunders, 1893
+Catharacta maccormicki (Saunders, 1893)
+Catharacta skua maccormicki (Saunders, 1893)
+Stercorarius parasiticus (Linnaeus, 1758)
+Larus parasiticus Linnaeus, 1758
+Stercorarius pomarinus (Temminck, 1815)
+Lestris pomarinus Temminck, 1815
+Stercorarius skua (Brünnich, 1764)
+Catharacta skua Brünnich, 1764
+Turnici 
+Turnicidae 
+Turnix 
+Turnix nigricollis (Gmelin, 1789)
+Tetrao nigricollis Gmelin, 1789
+Turnix varius (Latham, 1801)
+Turnix varia (Latham, 1801)
+Turnix varius novaecaledoniae Ogilvie-Grant, 1889
+Turnix novaecaledoniae Ogilvie-Grant, 1889
+Turnix varia novaecaledoniae Ogilvie-Grant, 1889
+Turnicoidea 
+Columbiformes 
+Columbi 
+Columbidae 
+Alectroenas 
+Alectroenas sganzini (Bonaparte, 1854)
+Alectroenas sganzini sganzini (Bonaparte, 1854)
+Alopecoenas Sharpe, 1899
+Alopecoenas erythropterus (Gmelin, 1789)
+Gallicolumba erythroptera erythroptera (Gmelin, 1789)
+Gallicolumba erythroptera pectoralis (Peale, 1843)
+Gallicolumba erythroptera (Gmelin, 1789)
+Alopecoenas rubescens (Vieillot, 1818)
+Gallicolumba rubescens (Vieillot, 1818)
+Alopecoenas stairi (Gray, 1856)
+Caloenas Gray, 1840
+Caloenas canacorum Balouet & Olson, 1989
+Chalcophaps Gould, 1843
+Chalcophaps indica (Linnaeus, 1758)
+Chalcophaps indica chrysochlora (Wagler, 1827)
+Chalcophaps indica sandwichensis Ramsay, 1878
+Claravis Oberholser, 1899
+Claravis pretiosa (Ferrari-Perez, 1886)
+Columba Linnaeus, 1758
+Columba livia Gmelin, 1789
+Columba livia lazaretensis Mourer-Chauviré, 1975
+Columba oenas Linnaeus, 1758
+Columba palumbus Linnaeus, 1758
+Columba pollenii Schlegel, 1865
+Columba vitiensis Quoy & Gaimard, 1830
+Columba vitiensis hypoenochroa (Gould, 1856)
+Columbina Spix, 1825
+Columbina minuta (Linnaeus, 1766)
+Columbina passerina (Linnaeus, 1758)
+Columba passerina Linnaeus, 1758
+Columbina passerina griseola Spix, 1825
+Columbina passerina nigrirostris (Danforth, 1935)
+Columbigallina passerina nigrirostris Danforth, 1935
+Columbina squammata (Lesson, 1831)
+Columbina talpacoti (Temminck, 1810)
+Drepanoptila Bonaparte, 1855
+Drepanoptila holosericea (Temminck, 1809)
+Ducula Hodgson, 1836
+Ducula aurorae (Peale, 1848)
+Carpophaga aurorae Peale, 1848
+Ducula pacifica aurorae (Peale, 1848)
+Ducula galeata (Bonaparte, 1855)
+Ducula goliath (Gray, 1859)
+Ducula pacifica (Gmelin, 1789)
+Ducula pacifica pacifica (Gmelin, 1789)
+Gallicolumba Heck, 1849
+Gallicolumba longitarsus Balouet & Olson, 1989
+Gallicolumba nui Steadman, 1992
+Gallicolumba stairi (G. R. Gray, 1856)
+Geopelia Swainson, 1837
+Geopelia striata (Linnaeus, 1766)
+Columba striata Linnaeus, 1766
+Geotrygon Gosse, 1847
+Geotrygon montana (Linnaeus, 1758)
+Geotrygon mystacea (Temminck, 1811)
+Columba mystacea Temminck, 1811
+Leptotila Swainson, 1837
+Leptotila rufaxilla (Richard & Bernard, 1792)
+Leptotila verreauxi Bonaparte, 1855
+Leptotila verreauxi brasiliensis (Bonaparte, 1856)
+Peristera brasiliensis Bonaparte, 1856
+Macropygia Swainson, 1837
+Macropygia arevarevauupa Steadman, 1992
+Macropygia heana Steadman, 1992
+Nesoenas Salvadori, 1893
+Nesoenas duboisi Rothschild, 1907
+Columba duboisi (Rothschild, 1907)
+Nesoenas picturatus Temminck, 1813
+Columba picturata Temminck, 1813
+Streptopelia picturata (Temminck, 1813)
+Nesoenas picturatus comorensis E. Newton, 1877
+Columba picturata comorensis E. Newton, 1877
+Streptopelia picturata comorensis E. Newton, 1877
+Patagioenas Reichenbach, 1852
+Patagioenas cayennensis (Bonnaterre, 1792)
+Columba cayennensis Bonnaterre, 1792
+Patagioenas leucocephala (Linnaeus, 1758)
+Columba leucocephala Linnaeus, 1758
+Patagioenas plumbea (Vieillot, 1818)
+Columba plumbea Vieillot, 1818
+Patagioenas plumbea delicata (Berlepsch & Stolzmann, 1902)
+Columba plumbea delicata Berlepsch & Stolzmann, 1902
+Patagioenas speciosa (Gmelin, 1789)
+Columba speciosa Gmelin, 1789
+Patagioenas squamosa (Bonnaterre, 1792)
+Columba squamosa Bonnaterre, 1792
+Patagioenas subvinacea (Lawrence, 1868)
+Chloroenas subvinacea Lawrence, 1868
+Columba subvinacea (Lawrence, 1868)
+Patagioenas subvinacea purpureotincta (Ridgway, 1888)
+Columba purpureotincta Ridgway, 1888
+Ptilinopus Swainson, 1825
+Ptilinopus chrysogaster Gray, 1853
+Ptilinopus purpuratus chrysogaster Gray, 1853
+Ptilinopus coralensis Peale, 1848
+Ptilinopus coralensis chalcurus (Gray, 1859)
+Ptilinopus chalcurus Gray, 1859
+Ptilinopus purpuratus chalcurus (Gray, 1859)
+Ptilinopus coralensis coralensis Peale, 1848
+Ptilinopus dupetithouarsii (Neboux, 1840)
+Ptilinopus dupetithouarsii dupetithouarsii (Neboux, 1840)
+Ptilinopus dupetithouarsii viridior Murphy, 1924
+Ptilinopus greyii Bonaparte, 1857
+Ptilinopus huttoni Finsch, 1874
+Ptilinopus mercierii (Des Murs & Prévost, 1849)
+Ptilinopus mercierii mercierii (Des Murs & Prévost, 1849)
+Ptilinopus mercierii tristrami Salvadori, 1892s
+Ptilinopus porphyraceus (Temminck, 1821)
+Ptilinopus purpuratus (Gmelin, 1789)
+Ptilinopus purpuratus frater Ripley & Birckhead, 1942
+Ptilinopus purpuratus purpuratus (Gmelin, 1789)
+Streptopelia Bonaparte, 1855
+Streptopelia capicola (Sundevall, 1857)
+Streptopelia chinensis (Scopoli, 1786)
+Stigmatopelia chinensis (Scopoli, 1786)
+Streptopelia chinensis tigrina (Temminck, 1810)
+Streptopelia decaocto (Frivaldszky, 1838)
+Columba decaocto Frivaldszky, 1838
+Streptopelia orientalis (Latham, 1790)
+Columba orientalis Latham, 1790
+Streptopelia roseogrisea (Sundevall, 1857)
+Columba roseogrisea Sundevall, 1857
+Streptopelia senegalensis (Linnaeus, 1766)
+Columba senegalensis Linnaeus, 1766
+Stigmatopelia senegalensis (L)
+Streptopelia turtur (Linnaeus, 1758)
+Columba turtur Linnaeus, 1758
+Turtur 
+Turtur tympanistria (Temminck, 1809)
+Zenaida Bonaparte, 1839
+Zenaida asiatica (Linnaeus, 1758)
+Columba asiatica Linnaeus, 1758
+Zenaida auriculata (Des Murs, 1847)
+Peristera auriculata Des Murs, 1847
+Zenaida aurita (Temminck, 1809)
+Zenaida aurita aurita (Temminck, 1809)
+Zenaida macroura (Linnaeus, 1758)
+Columboidea 
+Columbimorphae 
+Coraciiformes 
+Alcedinidae 
+Cerylidae 
+Ceryloidea 
+Dacelonidae 
+Dacelonoidea 
+Alcedo Linnaeus, 1758
+Alcedo atthis (Linnaeus, 1758)
+Alcedo atthis corsicana Laubmann, 1920
+Alcedo atthis ispida Linnaeus, 1758
+Gracula atthis Linnaeus, 1758
+Chloroceryle Kaup, 1848
+Chloroceryle aenea (Pallas, 1764)
+Chloroceryle amazona (Latham, 1790)
+Chloroceryle americana (Gmelin, 1788)
+Chloroceryle inda (Linnaeus, 1766)
+Corythornis Kaup, 1848
+Corythornis vintsioides (Eydoux & Gervais, 1836)
+Alcedo vintsioides Eydoux & Gervais, 1836
+Corythornis vintsioides johannae R. Meinertzhagen, 1924
+Alcedo vintsioides johannae (R. Meinertzhagen, 1924)
+Megaceryle Kaup, 1848
+Megaceryle alcyon (Linnaeus, 1758)
+Alcedo alcyon Linnaeus, 1758
+Ceryle alcyon (Linnaeus, 1758)
+Megaceryle torquata (Linnaeus, 1766)
+Ceryle torquata (Linnaeus, 1766)
+Megaceryle torquata stictipennis (Lawrence, 1885)
+Ceryle torquatus stictipennis 
+Todiramphus Lesson, 1827
+Todirhamphus Lesson, 1827
+Todiramphus chloris (Boddaert, 1783)
+Halcyon chloris (Boddaert, 1783)
+Todirhamphus chloris (Boddaert, 1783)
+Todiramphus chloris regina (Mayr, 1941)
+Halcyon chloris regina Mayr, 1941
+Todiramphus gambieri (Oustalet, 1895)
+Todirhamphus gambieri (Oustalet, 1895)
+Todiramphus gertrudae Murphy, 1924
+Todiramphus godeffroyi (Finsch, 1877)
+Halcyon godeffroyi Finsch, 1877
+Todirhamphus godeffroyi (Finsch, 1877)
+Todiramphus sanctus (Vigors & Horsfeld, 1827)
+Halcyon sancta Vigors & Horsfeld, 1827
+Todirhamphus sanctus (Vigors & Horsfield, 1826)
+Todiramphus sanctus canacorum (Brasil, 1916)
+Todirhamphus sanctus canacorum (Brasil, 1916)
+Todiramphus sanctus macmillani (Mayr, 1940)
+Todirhamphus sanctus macmillani (Mayr, 1940)
+Todiramphus tutus (Gmelin, 1788)
+Todirhamphus tuta (Gmelin, 1788)
+Todiramphus tutus tutus (Gmelin, 1788)
+Todiramphus veneratus (Gmelin, 1788)
+Todiramphus veneratus veneratus (Gmelin, 1788)
+Todirhamphus veneratus (Gmelin, 1788)
+Todiramphus youngi Sharpe, 1892
+Todiramphus veneratus youngi Sharpe, 1892
+Alcedinoidea 
+Alcedini 
+Coraciidae 
+Coracias 
+Coracias garrulus Linnaeus, 1758
+Eurystomus Vieillot, 1816
+Eurystomus glaucurus (Müller, 1776)
+Coracias glaucurus Müller, 1776
+Eurystomus glaucurus glaucurus (Müller, 1776)
+Eurystomus glaucurus migrans 
+Coracioidea 
+Coracii 
+Meropidae 
+Merops Linnaeus, 1758
+Merops apiaster Linnaeus, 1758
+Merops persicus Pallas, 1773
+Merops superciliosus Linnaeus, 1766
+Meropoidea 
+Meropi 
+Momotidae 
+Momotoidea 
+Momotus Brisson, 1760
+Momotus momota (Linnaeus, 1766)
+Coraciimorphae 
+Cuculiformes 
+Cuculimorphae 
+Cuculi 
+Cuculidae 
+Cacomantis Müller, 1842
+Cacomantis flabelliformis (Latham, 1801)
+Cacomantis flabelliformis pyrrhophanus (Vieillot, 1817)
+Chrysococcyx Boie, 1826
+Chrysococcyx lucidus (Gmelin, 1788)
+Chrysococcyx lucidus layardi Mathews, 1912
+Clamator 
+Clamator glandarius (Linnaeus, 1758)
+Cuuculus glandarius Linnaeus, 1758
+Coccycua Lesson, 1830
+Coccycua minuta (Vieillot, 1817)
+Coccyzus minutus Vieillot, 1817
+Piaya minuta (Vieillot, 1817)
+Coccyzus Vieillot, 1816
+Coccyzus americanus (Linnaeus, 1758)
+Cuculus americanus Linnaeus, 1758
+Coccyzus erythropthalmus (Wilson, 1811)
+Coccyzus erythrophtalmus (Wilson, 1811)
+Cuculus erythrophtalma Wilson, 1811
+Coccyzus euleri Cabanis,1873
+Coccyzus julieni Lawrence, 1864
+Coccyzus melacoryphus Vieillot, 1817
+Coccyzus minor (Gmelin, 1788)
+Cuculus minor Gmelin, 1788
+Crotophaga Linnaeus, 1758
+Crotophaga ani Linnaeus, 1758
+Crotophaga major Gmelin, 1788
+Cuculus Linnaeus, 1758
+Cuculus canorus Linnaeus, 1758
+Cuculus canorus canorus Linnaeus, 1758
+Cuculus canorus kleinschmidti Schiebel, 1910
+Cuculus poliocephalus Latham, 1790
+Cuculus rochii Hartlaub, 1863
+Cuculus solitarius Stephens, 1815
+Dromococcyx Wied, 1832
+Dromococcyx pavoninus Pelzeln, 1870
+Dromococcyx phasianellus (Spix, 1824)
+Piaya Lesson, 1830
+Piaya cayana (Linnaeus, 1766)
+Piaya melanogaster (Vieillot, 1817)
+Scythrops Latham, 1790
+Scythrops novaehollandiae Latham, 1790
+Tapera (Linnaeus, 1766)
+Tapera naevia (Linnaeus, 1766)
+Urodynamys Salvadori, 1880
+Urodynamys taitensis (Sparrman, 1787)
+Eudynamys taitensis (Sparrman, 1787)
+Urodynamis taitensis (Sparrman, 1787)
+Cuculoidea 
+Eurypygiformes 
+Eurypygidae 
+Eurypyga Illiger, 1811
+Eurypyga helias (Pallas, 1781)
+Rhynochetidae 
+Rhynochetos 
+Rhynochetos jubatus J. Verreaux & Des Murs, 1860
+Rhynochetos orarius Balouet & Olson, 1989
+Falconiformes 
+Falconi 
+Falconidae 
+Caracara Merrem, 1826
+Caracara cheriway (Jacquin, 1784)
+Caracara plancus (Miller, 1777)
+Daptrius Vieillot, 1816
+Daptrius ater Vieillot, 1816
+Falco Linnaeus, 1758
+Falco amurensis Radde, 1863
+Falco biarmicus Temminck, 1825
+Falco biarmicus feldeggi Schlegel, 1844
+Falco cenchroides Vigors & Horsfield, 1826
+Falco cherrug Gray, 1834
+Falco columbarius Linnaeus, 1758
+Falco columbarius aesalon Tunstall, 1771
+Falco concolor Temminck, 1825
+Falco deiroleucus Temminck, 1825
+Falco duboisi G.S. Cowles, 1994
+Falco eleonorae Géné, 1839
+Falco femoralis Temminck, 1822
+Falco femoralis femoralis Temminck, 1822
+Falco naumanni Fleischer, 1818
+Cerchneis naumanni 
+Falco peregrinus Tunstall, 1771
+Falco peregrinus brookei Sharpe, 1873
+Falco peregrinus anatum Bonaparte, 1838
+Falco peregrinus calidus Latham, 1790
+Falco peregrinus nesiotes Mayr, 1941
+Falco peregrinus pelegrinoides Temminck, 1829
+Falco pelegrinoides Temminck, 1829
+Falco peregrinus peregrinus Tunstall, 1771
+Falco peregrinus radama Hartlaub, 1861
+Falco peregrinus tundrius White, 1968
+Falco rufigularis Daudin, 1800
+Falco rusticolus Linnaeus, 1758
+Falco gyrfalco 
+Falco rusticolus candicans Gmelin, 1778
+Falco rusticolus islandus Brünnich, 1764
+Falco rusticolus rusticolus Linnaeus, 1758
+Falco sparverius Linnaeus, 1758
+Falco sparverius caribaearum Gmelin, 1788
+Falco subbuteo Linnaeus, 1758
+Falco tinnunculus Linnaeus, 1758
+Cerchneis tinnunculus 
+Falco vespertinus Linnaeus, 1766
+Herpetotheres Vieillot, 1817
+Herpetotheres cachinnans (Linnaeus, 1758)
+Ibycter Vieillot, 1816
+Ibycter americanus (Boddaert, 1783)
+Daptrius americanus (Boddaert, 1783)
+Falco americanus Boddaert, 1783
+Micrastur Gray, 1841
+Micrastur gilvicollis (Vieillot, 1817)
+Micrastur mirandollei (Schlegel, 1862)
+Micrastur ruficollis (Vieillot, 1817)
+Sparvius ruficollis Vieillot, 1817
+Micrastur ruficollis concentricus (Lesson, 1830)
+Nisus concentricus Lesson, 1830
+Micrastur semitorquatus (Vieillot, 1817)
+Milvago Spix, 1824
+Milvago chimachima (Vieillot, 1816)
+Polyborus chimachima Vieillot, 1816
+Milvago chimachima cordatus Bangs & Penard, 1918
+Falconoidea 
+Galliformes 
+Craciformes 
+Cracidae 
+Crax Linnaeus, 1758
+Crax alector Linnaeus, 1766
+Ortalis Merrem, 1786
+Ortalis motmot (Linnaeus, 1766)
+Penelope Merrem, 1786
+Penelope marail (Statius Müller, 1776)
+Pipile Bonaparte, 1856
+Pipile cumanensis (Jacquin, 1784)
+Aburria cumanensis (Jacquin, 1784)
+Aburria pipile auct.
+Crax cumanensis Jacquin, 1784
+Megapodiidae 
+Megapodius Gaimard, 1823
+Megapodius molistructor Balouet & Olson, 1989
+Numididae 
+Numida 
+Numida meleagris (Linnaeus, 1758)
+Phasianus meleagris Linnaeus, 1758
+Numidoidea 
+Odontophoridae 
+Callipepla 
+Callipepla californica (Shaw, 1798)
+Colinus Goldfuss, 1820
+Colinus cristatus (Linnaeus, 1766)
+Tetrao cristatus Linnaeus, 1766
+Colinus cristatus sonnini (Temminck, 1815)
+Perdix sonnini Temminck, 1815
+Colinus virginianus (Linnaeus, 1758)
+Odontophorus Vieillot, 1816
+Odontophorus gujanensis (Gmelin, 1789)
+Odontophoroidea 
+Phasiani 
+Phasianidae 
+Meleagrididae 
+Tetraonidae 
+Alectoris Kaup, 1829
+Alectoris barbara (Bonnaterre, 1790)
+Perdix barbara Bonaterre, 1790
+Alectoris chukar (J. E. Gray, 1830)
+Perdix chukar Gray, 1830
+Alectoris graeca (Meisner, 1804)
+Alectoris graeca saxatilis (Meyer, 1805)
+Perdix graeca Meisner, 1804
+Alectoris graeca mediterranea Mourer-Chauviré, 1975
+Alectoris rufa (Linnaeus, 1758)
+Caccabis rufa Linnaeus, 1758
+Tetrao rufus Linnaeus, 1758
+Bonasa Stephens, 1819
+Bonasia 
+Bonasa bonasia (Linnaeus, 1758)
+Bonasia bonasia (Linnaeus, 1758)
+Tetrao bonasia Linnaeus, 1758
+Tetrastes bonasia (Linnaeus, 1758)
+Bonasa umbellus (Linnaeus, 1766)
+Chrysolophus 
+Chrysolophus pictus (Linnaeus, 1758)
+Phasianus pictus Linnaeus, 1758
+Coturnix 
+Coturnix chinensis (Linnaeus, 1766)
+Coturnix coturnix (Linnaeus, 1758)
+Tetrao coturnix Linnaeus, 1758
+Coturnix coturnix africana Temminck & Schlegel, 1849
+Francolinus Stephens, 1819
+Francolinus francolinus (Linnaeus, 1766)
+Tetrao francolinus Linnaeus, 1766
+Francolinus pondicerianus (Gmelin, 1789)
+Gallus Brisson, 1760
+Gallus gallus (Linnaeus, 1758)
+Gallus gallus domesticus (Linnaeus, 1758)
+Phasianus gallus Linnaeus, 1758
+Lagopus Brisson, 1760
+Lagopus lagopus (Linnaeus, 1758)
+Lagopus scoticus (Latham, 1787)
+Tetrao lagopus Linnaeus, 1758
+Lagopus lagopus albus (Gmelin, 1789)
+Lagopus albus (Gmelin, 1789)
+Lagopus muta (Montin, 1776)
+Lagopus mutus (Montin, 1776)
+Tetrao mutus Montin, 1776
+Lagopus muta helvetica (Thienemann, 1829)
+Tetrao helveticus Thienemann, 1829
+Lagopus muta pyrenaica Hartert, 1921
+Lagopus mutus pyrenaicus Hartert, 1921
+Lyrurus Swainson, 1832
+Lyrurus tetrix (Linnaeus, 1758)
+Tetrao tetrix tetrix Linnaeus, 1758
+Tetrao tetrix Linnaeus, 1758
+Margaroperdix Reichenbach, 1853
+Margaroperdix madagarensis (Scopoli, 1786)
+Margaroperdix madagascarensis (Scopoli, 1786)
+Meleagris Linnaeus, 1758
+Meleagris gallopavo (Linnaeus, 1758)
+Pavo Linnaeus, 1758
+Pavo cristatus Linnaeus, 1758
+Perdicula Hodgson, 1837
+Perdicula asiatica (Latham, 1790)
+Perdix Brisson, 1760
+Perdix palaeoperdix Mourer-Chauviré, 1975
+Perdix perdix (Linnaeus, 1758)
+Tetrao perdix Linnaeus, 1758
+Perdix perdix hispaniensis Reichenow, 1892
+Perdix perdix perdix (Linnaeus, 1758)
+Perdix perdix armoricana Hatert, 1917
+Perdix perdix italica Hartert, 1917
+Phasianus Linnaeus, 1758
+Phasianus colchicus Linnaeus, 1758
+Syrmaticus Wagler, 1832
+Syrmaticus reevesii (J. E. Gray, 1829)
+Tetrao Linnaeus, 1758
+Tetrao urogallus Linnaeus, 1758
+Tetrao urogallus aquitanicus Ingram, 1915
+Tetrao urogallus urogallus Linnaeus, 1758
+Phasianoidea 
+Sylviornithidae Mourer-Chauviré & Balouet, 2005
+Sylviornis Poplin, 1980
+Sylviornis neocaledoniae Poplin, 1980
+Galloanserae 
+Gallomorphae 
+Gaviiformes 
+Gaviidae 
+Gavioidea 
+Gavia 
+Gavia adamsii (Gray, 1859)
+Colymbus adamsii Gray, 1859
+Gavia arctica (Linnaeus, 1758)
+Colymbus arcticus Linnaeus, 1758
+Gavia immer (Brünnich, 1764)
+Colymbus immer Brünnich, 1764
+Gavia stellata (Pontoppidan, 1763)
+Colymbus stellatus Pontoppidian, 1763
+Gavia septentrionalis 
+Gruiformes 
+Aramidae 
+Aramus Vieillot, 1816
+Aramus guarauna (Linnaeus, 1766)
+Grui 
+Gruidae 
+Anthropoides 
+Anthropoides virgo (Linnaeus, 1758)
+Ardea virgo Linnaeus, 1758
+Grus virgo (Linnaeus, 1758)
+Antigone Reichenbach, 1853
+Antigone canadensis (Linnaeus, 1758)
+Grus canadensis (Linnaeus, 1758)
+Grus 
+Grus grus (Linnaeus, 1758)
+Ardea grus Linnaeus, 1758
+Megalornis grus 
+Grus primigenia Milne-Edwards, 1869
+Gruoidea 
+Heliornithidae 
+Heliornis Bonnaterre, 1791
+Heliornis fulica (Boddaert, 1783)
+Psophiidae 
+Psophioidea 
+Psophia Linnaeus, 1758
+Psophia crepitans Linnaeus, 1758
+Ralli 
+Rallidae 
+Amaurolimnas Sharpe, 1893
+Amaurolimnas concolor (Gosse, 1847)
+Rallus concolor Gosse, 1847
+Amaurolimnas concolor castaneus (Pucheran, 1851)
+Aramides Pucheran, 1845
+Aramides axillaris Lawrence, 1863
+Aramides cajaneus (Statius Müller, 1776)
+Aramides cajanea (Statius Müller, 1776)
+Fulica cajanea Statius Müller, 1776
+Aramides mangle (Spix, 1825)
+Eulabeornis mangle (Spix, 1825)
+Gallinula mangle Spix, 1825
+Coturnicops Bonaparte, 1854
+Coturnicops noveboracensis (Gmelin, 1789)
+Crex Bechstein, 1803
+Crex crex (Linnaeus, 1758)
+Rallus crex Linnaeus, 1758
+Dryolimnas Sharpe, 1893
+Dryolimnas augusti Mourer-Chauviré, Bour, Ribes & Moutou, 1999
+Fulica Linnaeus, 1758
+Fulica americana Gmelin, 1789
+Fulica caribaea Ridgway, 1884
+Fulica atra Linnaeus, 1758
+Fulicula atra 
+Fulica cristata Gmelin, 1789
+Fulica newtoni Milne-Edwards, 1867
+Fulica newtonii Milne-Edwards, 1867
+Gallinula Brisson, 1760
+Gallinula angulata Sundevall, 1850
+Gallinula chloropus (Linnaeus, 1758)
+Fulica chloropus Linnaeus, 1758
+Gallinula ochropus 
+Gallinula chloropus pyrrhorrhoa Newton, 1861
+Gallinula galeata (Lichtenstein, 1818)
+Crex galeata Lichtenstein, 1818
+Gallinula chloropus galeata (Lichtenstein, 1818)
+Gallinula galeata cerceris Bangs, 1910
+Gallinula tenebrosa Gould, 1846
+Gallirallus Lafresnaye, 1841
+Gallirallus epulare Kirchman & Steadman, 2007
+Gallirallus gracilitibia Kirchman & Steadman, 2007
+Gallirallus lafresnayanus Verreaux & Des Murs, 1860
+Gallirallus pacificus (Gmelin, 1789)
+Gallirallus philippensis Linnaeus, 1766
+Gallirallus philippensis swindellsi (Mathews, 1911)
+Gallirallus philippensis tournelieri Schodde & Naurois, 1982
+Gallirallus roletti Kirchman & Steadman, 2007
+Gallirallus steadmani Worthy & Bollt, 2012
+Gallirallus storrsolsoni Kirchman & Steadman, 2007
+Hapalocrex Ridgway, 1920
+Hapalocrex flaviventer (Boddaert, 1783)
+Porzana flaviventer (Boddaert, 1783)
+Rallus flaviventer Boddaert, 1783
+Laterallus Gray, 1855
+Laterallus exilis (Temminck, 1831)
+Laterallus melanophaius (Vieillot, 1819)
+Micropygia Bonaparte, 1856
+Micropygia schomburgkii (Schomburgk, 1848)
+Mustelirallus Bonaparte, 1858
+Neocrex Sclater & Salvin, 1868
+Mustelirallus albicollis (Vieillot, 1819)
+Porzana albicollis (Vieillot, 1819)
+Rallus albicollis Vieillot, 1819
+Mustelirallus erythrops (Sclater, 1867)
+Neocrex erythrops (Sclater, 1867)
+Porzana erythrops Sclater, 1867
+Mustelirallus erythrops olivascens (Chubb, 1917)
+Neocrex erythrops olivascens Chubb, 1917
+Pardirallus Bonaparte, 1856
+Pardirallus maculatus (Boddaert, 1783)
+Porphyrio Brisson, 1760
+Porphyrio alleni Thomson, 1842
+Porphyrula alleni (Thomson)
+Porphyrula alleni (Thomson, 1842)
+Porphyrio coerulescens (Selys Longchamps, 1848)
+Porphyrio flavirostris (Gmelin, 1789)
+Fulica flavirostris Gmelin, 1789
+Porphyrula flavirostris (Gmelin, 1789)
+Porphyrio kukwiedei Balouet & Olson, 1989
+Porphyrio madagascariensis (Latham, 1801)
+Porphyrio martinicus (Linnaeus, 1766)
+Fulica martinica Linnaeus, 1766
+Porphyrio martinica (Linnaeus, 1766)
+Porphyrula martinica (Linnaeus, 1766)
+Porphyrio mcnabi Kirchman & Steadman, 2006
+Porphyrio paepae Steadman, 1988
+Porphyrio porphyrio (Linnaeus, 1758)
+Porphyrio porphyrio samoensis Peale, 1848
+Porzana Vieillot, 1816
+Porzana carolina (Linnaeus, 1758)
+Rallus carolinus Linnaeus, 1758
+Porzana cinerea (Vieillot, 1819)
+Porzana cinerea tannensis (J. R. Forster, 1844)
+Porzana nigra (Miller, 1784)
+Porzana porzana (Linnaeus, 1766)
+Rallus porzana Linnaeus, 1766
+Rallus Linnaeus, 1758
+Rallus aquaticus Linnaeus, 1758
+Rallus crepitans Gmelin, 1789
+Rallus elegans Audubon, 1834
+Rallus limicola Vieillot, 1819
+Rallus longirostris Boddaert, 1783
+Rufirallus Bonaparte, 1856
+Rufirallus viridis (Statius Müller, 1776)
+Anurolimnas viridis (Statius Müller, 1776)
+Laterallus viridis (Statius Müller, 1776)
+Rallus viridis Statius Müller, 1776
+Zapornia Bartlett, 1879
+Zapornia parva (Scopoli, 1769)
+Porzana parva (Scopoli, 1769)
+Rallus parvus Scopoli, 1769
+Zapornia pusilla (Pallas, 1776)
+Porzana pusilla intermedia (Hermann, 1804)
+Porzana pusilla (Pallas, 1776)
+Rallus pusillus Pallas, 1776
+Zapornia pusilla affinis (Gray, GR, 1845)
+Porzana palustris affinis ( J. E. Gray,1845)
+Porzana pusilla affinis (J. E. Gray,1845)
+Zapornia tabuensis (Gmelin, 1789)
+Porzana tabuensis (Gmelin, 1789)
+Zapornia tabuensis tabuensis (Gmelin, 1789)
+Porzana tabuensis tabuensis (Gmelin, 1789)
+Ralloidea 
+Leptosomatiformes 
+Leptosomatidae 
+Leptosomoidea 
+Leptosomus 
+Leptosomus discolor (Hermann, 1783)
+Cuculus discolor Hermann, 1783
+Leptosomus discolor discolor (Hermann, 1783)
+Opisthocomiformes 
+Opisthocomidae 
+Opisthocomoidea 
+Opisthocomus Illiger, 1811
+Opisthocomus hoazin (Statius Müller, 1776)
+Otidiformes 
+Otididae 
+Otidoidea 
+Chlamydotis Lesson, 1839
+Chlamydotis macqueenii (J. E. Gray, 1832)
+Chlamydotis undulata macqueenii (Gray, 1834)
+Otis Linnaeus, 1758
+Otis tarda Linnaeus, 1758
+Tetrax Leach, 1816
+Tetrax tetrax (Linnaeus, 1758)
+Otis tetrax Linnaeus, 1758
+Tetrax tetrax orientalis Hartet, 1916
+Tetrax tetrax tetrax (Linnaeus, 1758)
+Passerae 
+Passeriformes 
+Aegithalidae 
+Aegithalos 
+Aegithalos caudatus (Linnaeus, 1758)
+Aegithalos caudatus aremoricus Whistler, 1929
+Aegithalos caudatus caudatus (Linnaeus, 1758)
+Aegithalos caudatus europaeus (Hermann, 1804)
+Aegithalos caudatus italiae Jourdain, 1910
+Aegithalos caudatus taiti Ingram, 1913
+Aegithalos caudatus tyrrhenius Parrot, 1910
+Aegithaloidea 
+Alaudidae 
+Alauda Linnaeus, 1758
+Alauda arvensis Linnaeus, 1758
+Alauda arvensis arvensis Linnaeus, 1758
+Alauda arvensis cantarella Bonaparte, 1841
+Calandrella 
+Calandrella brachydactyla (Leisler, 1814)
+Calandrella cinerea (Gmelin, 1789)
+Calandrella rufescens (Vieillot, 1820)
+Calandrella pispoletta 
+Calandrella rufscens Vieillot, 1820
+Chersophilus 
+Chersophilus duponti (Vieillot, 1820)
+Alauda duponti Vieillot, 1820
+Eremophila 
+Eremophila alpestris (Linnaeus, 1758)
+Chionophilos alpestris 
+Eremophila alpestris alpestris (Linnaeus, 1758)
+Eremophila alpestris flana (Gmelin, 1789)
+Eremophila alpestris flava (Gmelin, 1788)
+Galerida 
+Galerida cristata (Linnaeus, 1758)
+Alauda cristata Linnaeus, 1758
+Galerida cristata cristata (Linnaeus, 1758)
+Galerida cristata plumata (P. L. S. Müller, 1776)
+Galerida theklae (C. L. Brehm, 1858)
+Alauda thaklae 
+Galerida theclae Brehm, 1858
+Lullula 
+Lullula arborea (Linnaeus, 1758)
+Alauda arborea L
+Lullula arborea arborea (Linnaeus, 1758)
+Lullula arborea pallida Zarudny, 1902
+Melanocorypha Boie, 1828
+Melanocorypha calandra (Linnaeus, 1766)
+Alaudoidea 
+Artamidae 
+Artamus 
+Artamus cyanopterus (Latham, 1801)
+Artamus leucorhynchus (Linnaeus, 1771)
+Artamus leucorhynchus melaleucus (Wagler, 1827)
+Artamus leucorhynchus melanoleucus 
+Bombycillidae 
+Bombycilla 
+Bombycilla cedrorum Vieillot, 1808
+Bombycilla garrulus (Linnaeus, 1758)
+Lanius garrulus Linnaeus, 1758
+Bombycilloidea 
+Calcariidae Ridgway, 1901
+Calcarius Bechstein, 1802
+Calcarius lapponicus (Linnaeus, 1758)
+Calcarius ornatus Townsend, 1837
+Plectrophenax Stejneger, 1882
+Plectrophenax nivalis (Linnaeus, 1758)
+Plectrophenax nivalis nivalis (Linnaeus, 1758)
+Plectrophenax nivalis subnivalis (Brehm, 1826)
+Campephagidae Vigors, 1825
+Coracina Vieillot, 1816
+Coracina analis (J. Verreaux & Des Murs, 1860)
+Coracina caledonica (Gmelin, 1788)
+Coracina caledonica caledonica (Gmelin, 1788)
+Coracina caledonica lifuensis (Tristram, 1879)
+Coracina newtoni (Pollen, 1866)
+Coracina novaehollandiae (Gmelin, 1789)
+Cardinalidae 
+Caryothraustes Reichenbach, 1850
+Caryothraustes canadensis (Linnaeus, 1766)
+Cyanocompsa Cabanis, 1861
+Cyanocompsa cyanoides (Lafresnaye, 1847)
+Coccoborus cyanoïdes Lafresnaye, 1847
+Cyanoloxia cyanoides (Lafresnaye, 1847)
+Cyanocompsa cyanoides rothschildii (Bartlett, 1890)
+Cyanoloxia rothschildii (Bartlett, 1890)
+Guiraca Rothschildii Bartlett, 1890
+Granatellus Du Bus de Gisignies, 1849
+Granatellus pelzelni Sclater, 1865
+Passerina Vieillot, 1816
+Passerina caerulea (Linnaeus, 1758)
+Guiraca caerulea (Linnaeus, 1758)
+Passerina cyanea (Linnaeus, 1766)
+Periporphyrus Reichenbach, 1850
+Periporphyrus erythromelas (Gmelin, 1789)
+Pheucticus Reichenbach, 1850
+Pheucticus ludovicianus (Linnaeus, 1766)
+Piranga Vieillot, 1807
+Piranga flava (Vieillot, 1822)
+Saltator Flavus Vieillot, 1822
+Piranga flava haemalea Salvin & Godman, 1883
+Piranga haemalea Salvin & Godman, 1883
+Piranga lutea haemalea Salvin & Godman, 1883
+Piranga olivacea (Gmelin, 1789)
+Piranga rubra (Linnaeus, 1758)
+Spiza Bonaparte, 1824
+Spiza americana (Gmelin, 1789)
+Certhiidae 
+Certhia 
+Certhia americana Bonaparte, 1838
+Certhia familiaris auct. non Linnaeus, 1758
+Certhia brachydactyla C.L. Brehm, 1820
+Certhia brachydactyla bureaui Jouard, 1929
+Certhia brachydactyla megarhyncha Brehm, 1831
+Certhia brachydactyla parisi Jouard, 1929
+Certhia familiaris Linnaeus, 1758
+Certhia familiaris corsa Hartert, 1905
+Certhia familiaris costa Bailly, 1847
+Certhia familiaris gerbei Jouard, 1930
+Certhia familiaris pyrenaica Ingram, 1913
+Certhia familiaris rhenana Kleinschmidt, 1900
+Certhioidea 
+Cinclidae 
+Cinclus 
+Cinclus cinclus (Linnaeus, 1758)
+Cinclus cinclus cinclus (Linnaeus, 1758)
+Cinclus cinclus meridionalis Brehm, 1856
+Cinclus cinclus pyrenaicus Dresser, 1892
+Cinclus cinclus sapsworthi Arrigoni, 1902
+Sturnus cinclus Linnaeus, 1758
+Cincloidea 
+Cisticolidae 
+Cisticola 
+Cisticola juncidis (Rafinesque, 1810)
+Cisticola juncidis cisticola (Temminck, 1820)
+Cisticola juncidis juncidis (Rafinesque, 1810)
+Sylvia juncidis Rafinesque, 1810
+Cisticoloidea 
+Conopophagidae 
+Conopophaga Vieillot, 1816
+Conopophaga aurita (Gmelin, 1789)
+Corvi 
+Corvidae 
+Dicruridae 
+Corvus Linnaeus, 1758
+Corvus albus Müller, 1776
+Corvus antecorax Mourer-Chauviré, 1975
+Corvus brachyrhynchos C. L. Brehm, 1822
+Corvus corax Linnaeus, 1758
+Corvus corax corax Linnaeus, 1758
+Corvus corax hispanus Harteret & Kleinschmidt, 1901
+Corvus corone Linnaeus, 1758
+Corvus corone cornix Linnaeus, 1758
+Corvus cornix Linnaeus, 1758
+Corvus corone corone Linnaeus, 1758
+Corvus corone sharpii Oates, 1889
+Corvus cornix sharpii Oates, 1889
+Corvus corone sardonius Kleinschmidt, 1903
+Corvus dauuricus Pallas, 1776
+Corvus frugilegus Linnaeus, 1758
+Corvus monedula Linnaeus, 1758
+Coelus monedula Linnaeus, 1758
+Coloeus monedula (L)
+Corvus monedula monedula Linnaeus, 1758
+Corvus monedula soemmeringii (Fischer, 1811)
+Corvus monedula spermologus (Vieillot, 1821)
+Corvus monedula turrium (Brehm, 1831)
+Corvus moneduloides Lesson, 1830
+Corvus pliocaenus Portis, 1888
+Corvus splendens Vieillot, 1817
+Cyanocitta 
+Cyanocitta cristata (Linnaeus, 1758)
+Cyanocorax F. Boie, 1826
+Cyanocorax cayanus (Linnaeus, 1766)
+Cyanopica 
+Cyanopica cyanus (Pallas, 1776)
+Cyanopica cyanea 
+Dicrurus 
+Dicrurus waldenii Schlegel, 1865
+Garrulus 
+Garrulus glandarius (Linnaeus, 1758)
+Garrulus glandarius corsicanus Laubman, 1912
+Garrulus glandarius glandarius (Linnaeus, 1758)
+Garrulus glandarius rufitergum Hartret, 1903
+Lalage Boie, 1826
+Lalage leucopyga (Gould, 1838)
+Lalage leucopyga montrosieri Verreaux, J. & Des Murs, 1860
+Lalage leucopyga simillima (Sarasin, 1913)
+Lalage maculosa (Peale, 1848)
+Lalage maculosa futunae Mayr & Ripley, 1941
+Nucifraga 
+Nucifraga caryocatactes (Linnaeus, 1758)
+Nucifraga caryocatactes caryocatactes (Linnaeus, 1758)
+Nucifraga caryocatactes macrorhynchus Brehm, 1823
+Pachycephala 
+Pachycephala caledonica (Gmelin, 1789)
+Pachycephala caledonica caledonica (Gmelin, 1789)
+Pachycephala caledonica littayei E. L. Layard, 1878
+Pachycephala pectoralis littayei E. L. Layard, 1878
+Pachycephala rufiventris (Latham, 1801)
+Pachycephala rufiventris xanthetraea (Forster, J. R., 1844)
+Perisoreus 
+Perisoreus canadensis (Linnaeus, 1766)
+Pica 
+Pica pica (Linnaeus, 1758)
+Pica pica galliae Kleinschmidt, 1917
+Pica pica melanotos Brehm, 1857
+Pica pica pica (Linnaeus, 1758)
+Pyrrhocorax 
+Pyrrhocorax graculus (Linnaeus, 1766)
+Coracia gracula 
+Pyrrhocorax pyrrhocorax (Linnaeus, 1758)
+Coracia pyrrhocorax (L)
+Pyrrhocorax pyrrhocorax erythroramphus (Vieillot, 1817)
+Pyrrhocorax pyrrhocorax pyrrhocorax (Linnaeus, 1758)
+Rhipidura 
+Rhipidura albiscapa Gould, 1840
+Rhipidura albiscapa bulgeri E. L. Layard, 1877
+Rhipidura verreauxi Marie, 1870
+Rhipidura verreauxi verreauxi Marie, 1870
+Rhipidura spilodera verreauxi Marié, 1870
+Corvoidea 
+Cotingidae Bonaparte, 1849
+Cotinga Brisson, 1760
+Cotinga cayana (Linnaeus, 1766)
+Cotinga cotinga (Linnaeus, 1766)
+Gymnoderus E. Geoffroy Saint-Hilaire, 1804
+Gymnoderus foetidus (Linnaeus, 1758)
+Haematoderus Bonaparte, 1854
+Haematoderus militaris (Shaw, 1792)
+Lipaugus F. Boie, 1828
+Lipaugus vociferans (Wied-Neuwied, 1820)
+Perissocephalus Oberholser, 1899
+Perissocephalus tricolor (Müller, 1766)
+Phoenicircus Swainson, 1832
+Phoenicircus carnifex (Linnaeus, 1758)
+Procnias Illiger, 1811
+Procnias albus (Hermann, 1783)
+Ampelis alba Hermann, 1783
+Procnias alba (Hermann, 1783)
+Querula Vieillot, 1816
+Querula purpurata (Statius Müller, 1776)
+Rupicola Brisson, 1760
+Rupicola rupicola (Linnaeus, 1766)
+Xipholena Gloger, 1842
+Xipholena punicea (Pallas, 1764)
+Donacobiidae Aleixo & Pacheco, 2006
+Donacobius Swainson, 1831
+Donacobius atricapilla (Linnaeus, 1766)
+Donacobius atricapillus (Linnaeus, 1766)
+Turdus atricapilla Linnaeus, 1766
+Emberizidae 
+Ammodramus Strickland, 1841
+Ammodramus humeralis (Bosc, 1792)
+Myospiza humeralis (Bosc, 1792)
+Tanagra humeralis Bosc, 1792
+Ammodramus savannarum (Gmelin, 1789)
+Amphispiza Coues, 1874
+Amphispiza bilineata (Cassin, 1850)
+Arremon Vieillot, 1816
+Arremon taciturnus (Hermann, 1783)
+Chondestes Swainson, 1827
+Chondestes grammacus (Say, 1823)
+Emberiza Linnaeus, 1758
+Emberiza aureola Pallas, 1773
+Emberiza bruniceps Brandt, 1841
+Emberiza caesia Cretzschmar, 1826
+Emberiza calandra Linnaeus, 1758
+Emberiza calandra calandra (Linnaeus, 1758)
+Emberiza calandra parroti (Görnitz, 1921)
+Miliaria calandra (Linnaeus, 1758)
+Emberiza chrysophrys Pallas, 1776
+Emberiza cia Linnaeus, 1766
+Emberiza cirlus Linnaeus, 1758
+Emberiza cirlus cirlus Linnaeus, 1766
+Emberiza cirlus nigrostriata Schiebel, 1910
+Emberiza citrinella Linnaeus, 1758
+Emberiza hortulana Linnaeus, 1758
+Emberiza leucocephalos S. G. Gmelin, 1771
+Emberiza leucocephala S. G. Gmelin, 1771
+Emberiza melanocephala Scopoli, 1769
+Euspiza melanocephala 
+Emberiza pusilla Pallas, 1776
+Emberiza rustica Pallas, 1776
+Emberiza rutila Pallas, 1776
+Schoeniclus rutilus (Pallas, 1776)
+Emberiza schoeniclus (Linnaeus, 1758)
+Emberiza schoeniclus schoeniclus (Linnaeus, 1758)
+Emberiza schoeniclus turonensi Steinbacher, 1930
+Emberiza schoeniclus witherbyi Jordans, 1923
+Emberiza spodocephala Pallas, 1776
+Schoeniclus spodocephala (Pallas, 1776)
+Junco Wagler, 1831
+Junco hyemalis (Linnaeus, 1758)
+Melospiza Baird, 1858
+Melospiza georgiana (Latham, 1790)
+Melospiza lincolnii (Audubon, 1834)
+Melospiza melodia (Wilson, 1810)
+Zonotrichia melodia (A. Wilson, 1810)
+Passerculus Bonaparte, 1838
+Passerculus sandwichensis (Gmelin, 1789)
+Passerella Swainson, 1837
+Passerella iliaca (Merrem, 1786)
+Zonotrichia iliaca (Merrem, 1786)
+Pipilo Vieillot, 1816
+Pipilo erythrophthalmus (Linnaeus, 1758)
+Pooecetes Baird, 1858
+Pooecetes gramineus (Gmelin, 1789)
+Spizella Bonaparte, 1832
+Spizella arborea (A. Wilson, 1810)
+Spizella passerina (Bechstein, 1798)
+Spizella pusilla (A. Wilson, 1810)
+Zonotrichia Swainson, 1832
+Zonotrichia albicollis (Gmelin, 1789)
+Zonotrichia capensis (Statius Müller, 1776)
+Zonotrichia leucophrys (Forster, 1772)
+Estrildidae 
+Amadina 
+Amadina fasciata (Gmelin, 1789)
+Amandava Blyth, 1836
+Amandava amandava (Linnaeus, 1758)
+Erythrura 
+Erythrura psittacea (Gmelin, 1789)
+Erythrura trichroa (Kittlitz, 1835)
+Erythrura trichroa cyanofrons E. L. Layard, 1878
+Erythrura trichroa cyaneifrons E. L. Layard, 1878
+Estrilda Swainson, 1827
+Estrilda astrild (Linnaeus, 1758)
+Loxia astrild Linnaeus, 1758
+Estrilda melpoda (Vieillot, 1817)
+Estrilda troglodytes (Lichtenstein, 1823)
+Euodice Reichenbach, 1863
+Euodice malabarica (Linnaeus, 1758)
+Lonchura malabarica (Linnaeus, 1758)
+Lonchura Sykes, 1832
+Lonchura castaneothorax (Gould, 1837)
+Lonchura cucullata (Swainson, 1837)
+Lonchura maja (Linnaeus, 1766)
+Lonchura malacca (Linnaeus, 1766)
+Lonchura punctulata (Linnaeus, 1758)
+Neochmia 
+Neochmia temporalis (Latham, 1802)
+Padda 
+Padda oryzivora (Linnaeus, 1758)
+Uraeginthus 
+Uraeginthus bengalus (Linnaeus, 1766)
+Uraeginthus ianthinogaster Reichenow, 1879
+Formicariidae 
+Formicarius Boddaert, 1783
+Formicarius analis (D'Orbigny & Lafresnaye, 1837)
+Formicarius colma Boddaert, 1785
+Formicarioidea 
+Fringillidae 
+Bucanetes Cabanis, 1851
+Bucanetes githagineus (Lichtenstein, 1823)
+Rhodopechys githaginea (Lichtenstein, 1823)
+Carduelis Brisson, 1760
+Carduelis cannabina (Linnaeus, 1758)
+Acanthis cannabina (Linnaeus, 1758)
+Carduelis carduelis (Linnaeus, 1758)
+Carduelis chloris (Linnaeus, 1758)
+Chloris chloris (Linnaeus, 1758)
+Carduelis citrinella (Pallas, 1764)
+Serinus citrinella (Pallas, 1764)
+Carduelis corsicana (Koenig, 1899)
+Carduelis citrinella corsicana (Koenig, 1899)
+Serinus citrinella corsicana (Koenig, 1899)
+Serinus corsicana 
+Serinus corsicanus (Koenig, 1899)
+Carduelis flammea (Linnaeus, 1758)
+Acanthis flammea (Linnaeus, 1758)
+Carduelis flammea cabaret (Müller, 1776)
+Carduelis flammea flammea (Linnaeus, 1758)
+Carduelis flavirostris (Linnaeus, 1758)
+Carduelis hornemanni (Holboell, 1843)
+Carduelis hornemannii (Holböll, 1843)
+Carduelis pinus (A. Wilson, 1810)
+Carduelis spinus (Linnaeus, 1758)
+Carduelis tristis (Linnaeus, 1758)
+Carpodacus 
+Carpodacus erythrinus (Pallas, 1770)
+Carpodacus purpureus (Gmelin, 1789)
+Coccothraustes Brisson, 1760
+Coccothraustes coccothraustes (Linnaeus, 1758)
+Coccothraustes coccothraustes coccothraustes (Linnaeus, 1758)
+Coccothraustes coccothraustes insularis Salvadori & Festa, 1914
+Euphonia Desmarest, 1806
+Euphonia cayennensis (Gmelin, 1789)
+Euphonia chlorotica (Linnaeus, 1766)
+Euphonia chrysopasta Sclater & Salvin, 1869
+Euphonia chrysopasta nitida (Penard, 1923)
+Tanagra chrysopasta nitida Penard, 1923
+Euphonia cyanocephala (Vieillot, 1818)
+Euphonia finschi Sclater & Salvin, 1877
+Euphonia minuta Cabanis, 1849
+Euphonia musica (Gmelin, 1789)
+Euphonia plumbea De Bus de Gisignies, 1855
+Euphonia violacea (Linnaeus, 1758)
+Fringilla Linnaeus, 1758
+Fringilla coelebs Linnaeus, 1758
+Fringilla coelebs coelebs Linnaeus, 1758
+Fringilla coelebs tyrrhenica Schiebel, 1910
+Fringilla montifringilla Linnaeus, 1758
+Hesperiphona Bonaparte, 1850
+Hesperiphona vespertina (W. Cooper, 1825)
+Coccothraustes vespertinus (Cooper, 1825)
+Loxia 
+Loxia curvirostra Linnaeus, 1758
+Loxia curvirostra corsicana Tschusi, 1912
+Loxia curvirostra curvirostra Linnaeus, 1758
+Loxia leucoptera Gmelin, 1789
+Loxia leucoptera bifasciata (Brehm, 1827)
+Loxia pytyopsittacus Borkhausen, 1793
+Pinicola 
+Pinicola enucleator (Linnaeus, 1758)
+Pyrrhula 
+Pyrrhula pyrrhula (Linnaeus, 1758)
+Loxia pyrrhula Linnaeus, 1758
+Pyrrhula pyrrhula coccinea (Gmelin, 1789)
+Pyrrhula pyrrhula europaea Vieillot, 1816
+Pyrrhula pyrrhula pyrrhula (Linnaeus, 1758)
+Serinus 
+Serinus canicollis (Swainson, 1837)
+Serinus mozambicus (P. L. S. Müller, 1776)
+Serinus serinus (Linnaeus, 1766)
+Carduelis serinus 
+Fringilloidea 
+Furnariidae 
+Anabacerthia Lafresnaye, 1841
+Anabacerthia ruficaudata (D'Orbigny & Lafresnaye, 1838)
+Anabates ruficaudatus D'Orbigny & Lafresnaye, 1838
+Philydor ruficaudatum (D'Orbigny & Lafresnaye, 1838)
+Philydor ruficaudatus (D'Orbigny & Lafresnaye, 1838)
+Anabacerthia ruficaudata flavipectus Phelps & Gilliard, 1941
+Anabacerthia ruficaudata ruficaudata (D'Orbigny & Lafresnaye, 1838)
+Automolus Reichenbach, 1853
+Automolus infuscatus (Sclater, 1856)
+Anabates infuscatus Sclater, 1856
+Automolus infuscatus cervicalis (Sclater, 1889)
+Philydor cervicalis Sclater, 1889
+Automolus ochrolaemus (Tschudi, 1844)
+Anabates ochrolaemus Tschudi, 1844
+Automolus ochrolaemus turdinus (Pelzeln, 1859)
+Anabates turdinus Pelzeln, 1859
+Automolus rufipileatus (Pelzeln, 1850)
+Anabates rufipileatus Pelzeln, 1859
+Automolus rufipileatus consobrinus (Sclater, 1870)
+Philydor consobrinus Sclater, 1870
+Berlepschia Ridgway, 1887
+Berlepschia rikeri (Ridgway, 1886)
+Campylorhamphus Bertoni, 1901
+Campylorhamphus procurvoides (Lafresnaye, 1850)
+Certhiasomus Derryberry, Claramunt, Chesser, Aleixo, Cracraft, Moyle & Brumfield, 2010
+Certhiasomus stictolaemus (Pelzeln, 1868)
+Deconychura stictolaema (Pelzeln, 1868)
+Sittasomus stictolaemus Pelzeln, 1868
+Certhiasomus stictolaemus clarior (Zimmer, 1929)
+Deconychura stictolaema clarior Zimmer, 1929
+Certhiaxis Lesson, 1847
+Certhiaxis cinnamomeus (Gmelin, 1788)
+Certhia cinnamomea Gmelin, 1788
+Certhiaxis cinnamomea (Gmelin, 1788)
+Clibanornis Sclater & Salvin, 1873
+Clibanornis rubiginosus (Sclater, 1857)
+Anabates rubiginosus Sclater, 1857
+Automolus rubiginosus (Sclater, 1857)
+Clibanornis rubiginosus obscurus (Pelzeln, 1859)
+Anabates obscurus Pelzeln, 1859
+Cranioleuca 
+Cranioleuca gutturata (D'Orbigny & Lafresnaye, 1838)
+Anabates gutturatus D'Orbigny & Lafresnaye, 1838
+Certhiaxis gutturata (D'Orbigny & Lafresnaye, 1838)
+Deconychura 
+Deconychura longicauda (Pelzeln, 1868)
+Dendrexetastes Eyton, 1851
+Dendrexetastes rufigula (Lesson, 1844)
+Dendrocincla Gray, 1840
+Dendrocincla fuliginosa (Vieillot, 1818)
+Dendrocincla merula (Lichtenstein, 1820)
+Dendrocolaptes Hermann, 1800
+Dendrocolaptes certhia (Boddaert, 1783)
+Dendrocolaptes picumnus (Lichtenstein, 1820)
+Dendroplex Swainson, 1827
+Dendroplex picus (Gmelin, 1788)
+Oriolus Picus Gmelin, 1788
+Xiphorhynchus picus (Gmelin, 1788)
+Glyphorynchus Wied-Neuwied, 1831
+Glyphorynchus spirurus (Vieillot, 1819)
+Hylexetastes Sclater, 1890
+Hylexetastes perrotii (Lafresnaye, 1844)
+Lepidocolaptes Reichenbach, 1853
+Lepidocolaptes albolineatus (Lafresnaye, 1846)
+Microxenops Chapman, 1914
+Microxenops milleri Chapman, 1914
+Xenops milleri (Chapman, 1914)
+Nasica Lesson, 1830
+Nasica longirostris (Vieillot, 1818)
+Philydor Spix, 1824
+Philydor erythrocercum (Pelzeln, 1859)
+Anabates erythrocercus Pelzeln, 1859
+Philydor erythrocercus (Pelzeln, 1859)
+Philydor pyrrhodes (Cabanis, 1848)
+Sclerurus Swainson, 1827
+Sclerurus caudacutus (Vieillot, 1816)
+Sclerurus mexicanus Sclater, 1857
+Sclerurus mexicanus macconnelli Chubb, 1919
+Sclerurus rufigularis Pelzeln, 1868
+Sclerurus rufigularis fulvigularis Todd, 1920
+Sittasomus Swainson, 1827
+Sittasomus griseicapillus (Vieillot, 1818)
+Synallaxis Vieillot, 1819
+Synallaxis albescens Temminck, 1823
+Synallaxis albescens inaequalis Zimmer, 1935
+Synallaxis gujanensis (Gmelin, 1789)
+Synallaxis macconnelli Chubb, 1919
+Synallaxis macconnelli obscurior Todd, 1948
+Synallaxis propinqua Pelzeln, 1854
+Synallaxis rutilans Temminck, 1823
+Xenops Illiger, 1811
+Xenops minutus (Sparrman, 1788)
+Turdus minutus Sparrman, 1788
+Xenops minutus ruficaudus (Vieillot, 1816)
+Neops ruficaudus Vieillot, 1816
+Xenops rutilans Temminck, 1821
+Xenops tenuirostris Pelzeln, 1859
+Xenops tenuirostris hellmayri Todd, 1925
+Xiphocolaptes Lesson, 1840
+Xiphocolaptes promeropirhynchus (Lesson, 1840)
+Xiphorhynchus Agassiz, 1829
+Xiphorhynchus guttatus (Lichtenstein, 1820)
+Xiphorhynchus obsoletus (Lichtenstein, 1820)
+Xiphorhynchus pardalotus (Vieillot, 1818)
+Furnarioidea 
+Grallariidae Vieillot, 1816
+Grallaria Vieillot, 1816
+Grallaria varia (Boddaert, 1783)
+Hylopezus Ridgway, 1904
+Hylopezus macularius (Temminck, 1823)
+Myrmothera Vieillot, 1816
+Myrmothera campanisona (Hermann, 1783)
+Myrmornim campanisona Hermann, 1783
+Hirundinidae 
+Atticora F. Boie, 1844
+Neochelidon Sclater, 1862
+Atticora fasciata (Gmelin, 1789)
+Atticora tibialis (Cassin, 1853)
+Neochelidon tibialis (Cassin, 1853)
+Petrochelidon tibialis Cassin, 1853
+Atticora tibialis griseiventris Chapman, 1924
+Cecropis 
+Cecropis abyssinica (Guérin-Méneville, 1843)
+Hirundo abyssinica Guerin-Meneville, 1843
+Cecropis daurica (Laxmann, 1769)
+Hirundo daurica Linnaeus, 1771
+Delichon Horsfield & Moore, 1854
+Delichon urbicum (Linnaeus, 1758)
+Delichon urbica (Linnaeus, 1758)
+Hirundo urbica Linnaeus, 1758
+Hirundo D'Orbigny & Lafresnaye, 1838
+Hirundo neoxena Gould, 1843
+Hirundo rustica Linnaeus, 1758
+Chelidon rustica (Linnaeus, 1758)
+Hirundo rustica erythrogaster Boddaert, 1783
+Hirundo tahitica Gmelin, 1789
+Hirundo tahitica subfusca Gould, 1856
+Hirundo tahitica tahitica Gmelin, 1789
+Petrochelidon Cabanis, [1851]
+Petrochelidon fulva (Vieillot, 1807)
+Petrochelidon nigricans (Vieillot, 1817)
+Hirundo nigricans Vieillot, 1817
+Petrochelidon pyrrhonota (Vieillot, 1817)
+Hirundo pyrrhonota Vieillot, 1817
+Phedina Bonaparte, 1855
+Phedina borbonica (J. F. Gmelin, 1789)
+Phedina borbonica borbonica (J. F. Gmelin, 1789)
+Progne F. Boie, 1826
+Progne chalybea (Gmelin, 1789)
+Hirundo chalybea Gmelin, 1789
+Progne chalybea chalybea (Gmelin, 1789)
+Progne chalybea macrorhamphus Brooke, 1974
+Progne dominicensis (Gmelin, 1789)
+Hirundo dominicensis Gmelin, 1789
+Progne elegans Baird, 1865
+Progne subis (Linnaeus, 1758)
+Progne tapera (Linnaeus, 1766)
+Hirundo Tapera Linnaeus, 1766
+Phaeoprogne tapera (Linnaeus, 1766)
+Progne tapera fusca (Vieillot, 1817)
+Hirundo fusca Vieillot, 1817
+Progne tapera tapera (Linnaeus, 1766)
+Ptyonoprogne 
+Ptyonoprogne rupestris (Scopoli, 1769)
+Hirundo rupestris Scopoli, 1769
+Pygochelidon Baird, 1865
+Pygochelidon cyanoleuca (Vieillot, 1817)
+Hirundo cyanoleuca Vieillot, 1817
+Notiochelidon cyanoleuca (Vieillot, 1817)
+Pygochelidon melanoleuca (Wied-Neuwied, 1820)
+Atticora melanoleuca (Wied-Neuwied, 1820)
+Hirundo melanoleuca Wied-Neuwied, 1820
+Riparia T. Forster, 1817
+Riparia paludicola (Vieillot, 1817)
+Riparia riparia (Linnaeus, 1758)
+Hirundo riparia Linnaeus, 1758
+Stelgidopteryx Baird, 1858
+Stelgidopteryx ruficollis (Vieillot, 1817)
+Stelgidopteryx serripennis (Audubon, 1838)
+Tachycineta Cabanis, 1851
+Tachycineta albiventer (Boddaert, 1785)
+Tachycineta bicolor (Vieillot, 1807)
+Hirundinoidea 
+Icteridae Vigors, 1825
+Agelaius Vieillot, 1816
+Agelaius phoeniceus (Linnaeus, 1766)
+Agelasticus Cabanis, 1851
+Agelasticus cyanopus (Vieillot, 1819)
+Agelaius cyanopus Vieillot, 1819
+Chrysomus cyanopus (Vieillot, 1819)
+Cacicus Lacépède, 1799
+Cacicus cela (Linnaeus, 1758)
+Cacicus haemorrhous (Linnaeus, 1766)
+Chrysomus Swainson, 1837
+Chrysomus icterocephalus (Linnaeus, 1766)
+Agelaius icterocephalus (Linnaeus, 1766)
+Chrysomus ruficapillus (Vieillot, 1819)
+Agelaius ruficapillus Vieillot, 1819
+Dolichonyx Swainson, 1827
+Dolichonyx oryzivorus (Linnaeus, 1758)
+Euphagus Cassin, 1867
+Euphagus carolinus (P. L. S. Müller, 1776)
+Gymnomystax Reichenbach, 1850
+Gymnomystax mexicanus (Linnaeus, 1766)
+Icteria Vieillot, 1808
+Icteria virens (Linnaeus, 1758)
+Icterus Brisson, 1760
+Icterus bonana (Linnaeus, 1766)
+Icterus cayanensis (Linnaeus, 1766)
+Oriolus cayanensis Linnaeus, 1766
+Icterus cayanensis cayanensis (Linnaeus, 1766)
+Icterus cayanensis chrysocephalus (Linnaeus, 1766)
+Icterus chrysocephalus (Linnaeus, 1766)
+Oriolus chrysocephalus Linnaeus, 1766
+Icterus galbula (Linnaeus, 1758)
+Icterus nigrogularis (Hahn, 1819)
+Icterus spurius (Linnaeus, 1766)
+Molothrus Swainson, 1832
+Molothrus ater (Boddaert, 1783)
+Molothrus bonariensis (Gmelin, 1789)
+Tanagra bonariensis Gmelin, 1789
+Molothrus bonariensis minimus Dalmas, 1900
+Molothrus oryzivorus (Gmelin, 1788)
+Oriolus oryzivorus Gmelin, 1788
+Scaphidura oryzivora (Gmelin, 1788)
+Psarocolius Wagler, 1827
+Psarocolius decumanus (Pallas, 1769)
+Psarocolius viridis (Statius Müller, 1776)
+Quiscalus Vieillot, 1816
+Quiscalus lugubris Swainson, 1838
+Quiscalus lugubris guadeloupensis Lawrence, 1879
+Quiscalus guadeloupensis Lawrence, 1879
+Quiscalus lugubris lugubris Swainson, 1838
+Quiscalus quiscula (Linnaeus, 1758)
+Sturnella Vieillot, 1816
+Sturnella magna (Linnaeus, 1758)
+Sturnella militaris (Linnaeus, 1771)
+Leistes militaris (Linnaeus, 1771)
+Sturnus militaris Linnaeus, 1771
+Xanthocephalus Bonaparte, 1850
+Xanthocephalus xanthocephalus (Bonaparte, 1826)
+Laniidae 
+Lanius 
+Lanius collurio Linnaeus, 1758
+Lanius collurio collurio Linnaeus, 1758
+Lanius cristatus Linnaeus, 1758
+Lanius excubitor Linnaeus, 1758
+Lamira excubitor 
+Lanius excubitor excubitor Linnaeus, 1758
+Lanius excubitor galliae Kleinschmidt, 1917
+Lanius excubitor homereyi Cabanis, 1873
+Lanius isabellinus Hemprich & Ehrenberg, 1833
+Lanius collurio isabellinus Hemprich & Ehrenberg, 1833
+Lanius meridionalis Temminck, 1820
+Lanius excubitor meridionalis Temminck, 1820
+Lanius minor Gmelin, 1788
+Lanius nubicus Lichtenstein, 1823
+Lanius phoenicuroides (Schalow, 1875)
+Lanius senator Linnaeus, 1758
+Lanius senator badius Hartlaub, 1854
+Lanius senator senator Linnaeus, 1758
+Lanioidea 
+Leiothrichidae Swainson, 1831
+Leiothrix Swainson, 1832
+Leiothrix lutea (Scopoli, 1786)
+Meliphagidae 
+Foulehaio 
+Foulehaio carunculata (Gmelin, 1788)
+Foulehaio carunculatus (Gmelin, 1788)
+Glycifohia 
+Glycifohia undulata (Sparrman, 1787)
+Phylidonyris undulata (Sparrman, 1787)
+Phylidonyris undulatus (Sparrman, 1787)
+Gymnomyza 
+Gymnomyza aubryana (J. Verreaux & Des Murs, 1860)
+Lichmera 
+Lichmera incana (Latham, 1790)
+Lichmera incana incana (Latham, 1790)
+Myzomela 
+Myzomela caledonica W.A. Forbes, 1879
+Myzomela cardinalis (Gmelin, 1788)
+Myzomela cardinalis lifuensis E. L. Layard & E. L. C. Layard, 1878
+Philemon 
+Philemon diemenensis (Lesson, 1831)
+Meliphagoidea 
+Mimidae Bonaparte, 1853
+Allenia Cory, 1891
+Allenia fusca (Statius Müller, 1776)
+Margarops fuscus (P. L. S. Müller, 1776)
+Muscicapa fusca Statius Müller, 1776
+Cinclocerthia 
+Cinclocerthia gutturalis (Lafresnaye, 1843)
+Cinclocerthia ruficauda (Gould, 1836)
+Dumetella 
+Dumetella carolinensis (Linnaeus, 1766)
+Musicapa caroliniensis Linnaeus, 1766
+Margarops Sclater, 1859
+Margarops fuscatus (Vieillot, 1808)
+Turdus fuscatus Vieillot, 1808
+Mimus F. Boie, 1826
+Mimus gilvus (Vieillot, 1808)
+Mimus polyglottos (Linnaeus, 1758)
+Ramphocinclus 
+Ramphocinclus brachyurus (Vieillot, 1818)
+Toxostoma 
+Toxostoma rufum (Linnaeus, 1758)
+Monarchidae 
+Clytorhynchus 
+Clytorhynchus pachycephaloides Elliot, 1870
+Clytorhynchus pachycephaloides pachycephaloides Elliot, 1870
+Clytorhynchus vitiensis (Hartlaub, 1866)
+Clytorhynchus vitiensis fortunae (E.L. Layard, 1876)
+Myiagra 
+Myiagra caledonica Bonaparte, 1857
+Myiagra caledonica caledonica Bonaparte, 1857
+Myiagra caledonica melanura G. R. Gray, 1860
+Myiagra caledonica viridinitens G. R. Gray, 1859
+Pomarea Bonaparte, 1854
+Pomarea fluxa Murphy & Mathews, 1928
+Pomarea iphis fluxa Murphy & Mathews, 1928
+Pomarea iphis Murphy & Mathews, 1928
+Pomarea iphis iphis Murphy & Mathews, 1928
+Pomarea mendozae (Hartlaub, 1854)
+Pomarea mendozae mendozae (Hartlaub, 1854)
+Pomarea mendozae motanensis Murphy & Mathews, 1928
+Pomarea mira Murphy & Mathews, 1928
+Pomarea mendozae mira Murphy & Mathews, 1928
+Pomarea nigra (Sparrman, 1786)
+Pomarea nukuhivae Murphy & Mathews, 1928
+Pomarea mendozae nukuhivae Murphy & Mathews, 1928
+Pomarea pomarea (Lesson, 1828)
+Pomarea whitneyi Murphy & Mathews, 1928
+Terpsiphone Gloger, 1827
+Terpsiphone bourbonnensis (P. L. S. Müller, 1776)
+Muscicapa bourbonnensis P. L. S. Müller, 1776
+Terpsiphone bourbonnensis bourbonnensis (P. L. S. Müller, 1776)
+Terpsiphone mutata (Linnaeus, 1766)
+Terpsiphone mutata pretiosa (Lesson, 1847)
+Motacillidae 
+Anthus Bechstein, 1805
+Anthus campestris (Linnaeus, 1758)
+Alauda campestris Linnaeus, 1758
+Anthus cervinus (Pallas, 1811)
+Anthus rufogularis Brehm
+Motacilla cervina Pallas, 1811
+Anthus godlewskii (Taczanowski, 1876)
+Anthus gustavi Swinhoe, 1863
+Anthus hodgsoni Richmond, 1907
+Anthus lutescens Pucheran, 1855
+Anthus petrosus (Montagu, 1798)
+Anthus petrosus littoralis Brehm, 1823
+Anthus petrosus petrosus (Montagu, 1798)
+Anthus spinoletta petrosus (Montagu, 1798)
+Anthus pratensis (Linnaeus, 1758)
+Alauda pratensis Linnaeus, 1758
+Anthus richardi Vieillot, 1818
+Alauda novaeseelandiae Gmelin, 1789
+Anthus novaeseelandiae (Gmelin, 1789) auct.
+Anthus rubescens (Tunstall, 1771)
+Anthus spinoletta (Linnaeus, 1758)
+Alauda spinoletta Linnaeus, 1758
+Anthus spinoletta spinoletta (Linnaeus, 1758)
+Anthus trivialis (Linnaeus, 1758)
+Alauda trivialis Linnaeus, 1758
+Motacilla Linnaeus, 1758
+Motacilla alba Linnaeus, 1758
+Motacilla yarelli 
+Motacilla alba alba Linnaeus, 1758
+Motacilla alba subpersonata Meade-Waldo, 1901
+Motacilla alba yarrellii Gould, 1837
+Motacilla cinerea Tunstall, 1771
+Motacilla caspica grisea 
+Motacilla caspica 
+Motacilla cinerea cinerea Tunstall, 1771
+Motacilla citreola Pallas, 1776
+Budytes citreolus (Pallas)
+Motacilla flava Linnaeus, 1758
+Budytes flavus (Linnaeus, 1758)
+Motacilla flava feldegg Michaelis, 1830
+Motacilla flava rayi (Bonaparte, 1858)
+Motacilla flavissima 
+Motacilla flava beema (Sykes, 1832)
+Motacilla flava cinereocapilla Savi, 1831
+Motacilla flava flava Linnaeus, 1758
+Motacilla flava flavissima (Blyth, 1834)
+Motacilla flava iberiae Hartert, 1921
+Motacilla flava thunbergi Billeberg, 1829
+Motacilla lugens Gloger, 1829
+Muscicapidae Fleming, 1822
+Muscicapinae 
+Ficedula Brisson, 1760
+Ficedula albicollis (Temminck, 1815)
+Muscicapa albicollis Temminck, 1815
+Ficedula hypoleuca (Pallas, 1764)
+Muscicapa hypoleuca 
+Ficedula parva (Bechstein, 1794)
+Muscicapa parva Bechstein, 1792
+Ficedula semitorquata (Homeyer, 1885)
+Muscicapa Brisson, 1760
+Muscicapa striata (Pallas, 1764)
+Motacilla striata Pallas, 1764
+Muscicapa striata striata (Pallas, 1764)
+Muscicapa striata tyrrhenica Schiebel, 1910
+Oenanthe Vieillot, 1816
+Oenanthe deserti (Temminck, 1825)
+Oenanthe desertii (Temmnick, 1825)
+Saxicola deserti Temminck, 1825
+Oenanthe hispanica (Linnaeus, 1758)
+Motacilla hispanica Linnaeus, 1758
+Oenanthe isabellina (Temminck, 1829)
+Oenanthe leucopyga (C.L. Brehm, 1855)
+Vitiflora leucopyga C.L. Brehm, 1855
+Oenanthe leucura (Gmelin, 1789)
+Turdus leucurus Gmelin, 1789
+Oenanthe oenanthe (Linnaeus, 1758)
+Motacilla oeanthe Linnaeus, 1758
+Oenanthe oenanthe schiöleri Salomonsen, 1927
+Oenanthe oenanthe leucorhoa (Gmelin, 1789)
+Oenanthe oenanthe oenanthe (Linnaeus, 1758)
+Oenanthe pleschanka (Lepechin, 1770)
+Motacilla pleschanka Lepechin, 1770
+Oenanthe leucomela Pallas
+Oenanthe xanthoprymna (Hemprich & Ehrenberg, 1833)
+Saxicola xanthoprymna Hemprich & Ehrenberg, 1833
+Muscicapoidea 
+Nectariniidae 
+Nectarinia 
+Nectarinia coquerellii Hartlaub, 1860
+Oriolidae 
+Oriolus Linnaeus, 1766
+Oriolus oriolus (Linnaeus, 1758)
+Oxyruncidae 
+Oxyruncus Temminck, 1822
+Oxyruncus cristatus (Swainson, 1821)
+Oxyruncus cristatus hypoglaucus (Salvin & Godman, 1883)
+Oxyrhamphus hypoglaucus Salvin & Godman, 1883
+Pardalotidae 
+Gerygone 
+Gerygone flavolateralis (G. R. Gray, 1859)
+Gerygone flavolateralis flavolateralis (G. R. Gray, 1859)
+Gerygone flavolateralis lifuensis (Sarasin, 1913)
+Paridae 
+Cyanistes Kaup, 1829
+Cyanistes caeruleus (Linnaeus, 1758)
+Parus caeruleus caeruleus Linnaeus, 1758
+Parus caeruleus touraudericus Bacmeister & Kleinschmidt, 1920
+Parus caeruleus Linnaeus, 1758
+Lophophanes Kaup, 1829
+Lophophanes cristatus (Linnaeus, 1758)
+Parus cristatus abadiei Jouard, 1929
+Parus cristatus brunnescens Prazak, 1897
+Parus cristatus cristatus Linnaeus, 1758
+Parus cristatus heimi Jouard, 1929
+Parus cristatus Linnaeus, 1758
+Parus Linnaeus, 1758
+Parus cyanus Pallas, 1770
+Cyanistes cyanus (Pallas, 1770)
+Parus major Linnaeus, 1758
+Parus major corsus Kleinschmidt, 1903
+Parus major major Linnaeus, 1758
+Parus montanus Conrad von Baldenstein, 1827
+Poecile montanus (Conrad von Baldenstein, 1827)
+Parus montanus montanus Conrad von Baldenstein, 1827
+Parus montanus rhenanus Kleinschmidt, 1910
+Periparus Selys-Longchamps, 1884
+Periparus ater (Linnaeus, 1758)
+Parus ater abietum Brehm, 1831
+Parus ater ater Linnaeus, 1758
+Parus ater sardus Kleinschmidt, 1903
+Parus ater Linnaeus, 1758
+Poecile Kaup, 1829
+Poecile atricapillus (Linnaeus, 1766)
+Parus atricapillus Linnaeus, 1766
+Poecile hudsonicus (J.R. Forster, 1772)
+Parus hudsonicus J.R. Forster, 1772
+Poecile palustris (Linnaeus, 1758)
+Parus palustris darti Jouard, 1927
+Parus palustris longirostris Kleinschmidt, 1897
+Parus palustris Linnaeus, 1758
+Paroidea 
+Parulidae 
+Cardellina Bonaparte, 1850
+Cardellina canadensis (Linnaeus, 1766)
+Wilsonia canadensis (Linnaeus, 1766)
+Cardellina pusilla (Wilson, 1811)
+Wilsonia pusilla (Wilson, 1811)
+Geothlypis Cabanis, 1847
+Geothlypis aequinoctialis (Gmelin, 1789)
+Geothlypis formosa (A. Wilson, 1811)
+Oporornis formosus (A. Wilson, 1811)
+Geothlypis philadelphia (A. Wilson, 1810)
+Oporornis philadelphia (A. Wilson, 1810)
+Geothlypis trichas (Linnaeus, 1766)
+Helmitheros Rafinesque, 1819
+Helmitheros vermivorus (Gmelin, 1789)
+Helmitheros vermivorum (Gmelin, 1789)
+Motacilla vermivora Gmelin, 1789
+Mniotilta Vieillot, 1816
+Mniotilta varia (Linnaeus, 1766)
+Motacilla varia Linnaeus, 1766
+Myiothlypis Cabanis, 1850
+Myiothlypis rivularis (Wied-Neuwied, 1821)
+Basileuterus rivularis (Wied-Neuwied, 1821)
+Muscicapa rivularis Wied-Neuwied, 1821
+Phaeothlypis rivularis (Wied-Neuwied, 1821)
+Myiothlypis rivularis mesoleuca (Sclater, 1865)
+Basileuterus mesoleucus Sclater, 1865
+Oporornis Baird, 1858
+Oporornis agilis (Wilson, 1812)
+Sylvia agilis Wilson, 1812
+Oreothlypis Ridgway, 1884
+Oreothlypis celata (Say, 1823)
+Vermivora celata (Say, 1823)
+Oreothlypis peregrina (Wilson, 1811)
+Leiothlypis peregrina (Wilson, 1811)
+Sylvia peregrina Wilson, 1811
+Vermivora peregrina (Wilson, 1811)
+Oreothlypis ruficapilla (Wilson, 1811)
+Vermivora ruficapilla (Wilson, 1811)
+Parkesia Sangster, 2008
+Parkesia motacilla (Vieillot, 1809)
+Seiurus motacilla (Vieillot, 1809)
+Turdus motacilla Vieillot, 1809
+Parkesia noveboracensis (Gmelin, 1789)
+Motacilla noveboracensis Gmelin, 1789
+Seiurus noveboracensis (Gmelin, 1789)
+Protonotaria Baird, 1858
+Protonotaria citrea (Boddaert, 1783)
+Motacilla citrea Boddaert, 1783
+Seiurus Swainson, 1827
+Seiurus aurocapilla (Linnaeus, 1766)
+Motacilla aurocapilla Linnaeus, 1766
+Seiurus aurocapillus (Linnaeus, 1766)
+Setophaga Swainson, 1827
+Dendroica Gray, 1842
+Parula Bonaparte, 1838
+Wilsonia Bonaparte, 1838
+Setophaga adelaidae (Baird, 1865)
+Dendroica adelaidae Baird, 1865
+Setophaga americana (Linnaeus, 1758)
+Parula americana (Linnaeus, 1758)
+Parus americanus Linnaeus, 1758
+Setophaga caerulescens (Gmelin, 1789)
+Dendroica caerulescens (Gmelin, 1789)
+Motacilla caerulescens Gmelin, 1789
+Setophaga castanea (A. Wilson, 1810)
+Dendroica castanea (A. Wilson, 1810)
+Setophaga cerulea (Wilson, 1810)
+Dendroica cerulea (Wilson, 1810)
+Setophaga citrina (Boddaert, 1783)
+Muscicapa citrina Boddaert, 1783
+Wilsonia citrina (Boddaert, 1783)
+Setophaga coronata (Linnaeus, 1766)
+Dendroica coronata (Linnaeus, 1766)
+Setophaga discolor (Vieillot, 1809)
+Dendroica discolor (Vieillot, 1809)
+Sylvia discolor Vieillot, 1809
+Setophaga dominica (Linnaeus, 1766)
+Dendroica dominica (Linnaeus, 1766)
+Setophaga fusca (Statius Müller, 1776)
+Dendroica fusca (Statius Müller, 1776)
+Motacilla fusca Statius Müller, 1776
+Setophaga magnolia (Wilson, 1811)
+Dendroica magnolia (Wilson, 1811)
+Sylvia magnolia Wilson, 1811
+Setophaga palmarum (Gmelin, 1789)
+Dendroica palmarum (Gmelin, 1789)
+Setophaga pensylvanica (Linnaeus, 1766)
+Dendroica pensylvanica (Linnaeus, 1766)
+Setophaga petechia (Linnaeus, 1766)
+Dendroica petechia (Linnaeus, 1766)
+Motacilla petechia Linnaeus, 1766
+Setophaga petechia bartholemica (Sundevall, 1870)
+Dendroeca petechia bartholemica Sundevall, 1869
+Setophaga pinus (A. Wilson, 1811)
+Dendroica pinus (A. Wilson, 1811)
+Setophaga pitiayumi (Vieillot, 1817)
+Parula pitiayumi (Vieillot, 1817)
+Sylvia pitiayumi Vieillot, 1817
+Setophaga pitiayumi roraimae (Chapman, 1929)
+Compsothlypis pitiayumi roraimae Chapman, 1929
+Setophaga plumbea (Lawrence, 1877)
+Dendroica plumbea Lawrence, 1877
+Setophaga ruticilla (Linnaeus, 1758)
+Motacilla ruticilla Linnaeus, 1758
+Setophaga striata (Forster, 1772)
+Dendroica striata (Forster, 1772)
+Muscicapa striata Forster, 1772
+Setophaga tigrina (Gmelin, 1789)
+Dendroica tigrina (Gmelin, 1789)
+Setophaga virens (Gmelin, 1789)
+Dendroica virens (Gmelin, 1789)
+Vermivora Swainson, 1827
+Vermivora cyanoptera (Olson & Reveal, 2009)
+Certhia cyanoptera Olson & Reveal, 2009
+Vermivora pinus (Linnaeus, 1766)
+Passeri 
+Passeridae 
+Montifringilla 
+Montifringilla nivalis (Linnaeus, 1766)
+Passer Brisson, 1760
+Passer domesticus (Linnaeus, 1758)
+Fringilla domestica Linnaeus, 1758
+Passer domesticus domesticus (Linnaeus, 1758)
+Passer domesticus indicus Jardine & Selby, 1835
+Passer hispaniolensis (Temminck, 1820)
+Passer italiae (Vieillot, 1817)
+Passer domesticus italiae (Vieillot, 1817)
+Passer montanus (Linnaeus, 1758)
+Passer montanus hispaniae Jordans, 1933
+Passer montanus montanus (Linnaeus, 1758)
+Petronia 
+Petronia petronia (Linnaeus, 1766)
+Passer petronia Linnaeus, 1766
+Petronia petronia hellmayri Arrigoni, 1902
+Petronia petronia petronia (Linnaeus, 1758)
+Passeroidea 
+Petroicidae 
+Eopsaltria 
+Eopsaltria flaviventris Sharpe, 1903
+Pipridae Rafinesque, 1815
+Ceratopipra 
+Ceratopipra erythrocephala (Linnaeus, 1758)
+Parus erythrocephalus Linnaeus, 1758
+Pipra erythrocephala (Linnaeus, 1758)
+Chiroxiphia Cabanis, 1847
+Chiroxiphia pareola (Linnaeus, 1766)
+Corapipo Bonaparte, 1854
+Corapipo gutturalis (Linnaeus, 1766)
+Dixiphia Reichenbach, 1850
+Dixiphia pipra (Linnaeus, 1758)
+Parus pipra Linnaeus, 1758
+Pipra pipra (Linnaeus, 1758)
+Lepidothrix Bonaparte, 1854
+Lepidothrix serena (Linnaeus, 1766)
+Pipra serena Linnaeus, 1766
+Manacus Brisson, 1760
+Manacus manacus (Linnaeus, 1766)
+Neopelma Sclater, 1861
+Neopelma chrysocephalum (Pelzeln, 1868)
+Pipra Linnaeus, 1766
+Pipra aureola (Linnaeus, 1758)
+Parus Aureola Linnaeus, 1758
+Tyranneutes Sclater, 1881
+Tyranneutes virescens (Pelzeln, 1868)
+Xenopipo Cabanis, 1847
+Xenopipo atronitens Cabanis, 1847
+Ploceidae 
+Euplectes 
+Euplectes franciscanus (Isert, 1789)
+Euplectes orix (Linnaeus, 1758)
+Foudia Rchb., 1850
+Foudia delloni Cheke & Hume, 2008
+Foudia eminentissima Bonaparte, 1850
+Foudia eminentissima algondae (Schlegel, 1867)
+Foudia madagascariensis (Linnaeus, 1766)
+Loxia madagascariensis Linnaeus, 1766
+Ploceus Cuvier, 1817
+Ploceus cucullatus (Müller, 1776)
+Ploceus cucullatus spilonotus Vigors, 1831
+Ploceus melanocephalus (Linnaeus, 1758)
+Loxia melanocephala Linnaeus, 1758
+Quelea Rchb., 1850
+Quelea quelea (Linnaeus, 1758)
+Polioptilidae S.F. Baird, 1858
+Microbates Sclater & Salvin, 1873
+Microbates collaris (Pelzeln, 1868)
+Rhamphocaenus collaris Pelzeln, 1868
+Microbates collaris torquatus Sclater & Salvin, 1873
+Polioptila Sclater, 1855
+Polioptila caerulea (Linnaeus, 1766)
+Polioptila guianensis Todd, 1920
+Polioptila plumbea (Gmelin, 1788)
+Todus plumbeus Gmelin, 1788
+Ramphocaenus Vieillot, 1819
+Ramphocaenus melanurus Vieillot, 1819
+Ramphocaenus melanurus albiventris Sclater, 1883
+Prunellidae 
+Prunella Vieillot, 1816
+Prunella atrogularis (Brandt, 1844)
+Accentor atrogularis Brandt, 1844
+Prunella collaris (Scopoli, 1769)
+Laiscopus collaris 
+Sturnus collaris Scopoli, 1769
+Prunella modularis (Linnaeus, 1758)
+Motacilla modularis Linnaeus, 1758
+Prunella modularis mabbotti Harper, 1919
+Prunella modularis modularis (Linnaeus, 1758)
+Prunella modularis occidentalis Hartert, 1910
+Pycnonotidae 
+Hypsipetes Vigors, 1831
+Hypsipetes borbonicus (J. R. Forster, 1781)
+Hypsipetes madagascariensis (Müller, 1776)
+Turdus madagascariensis Müller, 1776
+Pycnonotus Boie, 1826
+Pycnonotus cafer (Linnaeus, 1766)
+Pycnonotus jocosus (Linnaeus, 1758)
+Lanius jocosus Linnaeus, 1758
+Pycnonotus jocosus emeria (Linnaeus, 1758)
+Pycnonotoidea 
+Regulidae 
+Regulinae 
+Regulus Cuvier, 1800
+Regulus calendula (Linnaeus, 1766)
+Regulus ignicapilla (Temminck, 1820)
+Regulus ignicapillus (Temminck, 1820)
+Sylvia ignicapilla Temminck, 1820
+Regulus regulus (Linnaeus, 1758)
+Motacilla proregulus Pallas, 1827
+Motacilla regulus Linnaeus, 1758
+Regulus regulus interni Hartert, 1906
+Regulus regulus regulus (Linnaeus, 1758)
+Regulus satrapa Lichtenstein, 1823
+Reguloidea 
+Remizidae 
+Remiz 
+Remiz pendulinus (Linnaeus, 1758)
+Parus pendulinus 
+Saxicolidae 
+Cercotrichas 
+Cercotrichas galactotes (Temminck, 1820)
+Agrobates galactotes (Temminck)
+Erythropygia galactotes (Temminck, 1820)
+Sylvia galactotes Temminck, 1820
+Erithacus Cuvier, 1800
+Erithacus rubecula (Linnaeus, 1758)
+Erithacus rubecula armoricanus Lebeurier & Rapine, 1936
+Erithacus rubecula melophilus Hartert, 1901
+Erithacus rubecula rubecula (Linnaeus, 1758)
+Erithacus rubecula sardus Kleinschmidt, 1906
+Erithacus rubecula witherbyi Hartert, 1910
+Motacilla rubecula Linnaeus, 1758
+Luscinia 
+Luscinia luscinia (Linnaeus, 1758)
+Erithacus luscinia (Linnaeus, 1758)
+Motacilla luscinia Linnaeus, 1758
+Luscinia megarhynchos C. L. Brehm, 1831
+Erithacus megarhynchos (Brehm)
+Luscinia megarhynchos corsa Parrot, 1910
+Luscinia megarhynchos megarhynchos Brehm, 1831
+Luscinia svecica (Linnaeus, 1758)
+Motacilla svecica Linnaeus, 1758
+Luscinia svecica cyanecula (Wolf, 1810)
+Luscinia svecica namnetum Mayaud, 1934
+Luscinia svecica svecica (Linnaeus, 1758)
+Monticola 
+Monticola saxatilis (Linnaeus, 1758)
+Turdus saxatilis Linnaeus, 1766
+Monticola solitarius (Linnaeus, 1758)
+Turdus solitarius Linnaeus, 1758
+Phoenicurus Forster, 1817
+Phoenicurus ochruros (S. G. Gmelin, 1774)
+Motacilla ochruros Gmelin, 1774
+Phoenicurus ochruros gibraltariensis (Gmelin, 1789)
+Phoenicurus ochruros ochruros (Gmelin, 1774)
+Phoenicurus phoenicurus (Linnaeus, 1758)
+Motacilla phoenicurus Linnaeus, 1758
+Saxicola Bechstein, 1803
+Saxicola maurus (Pallas, 1773)
+Saxicola maura (Pallas, 1773)
+Saxicola torquata maura (Pallas, 1773)
+Saxicola torquatus maurus (Pallas, 1773)
+Saxicola rubetra (Linnaeus, 1758)
+Motacilla rubetra Linnaeus, 1758
+Saxicola rubicola (Linnaeus, 1766)
+Motacilla rubicola Linnaeus, 1766
+Saxicola torquata rubicola (Linnaeus, 1766)
+Saxicola torquata (Linnaeus, 1766)
+Saxicola torquatus rubicola (Linnaeus, 1766)
+Saxicola torquatus auct.
+Saxicola tectes (Gmelin, 1789)
+Tarsiger 
+Tarsiger cyanurus (Pallas, 1773)
+Erithacus cyanurus (Pallas)
+Motacilla cyanurus Pallas, 1773
+Sittidae 
+Sitta 
+Sitta canadensis Linnaeus, 1766
+Sitta europaea Linnaeus, 1758
+Sitta europaea hassica Kleinschmidt, 1917
+Sitta whiteheadi Sharpe, 1884
+Sittoidea 
+Sturnidae 
+Acridotheres Vieillot, 1816
+Acridotheres fuscus (Wagler, 1827)
+Acridotheres tristis (Linnaeus, 1766)
+Acridotheres tristis (Linnaeus, 1758)
+Aplonis 
+Aplonis diluvialis Steadman, 1989
+Aplonis striata (Gmelin, 1788)
+Aplonis striata atronitens G. R. Gray, 1859
+Aplonis striata striata (Gmelin, 1788)
+Aplonis tabuensis (Gmelin, 1788)
+Aplonis tabuensis fortunae E. L. Layard, 1876
+Creatophora Lesson, 1847
+Creatophora cinerea (Meuschen, 1787)
+Rallus cinereus Meuschen, 1787
+Fregilupus Lesson, 1830
+Fregilupus varius (Boddaert, 1783)
+Gracula Linnaeus, 1758
+Gracula religiosa Linnaeus, 1758
+Sturnus Linnaeus, 1758
+Sturnus roseus (Linnaeus, 1758)
+Pastor roseus 
+Sturnus unicolor Temminck, 1820
+Sturnus vulgaris Linnaeus, 1758
+Sturnoidea 
+Sylviidae 
+Sylviinae 
+Acrocephalus Naumann, 1804
+Acrocephalus agricola (Jerdon, 1845)
+Acrocephalus arundinaceus (Linnaeus, 1758)
+Acrocephalus turdoides 
+Turdus arundinaceus Linnaeus, 1758
+Acrocephalus astrolabii Holyoak & Thibault, 1978
+Acrocephalus luscinia astrolabii Holyoak & Thibault, 1978
+Acrocephalus atyphus (Wetmore, 1919)
+Acrocephalus caffer atyphus (Wetmore, 1919)
+Acrocephalus atyphus atyphus (Wetmore, 1919)
+Acrocephalus caffer flavidus (Murphy & Mathrews, 1929)
+Acrocephalus caffer ravus (Wetmore, 1919)
+Acrocephalus atyphus eremus (Wetmore, 1919)
+Acrocephalus caffer eremus (Wetmore, 1919)
+Acrocephalus atyphus niauensis (Murphy & Mathews, 1929)
+Acrocephalus caffer niauensis (Murphy & Mathrews, 1929)
+Acrocephalus atyphus palmarum (Murphy & Mathews, 1929)
+Acrocephalus caffer palmarum (Murphy & Mathrews, 1929)
+Acrocephalus caffer (Sparrman, 1786)
+Sitta caffra Sparrman, 1786
+Acrocephalus caffer caffer (Sparrman, 1786)
+Acrocephalus dumetorum Blyth, 1849
+Acrocephalus longirostris (Gmelin, 1789)
+Acrocephalus caffer longirostris (Gmelin, 1789)
+Turdus longirostris Gmelin, 1789
+Acrocephalus melanopogon (Temminck, 1823)
+Lusciniola melanopogon (Temminck)
+Sylvia melanopogon Temminck, 1823
+Acrocephalus mendanae Tristram, 1883
+Acrocephalus mendanae consobrinus (Murphy & Mathews, 1928)
+Acrocephalus caffer consobrinus (Murphy & Mathrews, 1928)
+Acrocephalus mendanae dido (Murphy & Mathews, 1928)
+Acrocephalus caffer dido (Murphy & Mathews, 1928)
+Acrocephalus mendanae fatuhivae (Murphy & Mathews, 1928)
+Acrocephalus caffer fatuhivae (Murphy & Mathews, 1928)
+Acrocephalus mendanae mendanae Tristram, 1883
+Acrocephalus caffer mendanae Tristam, 1883
+Acrocephalus musae (Forster, 1844)
+Acrocephalus caffer musae Forster, 1844
+Acrocephalus musae garretti Holyoak & Thibault, 1978
+Acrocephalus caffer garretti Holyoak & Thibault, 1978
+Acrocephalus musae musae (Forster, 1844)
+Acrocephalus paludicola (Vieillot, 1817)
+Sylvia palaudicola Vieillot, 1817
+Acrocephalus palustris (Bechstein, 1798)
+Sylvia palustris Bechstein, 1798
+Acrocephalus percernis (Wetmore, 1919)
+Acrocephalus percernis aquilonis (Murphy & Mathews, 1928)
+Acrocephalus caffer aquilonis (Murphy & Mathrews, 1928)
+Acrocephalus percernis idae (Murphy & Mathews, 1928)
+Acrocephalus caffer idae (Murphy & Mathews, 1928)
+Acrocephalus percernis percernis (Wetmore, 1919)
+Acrocephalus caffer percernis (Wetmore, 1919)
+Acrocephalus percernis postremus (Murphy & Mathews, 1928)
+Acrocephalus caffer postremus (Murphy & Mathrews, 1928)
+Acrocephalus rimitarae (Murphy & Mathrews, 1929)
+Acrocephalus vaughani rimatarae (Murphy & Mathews, 1929)
+Acrocephalus schoenobaenus (Linnaeus, 1758)
+Motacilla schoenobaenus Linnaeus, 1758
+Acrocephalus scirpaceus (Hermann, 1804)
+Acrocephalus scirpeus 
+Turdus scirpaceus Hermann, 1804
+Cettia 
+Cettia cetti (Temminck, 1820)
+Sylvia cetti Temminck, 1820
+Hippolais 
+Hippolais icterina (Vieillot, 1817)
+Sylvia icterina Vieillot, 1817
+Hippolais polyglotta (Vieillot, 1817)
+Sylvia polyglotta Vieillot, 1817
+Iduna 
+Iduna caligata (Lichtenstein, 1823)
+Hippolais caligata (Lichteinstein, 1823)
+Sylvia caligata Lichteinstein, 1823
+Iduna opaca (Cabanis, 1851)
+Hippolais opaca Cabanis, 1851
+Iduna pallida (Hemprich & Ehrenberg, 1833)
+Curruca palida Hemprich & Ehrenberg, 1833
+Hippolais pallida (Hemprich & Ehrenberg, 1833)
+Iduna rama (Sykes, 1832)
+Hippolais rama (Sykes, 1832)
+Sylvia rama Sykes, 1832
+Locustella 
+Locustella certhiola (Pallas, 1811)
+Motacilla certhiola Pallas, 1811
+Locustella fasciolata (Gray, 1860)
+Acrocephalus fascioleatus Gray, 1860
+Locustella fluviatilis (Wolf, 1810)
+Sylvia fluviatilis Wolf, 1810
+Locustella lanceolata (Temminck, 1840)
+Locustella lancelota (Temminck, 1840)
+Sylvia lancolata Temminck, 1840
+Locustella luscinioides (Savi, 1824)
+Sylvia luscinioides Savi, 1824
+Locustella naevia (Boddaert, 1783)
+Motacilla naevia Boddaert, 1783
+Megalurulus 
+Megalurulus mariei J. Verreaux, 1869
+Panurus 
+Panurus biarmicus (Linnaeus, 1758)
+Phylloscopus Boie, 1826
+Phylloscopus bonelli (Vieillot, 1819)
+Sylvia bonelli Vieillot, 1819
+Phylloscopus borealis (Blasius, 1858)
+Phyllopneuste borealis Blasius, 1858
+Phylloscopus collybita (Vieillot, 1887)
+Sylvia collybita Vieillot, 1817
+Phylloscopus collybita abietinus (Nilsson, 1919)
+Phylloscopus collybita collyba (Vieillot, 1817)
+Phylloscopus collybita tristis Blyth, 1843
+Phylloscopus fuscatus (Blyth, 1842)
+Phillopneuste fuscata Blyth, 1842
+Phylloscopus humei (Brooks, 1878)
+Phylloscopus ibericus Ticehurst, 1937
+Phylloscopus collybita brehmii (Homeyer, 1870)
+Phylloscopus inornatus (Blyth, 1842)
+Regulus inornatus Blyth, 1842
+Phylloscopus nitidus Blyth, 1843
+Seicercus nitidus (Blyth, 1843)
+Phylloscopus orientalis (C.L. Brehm, 1855)
+Phyllopneuste orientalis C.L. Brehm, 1855
+Rhadina orientalis (C.L. Brehm, 1855)
+Phylloscopus plumbeitarsus Swinhoe, 1861
+Seicercus plumbeitarsus (Swinhoe, 1861)
+Phylloscopus proregulus (Pallas, 1811)
+Phylloscopus schwarzi (Radde, 1863)
+Herbivocula schwarzi 
+Sylvia schwarzi Radde, 1863
+Phylloscopus sibilatrix (Bechstein, 1793)
+Motacilla sibilatrix Bechstein, 1793
+Phylloscopus trochiloides (Sundevall, 1837)
+Acanthiza trochiloides Sundevall, 1837
+Phylloscopus trochiloides trochiloides (Sundevall, 1837)
+Phylloscopus trochiloides viridianus Blyth, 1843
+Phylloscopus trochilus (Linnaeus, 1758)
+Motacilla trochilus Linnaeus, 1758
+Phylloscopus trochilus acredula (Linnaeus, 1758)
+Phylloscopus trochilus eversmanni (Bonaparte, 1850)
+Phylloscopus trochilus fitis (Bechstein, 1793)
+Phylloscopus trochilus trochilus (Linnaeus, 1758)
+Sylvia Scopoli, 1769
+Sylvia atricapilla (Linnaeus, 1758)
+Motacilla atricapilla Linnaeus, 1758
+Sylvia borin (Boddaert, 1783)
+Motacilla borin Boddaert, 1783
+Sylvia cantillans (Pallas, 1764)
+Curruca cantillans (Pallas, 1764)
+Curruca inornata (Tschusi, 1906)
+Motacilla cantillans Pallas, 1764
+Sylvia cantillans cantillans (Pallas, 1764)
+Sylvia inornata Tschusi, 1906
+Sylvia communis Latham, 1787
+Sylvia conspicillata Temminck, 1820
+Sylvia curruca (Linnaeus, 1758)
+Motacilla curruca Linnaeus, 1758
+Sylvia curruca blythi Ticehurst & Whistler, 1933
+Sylvia curruca curruca (Linnaeus, 1758)
+Sylvia deserti (Loche, 1858)
+Sylvia hortensis (Gmelin, 1789)
+Motacilla hortensis Gmelin, 1789
+Sylvia melanocephala (Gmelin, 1789)
+Montacilla melanocephala Gmelin, 1789
+Sylvia nana (Hemprich & Ehrenberg, 1833)
+Curruca nana Hemprich & Ehrenberg, 1833
+Sylvia nisoria (Bechstein, 1795)
+Motacilla nisoria Bechstein, 1795
+Sylvia rueppelli Temminck, 1823
+Sylvia rueppeli Temminck, 1823
+Sylvia sarda Temminck, 1820
+Sylvia subalpina Temminck, 1820
+Curruca subalpina (Temminck, 1820)
+Sylvia cantillans moltonii Orlando, 1937
+Sylvia cantillans subalpina Temminck, 1820
+Sylvia moltonii Orlando, 1937
+Sylvia undata (Boddaert, 1783)
+Sylvia undata dartfordiensis Latham, 1787
+Sylvia dartfordiensis Latham, 1787
+Sylvia undata aremorica (Cretté de Palluel, 1899)
+Sylvia undata undata (Boddaert, 1783)
+Motacilla undata Boddaert, 1783
+Sylvia undata corsa Laubmann, 1913
+Sylvioidea 
+Thamnophilidae Swainson, 1824
+Euchrepomidinae Bravo, Remsen, Whitney & Brumfield, 2012
+Cercomacra Sclater, 1858
+Cercomacra cinerascens (Sclater, 1857)
+Formicivora cinerascens Sclater, 1857
+Cercomacra cinerascens immaculata Chubb, 1918
+Cercomacroides J.G. Tello & M.A. Raposo, 2014
+Cercomacroides nigrescens (Cabanis & Heine, 1859)
+Cercomacra nigrescens (Cabanis & Heine, 1859)
+Percnostola nigrescens Cabanis & Heine, 1859
+Cercomacroides tyrannina (Sclater, 1855)
+Cercomacra tyrannina (Sclater, 1855)
+Pyriglena tyrannina Sclater, 1855
+Cercomacroides tyrannina saturatior (Chubb, 1918)
+Cercomacra tyrannina saturatior Chubb, 1918
+Cymbilaimus Gray, 1840
+Cymbilaimus lineatus (Leach, 1814)
+Epinecrophylla Isler & Brumfield, 2006
+Epinecrophylla gutturalis (Sclater & Salvin, 1881)
+Myrmotherula gutturalis Sclater & Salvin, 1881
+Euchrepomis Bravo, Remsen, Whitney & Brumfield, 2012
+Euchrepomis callinota (Sclater, 1855)
+Formicivora callinota Sclater, 1855
+Terenura callinota (Sclater, 1855)
+Euchrepomis callinota guianensis Blake, 1949
+Terenura callinota guianensis Blake, 1949
+Euchrepomis spodioptila (Sclater & Salvin, 1881)
+Terenura spodioptila Sclater & Salvin, 1881
+Formicivora Swainson, 1824
+Formicivora grisea (Boddaert, 1783)
+Frederickena Chubb, 1918
+Frederickena viridis (Vieillot, 1816)
+Gymnopithys Bonaparte, 1854
+Gymnopithys rufigula (Boddaert, 1783)
+Herpsilochmus Cabanis, 1847
+Herpsilochmus dorsimaculatus Pelzeln, 1868
+Herpsilochmus stictocephalus Todd, 1927
+Herpsilochmus sticturus Salvin, 1885
+Hylophylax Ridgway, 1909
+Hylophylax naevius (Gmelin, 1789)
+Hylophylax naevia (Gmelin, 1789)
+Pipra naevia Gmelin, 1789
+Hylophylax punctulata (Des Murs, 1856)
+Hylophylax punctulatus (Des Murs, 1856)
+Hypocnemis Cabanis, 1847
+Hypocnemis cantator (Boddaert, 1783)
+Hypocnemoides Bangs & Penard, 1918
+Hypocnemoides melanopogon (Sclater, 1857)
+Isleria Bravo, Chesser & Brumfield, 2012
+Isleria guttata (Vieillot, 1825)
+Myrmothera guttata Vieillot, 1825
+Myrmotherula guttata (Vieillot, 1825)
+Microrhopias Sclater, 1862
+Microrhopias quixensis (Cornalia, 1849)
+Thamnophilus quixensis Cornalia, 1849
+Microrhopias quixensis microstictus (Berlepsch, 1908)
+Formicivora consobrina microsticta Berlepsch, 1908
+Myrmeciza Gray, 1841
+Myrmeciza atrothorax (Boddaert, 1783)
+Formicarius atrothorax Boddaert, 1783
+Myrmophylax atrothorax (Boddaert, 1783)
+Myrmeciza longipes (Swainson, 1825)
+Myrmelastes Sclater, 1858
+Schistocichla Todd, 1927
+Myrmelastes leucostigma (Pelzeln, 1868)
+Percnostola leucostigma Pelzeln, 1868
+Schistocichla leucostigma (Pelzeln, 1868)
+Myrmoborus Cabanis & Heine, 1860
+Myrmoborus leucophrys (Tschudi, 1844)
+Myrmoderus Ridgway, 1909
+Myrmoderus ferrugineus (Statius Müller, 1776)
+Myrmeciza ferruginea (Statius Müller, 1776)
+Turdus ferrugineus Statius Müller, 1776
+Myrmornis Hermann, 1783
+Myrmornis torquata (Boddaert, 1783)
+Myrmotherula Sclater, 1858
+Myrmotherula axillaris (Vieillot, 1817)
+Myrmotherula behni Berlpesch & Leverkühn, 1890
+Myrmotherula brachyura (Hermann, 1783)
+Myrmotherula haematonota (Sclater, 1857)
+Myrmotherula longipennis Pelzeln, 1868
+Myrmotherula menetriesii (D'Orbigny, 1837)
+Myrmothera Menetriesii D'Orbigny, 1837
+Myrmotherula menetriesii cinereiventris Sclater & Salvin, 1868
+Myrmotherula surinamensis (Gmelin, 1788)
+Percnostola Cabanis & Heine, 1860
+Percnostola rufifrons (Gmelin, 1789)
+Pithys Vieillot, 1818
+Pithys albifrons (Linnaeus, 1766)
+Pygiptila Sclater, 1858
+Pygiptila stellaris (Spix, 1825)
+Thamnophilus stellaris Spix, 1825
+Pygiptila stellaris occipitalis Zimmer, 1932
+Sakesphorus 
+Sakesphorus canadensis (Linnaeus, 1766)
+Lanius canadensis Linnaeus, 1766
+Sclateria Oberholser, 1899
+Sclateria naevia (Gmelin, 1788)
+Taraba Lesson, 1831
+Taraba major (Vieillot, 1816)
+Thamnophilus major Vieillot, 1816
+Taraba major semifasciatus (Cabanis, 1872)
+Diallactes semifasciatus Cabanis, 1872
+Thamnomanes Vieillot, 1816
+Thamnomanes ardesiacus (Sclater & Salvin, 1868)
+Dysithamnus ardesiacus Sclater & Salvin, 1868
+Thamnomanes ardesiacus obidensis (Snethlage, 1914)
+Dysithamnus ardesiacus obidensis Snethlage, 1914
+Thamnomanes caesius (Temminck, 1820)
+Muscicapa caesia Temminck, 1820
+Thamnomanes caesius glaucus Cabanis, 1847
+Thamnophilus 
+Thamnophilus aethiops P. L. Sclater, 1858
+Thamnophilus amazonicus Sclater, 1858
+Thamnophilus amazonicus divaricatus Mees, 1974
+Thamnophilus doliatus (Linnaeus, 1764)
+Thamnophilus melanothorax Sclater, 1857
+Sakesphorus melanothorax (Sclater, 1857)
+Thamnophilus murinus Sclater & Salvin, 1867
+Thamnophilus nigrocinereus Sclater, 1855
+Thamnophilus nigrocinereus kulczynskii (Domaniewski & Stolzmann, 1922)
+Myrmelastes kulczynskii Domaniewski & Stolzmann, 1922
+Thamnophilus punctatus (Shaw, 1809)
+Willisornis Agne & Pacheco, 2007
+Dichropogon Chubb, 1918
+Willisornis poecilinotus (Cabanis, 1847)
+Dichropogon poecilinotus (Cabanis, 1847)
+Hylophylax poecilonota (Cabanis, 1847)
+Hypocnemis poecilinota Cabanis, 1847
+Myrmornithinae Sundevall, 1872
+Thamnophilinae Swainson, 1824
+Thamnophiloidea 
+Thraupidae 
+Coerebidae 
+Chlorophanes Reichenbach, 1853
+Chlorophanes spiza (Linnaeus, 1758)
+Cissopis Vieillot, 1816
+Cissopis leveriana (Gmelin, 1788)
+Cissopis leverianus (Gmelin, 1788)
+Coereba Vieillot, 1807
+Coereba flaveola (Linnaeus, 1758)
+Certhia flaveola Linnaeus, 1758
+Coereba flaveola bartholemica (Sparrman, 1788)
+Certhia bartholemica Sparrman, 1788
+Coereba flaveola minima (Bonaparte, 1854)
+Certhiola minima Bonaparte, 1854
+Conirostrum D'Orbigny & Lafresnaye, 1838
+Conirostrum bicolor (Vieillot, 1809)
+Conirostrum speciosum (Temminck, 1824)
+Sylvia speciosa Temminck, 1824
+Conirostrum speciosum amazonum (Hellmayr, 1917)
+Ateleodacnis speciosa amazonum Hellmayr, 1917
+Conothraupis P.L.Sclater, 1880
+Conothraupis speculigera (Gould, 1855)
+Schistochlamys speculigera Gould, 1855
+Coryphospingus Cabanis, 1851
+Coryphospingus cucullatus (Statius Müller, 1776)
+Coryphospingus pileatus (Wied-Neuwied, 1820)
+Cyanerpes Oberholser, 1899
+Cyanerpes caeruleus (Linnaeus, 1758)
+Cyanerpes cyaneus (Linnaeus, 1766)
+Cyanerpes nitidus (Hartlaub, 1847)
+Cyanicterus Bonaparte, 1850
+Cyanicterus cyanicterus (Vieillot, 1819)
+Cypsnagra Lesson, 1831
+Cypsnagra hirundinacea (Lesson, 1823)
+Dacnis Cuvier, 1817
+Dacnis cayana (Linnaeus, 1766)
+Dacnis lineata (Gmelin, 1789)
+Emberizoides Temminck, 1822
+Emberizoides herbicola (Vieillot, 1817)
+Sylvia herbicola Vieillot, 1817
+Emberizoides herbicola sphenurus (Vieillot, 1818)
+Passerina sphenura Vieillot, 1818
+Eucometis Sclater, 1856
+Eucometis penicillata (Spix, 1825)
+Hemithraupis Ridgway, 1898
+Hemithraupis flavicollis (Vieillot, 1818)
+Hemithraupis guira (Linnaeus, 1766)
+Motacilla Guira Linnaeus, 1766
+Hemithraupis guira nigrigula (Boddaert, 1783)
+Tanagra nigrigula Boddaert, 1783
+Lamprospiza Cabanis, 1847
+Lamprospiza melanoleuca (Vieillot, 1817)
+Lanio Vieillot, 1816
+Lanio fulvus (Boddaert, 1783)
+Loxigilla Lesson, 1831
+Loxigilla noctis (Linnaeus, 1766)
+Loxigilla noctis desiradensis Danforth, 1937
+Loxigilla noctis dominicana (Ridgway, 1898)
+Loxigilla noctis ridgwayi (Cory, 1892)
+Pyrrhulagra noctis ridgwayi Cory, 1892
+Nemosia Vieillot, 1816
+Nemosia pileata (Boddaert, 1783)
+Paroaria Bonaparte, 1832
+Paroaria gularis (Linnaeus, 1766)
+Ramphocelus Desmarest, 1805
+Ramphocelus carbo (Pallas, 1764)
+Ramphocelus dimidiatus Lafresnaye, 1837
+Saltator Vieillot, 1816
+Saltator albicollis Vieillot, 1817
+Saltator coerulescens Vieillot, 1817
+Saltator coerulescens olivascens Cabanis, 1849
+Saltator grossus (Linnaeus, 1766)
+Loxia grossa Linnaeus, 1766
+Pitylus grossus (Linnaeus, 1766)
+Saltator maximus (Statius Müller, 1776)
+Schistochlamys Reichenbach, 1850
+Schistochlamys melanopis (Latham, 1790)
+Sicalis F. Boie, 1828
+Sicalis flaveola (Linnaeus, 1766)
+Sicalis luteiventris (Meyen, 1834)
+Sicalis luteola (Sparrman, 1789)
+Sporophila Cabanis, 1844
+Oryzoborus Cabanis, 1851
+Sporophila americana (Gmelin, 1789)
+Sporophila angolensis (Linnaeus, 1766)
+Loxia angolensis Linnaeus, 1766
+Oryzoborus angolensis (Linnaeus, 1766)
+Sporophila angolensis torrida (Scopoli, 1769)
+Loxia torrida Scopoli, 1769
+Sporophila bouvreuil (Statius Müller, 1776)
+Loxia bouvreuil Statius Müller, 1776
+Sporophila bouvronides (Lesson, 1831)
+Sporophila castaneiventris Cabanis, 1849
+Sporophila crassirostris (Gmelin, 1789)
+Loxia crassirostris Gmelin, 1789
+Oryzoborus crassirostris (Gmelin, 1789)
+Sporophila lineola (Linnaeus, 1758)
+Sporophila minuta (Linnaeus, 1758)
+Sporophila nigricollis (Vieillot, 1823)
+Sporophila plumbea (Wied-Neuwied, 1831)
+Fringilla plumbea Wied-Neuwied, 1830
+Sporophila plumbea whiteleyana (Sharpe, 1888)
+Spermophila whiteleyana Sharpe, 1888
+Sporophila schistacea (Lawrence, 1862)
+Tachyphonus Vieillot, 1816
+Tachyphonus cristatus (Linnaeus, 1766)
+Tachyphonus luctuosus D'Orbigny & Lafresnaye, 1837
+Tachyphonus phoenicius Swainson, 1838
+Tachyphonus rufus (Boddaert, 1783)
+Tachyphonus surinamus (Linnaeus, 1766)
+Tangara Brisson, 1760
+Tangara cayana (Linnaeus, 1766)
+Tangara chilensis (Vigors, 1832)
+Aglaia Chilensis Vigors, 1832
+Tangara chilensis paradisea (Swainson, 1837)
+Aglaia paradisea Swainson, 1837
+Tangara guttata (Cabanis, 1851)
+Tangara gyrola (Linnaeus, 1758)
+Tangara mexicana (Linnaeus, 1766)
+Tangara punctata (Linnaeus, 1766)
+Tangara varia (Müller, 1766)
+Tangara velia (Linnaeus, 1758)
+Tersina Vieillot, 1819
+Tersina viridis (Illiger, 1811)
+Hirundo viridis Illiger, 1811
+Tersina viridis occidentalis (Sclater, 1855)
+Procnias occidentalis Sclater, 1855
+Thraupis F. Boie, 1826
+Thraupis episcopus (Linnaeus, 1766)
+Thraupis palmarum (Wied-Neuwied, 1821)
+Tanagra palmarum Wied-Neuwied, 1821
+Tangara palmarum (Wied-Neuwied, 1821)
+Thraupis palmarum melanoptera (Sclater, 1857)
+Tanagra melanoptera Sclater, 1857
+Tangara palmarum melanoptera (Sclater, 1857)
+Tiaris Swainson, 1827
+Tiaris bicolor (Linnaeus, 1766)
+Fringilla bicolor Linnaeus, 1766
+Melanospiza bicolor (Linnaeus, 1766)
+Tiaris bicolor omissus Jardine, 1847
+Volatinia Reichenbach, 1850
+Volatinia jacarina (Linnaeus, 1766)
+Tanagra Jacarina Linnaeus, 1766
+Volatinia jacarina splendens (Vieillot, 1817)
+Fringilla splendens Vieillot, 1817
+Tichodromadidae 
+Tichodroma 
+Tichodroma muraria (Linnaeus, 1758)
+Tityridae Gray, 1840
+Iodopleura 
+Iodopleura fusca (Vieillot, 1817)
+Laniocera Lesson, 1840
+Laniocera hypopyrra (Vieillot, 1817)
+Ampelis hypopyrra Vieillot, 1817
+Laniocera hypopyrrha (Vieillot, 1817)
+Pachyramphus Gray, 1834
+Pachyramphus marginatus (Lichtenstein, 1823)
+Pachyramphus marginatus nanus Bangs & Penard, 1921
+Pachyramphus minor (Lesson, 1830)
+Pachyramphus polychopterus (Vieillot, 1818)
+Platyrhynchos polychopterus Vieillot, 1818
+Pachyramphus polychopterus tristis (Kaup, 1852)
+Psaris marginatus tristis Kaup, 1852
+Pachyramphus rufus (Boddaert, 1783)
+Pachyramphus surinamus (Linnaeus, 1766)
+Schiffornis Bonaparte, 1854
+Schiffornis turdina (Wied-Neuwied, 1831)
+Muscicapa turdina Wied-Neuwied, 1831
+Schiffornis turdinus (Wied-Neuwied, 1831)
+Schiffornis turdina wallacii (Sclater & Salvin, 1867)
+Heteropelma wallacii Sclater & Salvin, 1867
+Tityra Vieillot, 1810
+Tityra cayana (Linnaeus, 1766)
+Tityra inquisitor (Lichtenstein, 1823)
+Tityra inquisitor erythrogenys (Selby, 1826)
+Psaris erythrogenys Selby, 1826
+Tityra semifasciata (Spix, 1825)
+Troglodytidae 
+Cantorchilus Mann, Barker, Graves, Dingess-Mann & Slater, 2006
+Cantorchilus leucotis (Lafresnaye, 1845)
+Thryothorus leucotis Lafresnaye, 1845
+Cantorchilus leucotis albipectus Cabanis, 1849
+Cyphorhinus 
+Cyphorhinus arada (Hermann, 1783)
+Cyphorhinus aradus (Hermann, 1783)
+Henicorhina Sclater & Salvin,
+Henicorhina leucosticta (Cabanis, 1847)
+Microcerculus Sclater, 1862
+Microcerculus bambla (Boddaert, 1783)
+Pheugopedius Cabanis, 1850
+Pheugopedius coraya (Gmelin, 1789)
+Thryothorus coraya (Gmelin, 1789)
+Turdus coraya Gmelin, 1789
+Troglodytes Moehring, 1758
+Troglodytes aedon Vieillot, 1809
+Thryothorus guadeloupensis Cory, 1886
+Thryothorus martinicensis Sclater, 1866
+Troglodytes martinicensis (Sclater, 1866)
+Troglodytes musculus J. F. Naumann, 1823
+Troglodytes troglodytes (Linnaeus, 1758)
+Troglodytes troglodytes koenigi Schiebel, 1910
+Troglodytes troglodytes troglodytes (Linnaus, 1758)
+Turdidae 
+Catharus Bonaparte, 1850
+Catharus bicknelli (Ridgway, 1882)
+Catharus fuscescens (Stephens, 1817)
+Catharus guttatus (Pallas, 1811)
+Catharus minimus (Lafresnaye, 1848)
+Hylocichla aliciae 
+Hylocichla minima 
+Turdus minimus Lafresnaye, 1848
+Catharus mustelinus (Gmelin, 1789)
+Catharus ustulatus (Nuttall, 1840)
+Hylocichla ustulata 
+Musticapa narcissina Temminck
+Hylocichla 
+Hylocichla mustelina (Gmelin, 1789)
+Myadestes Swainson, 1838
+Myadestes genibarbis Swainson, 1838
+Sialia Swainson, 1827
+Sialia currucoides (Bechstein, 1798)
+Sialia sialis (Linnaeus, 1758)
+Turdus Linnaeus, 1758
+Cichlherminia Bonaparte, 1854
+Turdus albicollis Vieillot, 1818
+Turdus albicollis phaeopygus Cabanis, 1849
+Turdus atrogularis Jarocki, 1819
+Turdus ruficollis atrogularis Jarocki, 1819
+Turdus eunomus Temminck, 1831
+Turdus naumanni eunomus Temminck, 1831
+Turdus fumigatus Lichtenstein, 1823
+Turdus ignobilis P. L. Sclater, 1858
+Turdus iliacus Linnaeus, 1766
+Turdus iliacus coburni Sharpe, 1901
+Turdus iliacus iliacus Linnaeus, 1766
+Turdus musicus Linnaeus
+Turdus leucomelas Vieillot, 1818
+Turdus leucomelas albiventer Spix, 1824
+Turdus lherminieri (Lafresnaye, 1844)
+Cichlherminia lherminieri (Lafresnaye, 1844)
+Turdus merula Linnaeus, 1758
+Turdus migratorius Linnaeus, 1766
+Turdus naumanni Temminck, 1820
+Turdus naumanni naumanni Temminck, 1820
+Turdus nudigenis Lafresnaye, 1848
+Turdus obscurus Gmelin, 1789
+Turdus philomelos C. L. Brehm, 1831
+Turdus ericetorum Turton
+Turdus philomelos clarkei Hartert, 1909
+Turdus philomelos philomelos Clbrehm, 1831
+Turdus pilaris Linnaeus, 1758
+Turdus plumbeus Linnaeus, 1758
+Turdus poliocephalus Latham, 1801
+Turdus poliocephalus mareensis E. L. Layard & Tristram, 1879
+Turdus poliocephalus pritzbueri E. L. Layard, 1878
+Turdus poliocephalus xanthopus J. R. Forster, 1844
+Turdus ruficollis Pallas, 1776
+Turdus torquatus Linnaeus, 1758
+Turdus torquatus amicorum Hartert, 1923
+Turdus torquatus alpestris (Brehm, 1831)
+Turdus torquatus torquatus Linnaeus, 1758
+Turdus ulietensis Gmelin, 1789
+Turdus viscivorus Linnaeus, 1758
+Turdus viscivorus deichleri Erlanger, 1897
+Turdus viscivorus reiseri Schiebel, 1911
+Turdus viscivorus viscivorus Linnaeus, 1758
+Zoothera 
+Zoothera aurea (Holandre, 1825)
+Oreocincla dauma 
+Turdus dauma Latham, 1790
+Zoothera dauma (Latham, 1791)
+Zoothera sibirica (Pallas, 1776)
+Ixoreus sibiricus Pallas
+Turdus sibiricus Pallas, 1776
+Tyranni 
+Tyrannidae 
+Arundinicola D'Orbigny, 1840
+Arundinicola leucocephala (Linnaeus, 1764)
+Attila Lesson, 1831
+Attila cinnamomeus (Gmelin, 1789)
+Attila spadiceus (Gmelin, 1789)
+Camptostoma 
+Camptostoma obsoletum (Temminck, 1824)
+Muscicapa obsoleta Temminck, 1824
+Camptostoma obsoletum napaeum (Ridgway, 1888)
+Ornithion napaeum Ridgway, 1888
+Capsiempis 
+Capsiempis flaveola (Lichtenstein, 1823)
+Phylloscartes flaveola (Lichtenstein, 1823)
+Capsiempis flaveola cerula Wetmore, 1939
+Capsiempsis 
+Capsiempsis flaveola 
+Cnemotriccus Hellmayr, 1927
+Cnemotriccus fuscatus (Wied-Neuwied, 1831)
+Cnemotriccus fuscatus fumosus (Berlepsch, 1908)
+Empidochanes fuscatus fumosus Berlepsch, 1908
+Colonia 
+Colonia colonus (Vieillot, 1818)
+Muscicapa colonus Vieillot, 1818
+Colonia colonus poecilonota (Cabanis, 1849)
+Copurus poecilonotus Cabanis, 1849
+Conopias 
+Conopias parvus (Pelzeln, 1868)
+Conopias albovittatus parvus (Pelzeln, 1868)
+Conopias parva (Pelzeln, 1868)
+Pitangus parvus Pelzeln, 1868
+Contopus Cabanis, 1855
+Contopus albogularis (Berlioz, 1962)
+Contopus cinereus (Spix, 1825)
+Platyrhynchus cinereus Spix, 1825
+Contopus cinereus surinamensis A.P. Penard & F.P. Penard, 1910
+Contopus cooperi (Swainson, 1832)
+Contopus borealis (Swainson, 1832)
+Contopus latirostris (J. Verreaux, 1866)
+Contopus sordidulus Sclater, 1859
+Contopus virens (Linnaeus, 1766)
+Corythopis 
+Corythopis torquatus Tschudi, 1844
+Corythopis torquata Tschudi, 1844
+Corythopis torquatus anthoides (Pucheran, 1855)
+Muscicapa anthoïdes Pucheran, 1855
+Elaenia Sundevall, 1836
+Elaenia chiriquensis Lawrence, 1865
+Elaenia chiriquensis albivertex Pelzeln, 1868
+Elaenia cristata Pelzeln, 1868
+Elaenia flavogaster (Thunberg, 1822)
+Elaenia martinica (Linnaeus, 1766)
+Muscicapa martinica Linnaeus, 1766
+Elaenia martinica riisii Sclater, 1860
+Elaenia parvirostris Pelzeln, 1868
+Elaenia ruficeps Pelzeln, 1868
+Empidonax Cabanis, 1855
+Empidonax alnorum Brewster, 1895
+Empidonax flaviventris (W. M. Baird & Baird, 1843)
+Empidonax minimus (Baird & Baird, 1843)
+Empidonomus Cabanis & Heine, 1860
+Empidonomus aurantioatrocristatus (d'Orbigny & Lafresnaye, 1837)
+Griseotyrannus aurantioatrocristatus (d'Orbigny & Lafresnaye, 1837)
+Tyrannus aurantio-atro cristatus d'Orbigny & Lafresnaye, 1837
+Empidonomus varius (Vieillot, 1818)
+Muscicapa varia Vieillot, 1818
+Empidonomus varius rufinus (Spix, 1825)
+Muscicapa rufina Spix, 1825
+Empidonomus varius varius (Vieillot, 1818)
+Fluvicola Swainson, 1827
+Fluvicola pica (Boddaert, 1783)
+Hemitriccus Cabanis & Heine, 1860
+Hemitriccus josephinae (Chubb, 1914)
+Hemitriccus minor (Snethalge, 1907)
+Hemitriccus zosterops (Pelzeln, 1868)
+Hirundinea D'Orbigny & Lafresnaye, 1838
+Hirundinea ferruginea (Gmelin, 1788)
+Inezia Cherrie, 1909
+Inezia caudata (Salvin, 1897)
+Inezia subflava not Sclater & Salvin, 1873 sensu stricto
+Lathrotriccus 
+Lathrotriccus euleri (Cabanis, 1868)
+Empidochanes euleri Cabanis, 1868
+Empidonax euleri (Cabanis, 1868)
+Lathrotriccus euleri lawrencei (Allen, 1889)
+Empidonax lawrencei Allen, 1889
+Legatus Sclater, 1859
+Legatus leucophaius (Vieillot, 1818)
+Leptopogon Cabanis, 1844
+Leptopogon amaurocephalus Tschudi, 1846
+Leptopogon amaurocephalus orinocensis Zimmer & Phelps, 1946
+Lophotriccus Berlpesch, 1883
+Lophotriccus galeatus (Boddaert, 1783)
+Lophotriccus vitiosus (Bangs & Penard, 1921)
+Cometornis vitiosus Bangs & Penard, 1921
+Lophotriccus vitiosus guianensis Zimmer, 1940
+Megarynchus 
+Megarynchus pitangua (Linnaeus, 1766)
+Mionectes Cabanis, 1844
+Mionectes macconnelli (Chubb, 1919)
+Mionectes oleagineus (Lichtenstein, 1823)
+Myiarchus Cabanis, 1844
+Myiarchus cinerascens (Lawrence, 1851)
+Myiarchus crinitus (Linnaeus, 1758)
+Myiarchus ferox (Gmelin, 1789)
+Myiarchus oberi Lawrence, 1877
+Myiarchus stolidus (Gosse, 1847)
+Myiarchus swainsoni Cabanis & Heine, 1859
+Myiarchus tuberculifer (D'Orbigny & Lafresnaye, 1837)
+Myiarchus tyrannulus (Statius Müller, 1776)
+Myiobius Darwin, 1839
+Myiobius barbatus (Gmelin, 1789)
+Myiodynastes Bonaparte, 1854
+Myiodynastes maculatus (Statius Müller, 1776)
+Muscicapa maculata Statius Müller, 1776
+Myiodynastes maculatus maculatus (Statius Müller, 1776)
+Myiodynastes maculatus solitarius (Vieillot, 1819)
+Tyrannus solitarius Vieillot, 1819
+Myiopagis Salvin & Goldman, 1888
+Myiopagis caniceps (Swainson, 1835)
+Tyrannula caniceps Swainson, 1835
+Myiopagis caniceps cinerea (Pelzeln, 1868)
+Elaenia cinerea Pelzeln, 1868
+Myiopagis flavivertex (Sclater, 1887)
+Myiopagis gaimardii (D'Orbigny, 1840)
+Muscicapara Gaimardii D'Orbigny, 1840
+Myiopagis gaimardii guianensis (Berlepsch, 1907)
+Elaenia gaimardi guianensis Berlepsch, 1907
+Myiophobus Reichenbach, 1850
+Myiophobus fasciatus (Statius Müller, 1776)
+Myiornis Gloger, 1841
+Myiornis ecaudatus (D'Orbigny & Lafresnaye, 1837)
+Myiornis ecaudatus miserabilis (Chubb, 1919)
+Perissotriccus ecaudatus miserabilis Chubb, 1919
+Myiozetetes Sclater, 1859
+Myiozetetes cayanensis (Linnaeus, 1766)
+Myiozetetes luteiventris (Sclater, 1858)
+Elaenia luteiventris Sclater, 1858
+Tyrannopsis luteiventris (Sclater, 1858)
+Myiozetetes luteiventris septentrionalis Blake, 1961
+Myiozetetes similis (Spix, 1825)
+Neopipo Sclater & Salvin, 1869
+Neopipo cinnamomea (Lawrence, 1869)
+Neopipo cinnamomea helenae McConnell, 1911
+Ochthornis 
+Ochthornis littoralis (Pelzeln, 1868)
+Onychorhynchus 
+Onychorhynchus coronatus (P. L. S. Müller, 1776)
+Ornithion Hartlaub, 1810
+Ornithion inerme Hartlaub, 1853
+Phaeomyias Berlpesch & Hartert, 1902
+Phaeomyias murina (Spix, 1825)
+Platyrhynchus murinus Spix, 1825
+Phaeomyias murina wagae (Taczanowski, 1884)
+Myiopatis Wagae Taczanowski, 1884
+Phyllomyias 
+Phyllomyias griseiceps (P.L. Sclater & Salvin, 1871)
+Phylloscartes Cabanis & Heine, 1860
+Phylloscartes virescens Todd, 1925
+Piprites Cabanis, 1847
+Piprites chloris (Temminck, 1822)
+Pipra chloris Temminck, 1822
+Piprites chloris chlorion (Cabanis, 1847)
+Hemipipo chlorion Cabanis, 1847
+Pitangus Swainson, 1827
+Pitangus lictor (Lichtenstein, 1823)
+Lanius lictor Lichtenstein, 1823
+Philohydor lictor (Lichtenstein, 1823)
+Pitangus sulphuratus (Linnaeus, 1766)
+Platyrinchus Swainson, 1820
+Platyrinchus coronatus Sclater, 1858
+Platyrinchus coronatus gumia (Bangs & Penard, 1918)
+Placostomus coronatus gumia Bangs & Penard, 1918
+Platyrinchus mystaceus Vieillot, 1818
+Platyrinchus platyrhynchos (Gmelin, 1788)
+Platyrinchus saturatus Salvin & Goldman, 1882
+Poecilotriccus Berlepsch, 1884
+Poecilotriccus fumifrons (Hartlaub, 1853)
+Todirostrum fumifrons Hartlaub, 1853
+Poecilotriccus fumifrons penardi (Hellmayr, 1905)
+Todirostrum fumifrons penardi Hellmayr, 1905
+Polystictus Reichenbach, 1850
+Polystictus pectoralis (Vieillot, 1817)
+Sylvia pectoralis Vieillot, 1817
+Polystictus pectoralis brevipennis (Berlepsch & Hartert, 1902)
+Habrura pectoralis brevipennis Berlepsch & Hartert, 1902
+Pseudocolopteryx Lillo, 1905
+Pseudocolopteryx sclateri (Oustalet, 1892)
+Anaeretes sclateri Oustalet, 1892
+Ramphotrigon 
+Ramphotrigon ruficauda (Spix, 1825)
+Rhynchocyclus Cabanis & Heine, 1860
+Rhynchocyclus olivaceus (Temminck, 1820)
+Platyrhynchos olivaceus Temminck, 1820
+Rhynchocyclus olivaceus guianensis McConnell, 1911
+Rhytipterna Reichenbach, 1850
+Rhytipterna immunda (Sclater & Salvin, 1873)
+Rhytipterna simplex (Lichtenstein, 1823)
+Muscicapa simplex Lichtenstein, 1823
+Rhytipterna simplex frederici (Bangs & Penard, 1918)
+Lipaugus simplex frederici Bangs & Penard, 1918
+Sayornis 
+Sayornis phoebe (Latham, 1790)
+Sayornis saya (Bonaparte, 1825)
+Sirystes Cabanis & Heine, 1860
+Sirystes sibilator (Vieillot, 1818)
+Sirystes subcanescens Todd, 1920
+Sirystes sibilator auct. non (Vieillot, 1818)
+Sublegatus Sclater & Salvin, 1868
+Sublegatus arenarum (Salvin, 1863)
+Sublegatus arenarum glaber Sclater & Salvin, 1868
+Sublegatus obscurior Todd, 1920
+Terenotriccus Ridgway, 1905
+Terenotriccus erythrurus (Cabanis, 1847)
+Myiobius erythrurus Cabanis, 1847
+Todirostrum Lesson, 1831
+Todirostrum cinereum (Linnaeus, 1766)
+Todirostrum maculatum (Desmarest, 1806)
+Todirostrum pictum Salvin, 1897
+Todirostrum sylvia (Desmarest, 1806)
+Poecilotriccus sylvia (Desmarest, 1806)
+Todus sylvia Desmarest, 1806
+Tolmomyias Hellmayr, 1927
+Tolmomyias assimilis (Pelzeln, 1868)
+Rhynchocyclus assimilis Pelzeln, 1868
+Tolmomyias assimilis examinatus (Chubb, 1920)
+Rhynchocyclus sulphurascens examinatus Chubb, 1920
+Tolmomyias flaviventris (Wied-Neuwied, 1831)
+Muscipeta flaviventris Wied-Neuwied, 1831
+Tolmomyias flaviventris aurulentus (Todd, 1913)
+Rhynchocyclus flaviventris aurulentus Todd, 1913
+Tolmomyias poliocephalus (Taczanowski, 1884)
+Rhynchocyclus poliocephalus Taczanowski, 1884
+Tolmomyias poliocephalus sclateri (Hellmayr, 1903)
+Rhynchocyclus poliocephalus sclateri Hellmayr, 1903
+Tolmomyias sulphurescens (Spix, 1825)
+Platyrhynchus sulphurescens Spix, 1825
+Tolmomyias sulphurescens cherriei (Hartert & Goodson, 1917)
+Rhynchocyclus sulphurescens cherriei Hartert & Goodson, 1917
+Tyrannopsis Ridgway, 1907
+Tyrannopsis sulphurea (Spix, 1825)
+Tyrannulus Vieillot, 1816
+Tyrannulus elatus (Latham, 1790)
+Tyrannus Lacépède, 1799
+Tyrannus albogularis Burmeister, 1856
+Tyrannus dominicensis (Gmelin, 1788)
+Tyrannus dominicensis vorax Vieillot, 1819
+Tyrannus melancholicus Vieillot, 1819
+Tyrannus savana Daudin, 1802
+Tyrannus savana savana Daudin, 1802
+Tyrannus tyrannus (Linnaeus, 1758)
+Tyrannus verticalis Say, 1823
+Zimmerius Traylor, 1977
+Zimmerius acer (Salvin & Godman, 1883)
+Tyranniscus acer Salvin & Godman, 1883
+Zimmerius gracilipes acer (Salvin & Godman, 1883)
+Zimmerius gracilipes (Sclater & Salvin, 1867)
+Tyranniscus gracilipes Sclater & Salvin, 1867
+Tyrannoidea 
+Viduidae Cabanis, 1847
+Vidua Cuvier, 1816
+Vidua macroura (Pallas, 1764)
+Vireonidae 
+Cyclarhis Swainson, 1824
+Cyclarhis gujanensis (Gmelin, 1789)
+Hylophilus Temminck, 1822
+Hylophilus pectoralis Sclater, 1866
+Hylophilus semicinereus Sclater & Salvin, 1867
+Hylophilus semicinereus viridiceps (Todd, 1929)
+Pachysylvia semicinerea viridiceps Todd, 1929
+Hylophilus thoracicus Temminck, 1822
+Hylophilus thoracicus griseiventris Berlepsch & Hartert, 1902
+Hylophilus griseiventris griseiventris Berlepsch & Hartert, 1902
+Pachysylvia Bonaparte
+Pachysylvia muscicapina (Sclater & Salvin, 1873)
+Hylophilus muscicapinus Sclater & Salvin, 1873
+Tunchiornis Slager & Klicka, 2014
+Tunchiornis ochraceiceps (Sclater, 1859)
+Hylophilus ochraceiceps Sclater, 1859
+Tunchiornis ochraceiceps luteifrons (Sclater, 1881)
+Hylophilus luteifrons Sclater, 1881
+Hylophilus ochraceiceps luteifrons Sclater, 1881
+Vireo Vieillot, 1807
+Vireo altiloquus (Vieillot, 1808)
+Muscicapa altiloqua Vieillot, 1808
+Vireo flavifrons Vieillot, 1808
+Vireo griseus (Boddaert, 1783)
+Tanagra grisea Boddaert, 1783
+Vireo olivaceus (Linnaeus, 1766)
+Muscicapa olivacea Linnaeus, 1766
+Vireo olivaceus vividior Hellmayr & Seilern, 1913
+Vireo philadelphicus (Cassin, 1851)
+Vireo solitarius (A. Wilson, 1810)
+Vireolanius Du Bus de Gisignies, 1850
+Vireolanius leucotis (Swainson, 1837)
+Vireonoidea 
+Zosteropidae 
+Zosterops Vigors & Horsfield, 1827
+Zosterops borbonicus (Forster, 1781)
+Motacilla borbonica Forster, 1781
+Zosterops borbonicus borbonicus (Forster, 1781)
+Zosterops inornatus E. L. Layard, 1878
+Zosterops lateralis (Latham, 1802)
+Zosterops lateralis griseonata G. R. Gray, 1859
+Zosterops lateralis melanops G. R. Gray, 1860
+Zosterops lateralis nigrescens Sarasin, 1913
+Zosterops maderaspatanus (Linnaeus, 1766)
+Motacillla maderaspatana Linnaeus, 1766
+Zosterops maderaspatanus maderaspatanus (Linnaeus, 1766)
+Zosterops maderaspatanus voeltzkowi Reichenow, 1905
+Zosterops mayottensis Schlegel, 1867
+Zosterops maderaspatanus mayottensis Schlegel, 1867
+Zosterops minutus E. L. Layard, 1878
+Zosterops olivaceus (Linnaeus, 1766)
+Zosterops xanthochrous G. R. Gray, 1859
+Zosterops xanthochroa Gray, 1859
+Passerimorphae 
+Pelecaniformes 
+Ciconiiformes 
+Suli 
+Suliformes 
+Anhingidae 
+Anhinga Brisson, 1760
+Anhinga anhinga (Linnaeus, 1766)
+Ardeidae 
+Cochleariidae 
+Agamia Reichenbach, 1853
+Agamia agami (Gmelin, 1789)
+Ardea Agami Gmelin, 1789
+Ardea Linnaeus, 1758
+Ardea alba Linnaeus, 1758
+Casmerodius albus (Linnaeus, 1758)
+Egretta alba (Linnaeus, 1758)
+Ardea alba alba Linnaeus, 1758
+Ardea alba egretta Gmelin, 1789
+Egretta egretta (Gmelin, 1789)
+Ardea alba melanorhynchos Wagler, 1827
+Casmerodius albus melanorhynchos (Wagler, 1827)
+Ardea alba modesta J. E. Gray, 1831
+Ardea modesta J. E. Gray, 1831
+Casmerodius albus modestus (J. E. Gray, 1831)
+Ardea cinerea Linnaeus, 1758
+Ardea cocoi Linnaeus, 1766
+Ardea herodias Linnaeus, 1758
+Ardea herodias occidentalis Audubon, 1835
+Ardea humbloti Milne-Edwards & Grandidier, 1885
+Ardea melanocephala Vigors & Children, 1826
+Ardea purpurea Linnaeus, 1766
+Ardeola F. Boie, 1822
+Ardeola idae (Hartlaub, 1860)
+Ardea idae Hartlaub, 1860
+Ardeola ralloides (Scopoli, 1769)
+Botaurus Stephens, 1819
+Botaurus lentiginosus (Rackett, 1813)
+Botaurus pinnatus (Wagler, 1829)
+Botaurus poiciloptilus (Wagler, 1827)
+Botaurus stellaris (Linnaeus, 1758)
+Ardea stellaris Linnaeus, 1758
+Bubulcus Bonaparte, 1855
+Bubulcus ibis (Linnaeus, 1758)
+Ardea ibis Linnaeus, 1758
+Ardeola ibis (Linnaeus, 1758)
+Egretta ibis (Linnaeus, 1758)
+Bubulcus ibis coromandus (Boddaert, 1783)
+Bubulcus ibis ibis (Linnaeus, 1758)
+Butorides Blyth, 1852
+Butorides striata (Linnaeus, 1758)
+Ardea striatus Linnaeus, 1758
+Ardeola striata (Linnaeus, 1758)
+Butorides striatus (Linnaeus, 1758)
+Butorides striata macrorhyncha (Gould, 1848)
+Butorides striatus macrorhynchus (Gould, 1848)
+Butorides striata patruelis (Peale, 1848)
+Butorides striatus patruelis (Peale, 1848)
+Butorides striata rhizoporae 
+Butorides striatus rhizoporae 
+Butorides striata rutenbergi (Hartlaub, 1880)
+Butorides virescens (Linnaeus, 1758)
+Ardea virescens Linnaeus, 1758
+Cochlearius Brisson, 1760
+Cochlearius cochlearius (Linnaeus, 1766)
+Cancroma cochlearia Linnaeus, 1766
+Egretta T. Forster, 1817
+Egretta caerulea (Linnaeus, 1758)
+Ardea caerulea Linnaeus, 1758
+Florida caerulea (Linnaeus, 1758)
+Hydranassa caerulea (Linnaeus, 1758)
+Egretta dimorpha Hartert, 1914
+Egretta garzetta (Linnaeus, 1766)
+Ardea garzetta Linnaeus, 1766
+Egretta gularis (Bosc, 1792)
+Ardea gularis Bosc, 1792
+Egretta novaehollandiae (Latham, 1790)
+Ardea novaehollandiae Latham,1790
+Egretta picata (Gould, 1845)
+Egretta rufescens (Gmelin, 1789)
+Egretta sacra (Gmelin, 1789)
+Ardea sacra J.F.Gmelin,1789
+Egretta sacra albolineata (G. R. Gray, 1859)
+Egretta thula (Molina, 1782)
+Ardea thula Molina, 1782
+Egretta thula thula (Molina, 1782)
+Egretta tricolor (Statius Müller, 1776)
+Ardea tricolor Statius Muller, 1776
+Egretta tricolor tricolor (Statius Müller, 1776)
+Ixobrychus Billberg, 1828
+Ixobrychus exilis (Gmelin, 1789)
+Ardea exilis Gmelin, 1789
+Ixobrychus exilis erythromelas (Vieillot, 1817)
+Ardea erythromelas Vieillot, 1817
+Ixobrychus involucris (Vieillot, 1823)
+Ixobrychus minutus (Linnaeus, 1766)
+Ardea minuta Linnaeus, 1766
+Ixobrychus minutus dubius Mathews, 1912
+Ixobrychus dubius Mathews, 1912
+Nyctanassa Stejneger, 1887
+Nyctanassa violacea (Linnaeus, 1758)
+Ardea violacea Linnaeus, 1758
+Nycticorax violacea (Linnaeus, 1758)
+Nyctanassa violacea bancrofti Huey, 1927
+Nyctanassa violacea cayennensis (Gmelin, 1789)
+Ardea cayennensis Gmelin, 1789
+Nycticorax T. Forster, 1817
+Nycticorax caledonicus (Gmelin, 1789)
+Nycticorax caledonicus caledonicus (Gmelin, 1789)
+Nycticorax duboisi (Rothschild, 1907)
+Ardea duboisi Rothschild, 1907
+Nycticorax borbonensis G.S. Cowles, 1994
+Nycticorax nycticorax (Linnaeus, 1758)
+Ardea nycticorax Linnaeus, 1758
+Nycticorax nycticorax hoactli (Gmelin, 1789)
+Ardea Hoactli Gmelin, 1789
+Pilherodius Bonaparte, 1855
+Pilherodius pileatus (Boddaert, 1783)
+Tigrisoma Swainson, 1827
+Tigrisoma fasciatum (Such, 1825)
+Ardea Fasciata Such, 1825
+Tigrisoma fasciatum salmoni Sclater & Salvin, 1875
+Tigrisoma lineatum (Boddaert, 1783)
+Zebrilus Bonaparte, 1855
+Zebrilus undulatus (Gmelin, 1789)
+Ardea undulata Gmelin, 1789
+Ardeoidea 
+Ciconii 
+Ciconiidae 
+Ciconia Brisson, 1760
+Ciconia ciconia (Linnaeus, 1758)
+Ardea ciconia Linnaeus, 1758
+Ciconia maguari (Gmelin, 1789)
+Ardea Maguari Gmelin, 1789
+Ciconia nigra (Linnaeus, 1758)
+Ardea nigra Linnaeus, 1758
+Jabiru Hellmayr, 1906
+Jabiru mycteria (Lichtenstein, 1819)
+Ciconia mycteria Lichtenstein, 1819
+Mycteria Linnaeus, 1758
+Mycteria americana Linnaeus, 1758
+Ciconioidea 
+Fregatidae 
+Fregatoidea 
+Fregata Lacepède, 1799
+Fregata ariel (Gray, 1845)
+Atagen ariel Gray, 1845
+Fregata ariel ariel (Gray, 1845)
+Fregata magnificens Mathews, 1914
+Fregata minor magnificens Mathews, 1914
+Fregata minor (Gmelin, 1789)
+Fregata minor palmerstoni (Gmelin, 1789)
+Pelecani 
+Pelecanidae 
+Pelecanus Linnaeus, 1758
+Pelecanus conspicillatus Temminck, 1824
+Pelecanus crispus Bruch, 1832
+Pelecanus erythrorhynchos Gmelin, 1789
+Pelecanus occidentalis Linnaeus, 1766
+Pelecanus occidentalis occidentalis Linnaeus, 1766
+Pelecanus onocrotalus Linnaeus, 1758
+Pelecanus rufescens Gmelin, 1789
+Pelecanoidea 
+Phalacrocoracidae Reichenbach
+Phalacrocoracioidea 
+Phalacrocorax Brisson, 1760
+Phalacrocorax africanus (J. F. Gmelin, 1789)
+Phalacrocorax coronatus (Wahlberg, 1855)
+Phalacrocorax aristotelis (Linnaeus, 1761)
+Pelecanus aristotelis Linnaeus, 1761
+Phalacrocorax aristotelis aristotelis (Linnaeus, 1761)
+Phalacrocorax aristotelis desmarestii (Payraudeau, 1826)
+Phalacrocorax atriceps King, 1828
+Phalacrocorax albiventer (Lesson, 1831)
+Phalacrocorax auritus (Lesson, 1831)
+Phalacrocorax brasilianus (Gmelin, 1789)
+Pelecanus olivaceus (Humboldt, 1905)
+Phalacrocorax olivaceus (Humboldt, 1905)
+Phalacrocorax carbo (Linnaeus, 1758)
+Pelecanus carbo Linnaeus, 1758
+Phalacrocorax carbo lucidus (Lichtenstein, 1823)
+Phalacrocorax carbo sinensis (Blumbenbach, 1798)
+Phalacrocorax carbo carbo (Linnaeus, 1758)
+Phalacrocorax carbo novaehollandiae Stephens, 1826
+Phalacrocorax carbo sinensis (Shaw & Nodder, 1801)
+Phalacrocorax melanogenis Blyth, 1860
+Phalacrocorax atriceps melanogenis Blyth, 1860
+Phalacrocorax melanoleucos (Vieillot, 1817)
+Microcarbo melanoleucos (Vieillot, 1817)
+Phalacrocorax melanoleucos melanoleucos (Vieillot, 1817)
+Phalacrocorax pygmaeus (Pallas, 1773)
+Pelecanus pygmeus Pallas, 1773
+Phalacrocorax sulcirostris (Brandt, 1837)
+Phalacrocorax verrucosus (Cabanis, 1875)
+Halieus verrucosus Cabanis, 1875
+Phalacrocorax atriceps verrucosus (Cabanis, 1875)
+Sulidae 
+Morus Vieillot, 1816
+Morus bassanus (Linnaeus, 1758)
+Pelecanus bassanus Linnaeus, 1758
+Sula bassana (Linnaeus, 1758)
+Morus capensis (Lichtenstein, 1823)
+Dysporus capensis Lichtenstein, 1823
+Sula capensis (Lichtenstein, 1823)
+Morus serrator (G. R. Gray, 1843)
+Sula (Morus) serrator 
+Papasula Olson & Warheit, 1988
+Papasula abbotti Ridgway, 1893
+Sula Brisson, 1760
+Sula dactylatra Lesson, 1831
+Sula dactylatra dactylatra Lesson, 1831
+Sula dactylatra melanops Heuglin, 1859
+Sula dactylatra personata Gould, 1846
+Sula leucogaster (Boddaert, 1783)
+Pelecanus leucogaster Boddaert, 1783
+Sula leucogaster plotus (J. R. Forster, 1844)
+Sula sula (Linnaeus, 1766)
+Pelecanus sula Linnaeus, 1766
+Sula sula rubripes Gould, 1838
+Suloidea 
+Threskiornithidae 
+Threskiornithoidea 
+Eudocimus Wagler, 1832
+Eudocimus albus (Linnaeus, 1758)
+Eudocimus ruber (Linnaeus, 1758)
+Scolopax rubra Linnaeus, 1758
+Mesembrinibis Peters, 1930
+Mesembrinibis cayennensis (Gmelin, 1789)
+Tantalus cayennensis Gmelin, 1789
+Platalea Linnaeus, 1758
+Platalea ajaja Linnaeus, 1758
+Ajaia ajaja (Linnaeus, 1758)
+Platalea leucorodia Linnaeus, 1758
+Platalea regia Gould, 1838
+Plegadis Kaup, 1829
+Plegadis falcinellus (Linnaeus, 1766)
+Tantalus falcinellus Linnaeus, 1766
+Theristicus Wagler, 1832
+Theristicus caudatus (Boddaert, 1783)
+Threskiornis G. R. Gray, 1842
+Threskiornis aethiopicus (Latham, 1790)
+Threskiornis bernieri (Bonaparte, 1855)
+Threskiornis solitarius (Mourer-Chauviré & Moutou, 1987)
+Raphus solitarius (Sélys-Longchamps, 1848)
+Phaethontiformes 
+Phaethonti 
+Phaethontidae 
+Phaethontoidea 
+Phaethon Linnaeus, 1758
+Phaethon aethereus Linnaeus, 1758
+Phaethon aethereus mesonauta Peters, 1930
+Phaethon lepturus Daudin, 1802
+Phaethon lepturus catesbyi Brandt, 1838
+Phaethon lepturus dorotheae Mathews, 1913
+Phaethon lepturus europae Le Corre & Jouventin, 1999
+Phaethon lepturus lepturus Daudin, 1802
+Phaethon rubricauda Boddaert, 1783
+Phoenicopteriformes 
+Phenicopteriformes 
+Phoenicopteridae 
+Phoeniconaias Gray, 1869
+Phoeniconaias minor (Geoffroy Saint-Hilaire, 1798)
+Phoenicopterus minor Geoffroy Saint-Hilaire, 1798
+Phoenicopterus minor Geoffroy, 1798
+Phoenicopterus Linnaeus, 1758
+Phoenicopterus chilensis Molina, 1782
+Phoenicopterus roseus Pallas, 1811
+Phoenicopterus ruber roseus Pallas, 1811
+Phoenicopterus ruber auct. non Linnaeus, 1758
+Phoenicopterus ruber Linnaeus, 1758
+Phoenicopterus ruber ruber Linnaeus, 1758
+Phoenicopteroidea 
+Phoenicopterimorphae 
+Piciformes 
+Picimorphae 
+Bucconidae 
+Bucconides 
+Bucco Brisson, 1760
+Bucco capensis Linnaeus, 1766
+Bucco tamatia Gmelin, 1788
+Chelidoptera Gould, 1836
+Chelidoptera tenebrosa (Pallas, 1782)
+Malacoptila Gray, 1841
+Malacoptila fusca (Gmelin, 1788)
+Monasa Vieillot, 1816
+Monasa atra (Boddaert, 1783)
+Nonnula Sclater, 1853
+Nonnula rubecula (Spix, 1824)
+Bucco rubecula Spix, 1824
+Nonnula rubecula tapanahoniensis Mees, 1968
+Notharchus Cabanis & Heine, 1863
+Notharchus macrorhynchos (Gmelin, 1788)
+Notharchus tectus (Boddaert, 1783)
+Capitonidae 
+Capitonini 
+Capito Vieillot, 1816
+Capito niger (Statius Müller, 1776)
+Galbuli 
+Galbuliformes 
+Galbulimorphae 
+Galbulidae 
+Brachygalba Bonaparte, 1854
+Brachygalba lugubris (Swainson, 1838)
+Galbula Brisson, 1760
+Galbula albirostris Latham, 1790
+Galbula dea (Linnaeus, 1768)
+Galbula galbula (Linnaeus, 1766)
+Galbula leucogastra Vieillot, 1817
+Galbula ruficauda Cuvier, 1816
+Jacamerops Oken, 1817
+Jacamerops aureus (Statius Müller, 1776)
+Alcedo aurea Statius Müller, 1776
+Jacamerops aurea (Statius Müller, 1776)
+Pici 
+Picidae 
+Campephilus Gray, 1840
+Campephilus melanoleucos (Gmelin, 1788)
+Campephilus rubricollis (Boddaert, 1783)
+Celeus F. Boie, 1831
+Celeus elegans (Statius Müller, 1776)
+Celeus flavus (Statius Müller, 1776)
+Celeus grammicus (Natterer & Malherbe, 1845)
+Celeus torquatus (Boddaert, 1783)
+Celeus undatus (Linnaeus, 1766)
+Colaptes Swainson, 1825
+Colaptes auratus (Linnaeus, 1758)
+Colaptes punctigula (Boddaert, 1783)
+Colaptes rubiginosus (Swainson, 1820)
+Piculus rubiginosus (Swainson, 1820)
+Picus rubiginosus Swainson, 1820
+Colaptes rubiginosus nigriceps Blake, 1941
+Dendrocopos 
+Dendrocopos leucotos (Bechstein, 1803)
+Dendrocopos leucotos leucotos (Bechstein, 1803)
+Dendrocopos leucotos lilfordi (Sharpe & Dresser, 1871)
+Picus lecotos Bechstein, 1803
+Dendrocopos major (Linnaeus, 1758)
+Dendrocopos major major (Linnaeus, 1758)
+Dendrocopos major pinetorum Brehm, 1831
+Dryocopus major 
+Picoides major (Linnaeus, 1758)
+Picus major Linnaeus, 1758
+Dendrocopos medius (Linnaeus, 1758)
+Picoides medius (Linnaeus, 1758)
+Picus medius Linnaeus, 1758
+Dendrocopos minor (Linnaeus, 1758)
+Dendrocopos minor buturlini (Hartert, 1912)
+Dendrocopos minor hortorum (Brehm, 1831)
+Dendrocopos minor minor (Linnaeus, 1758)
+Picoides minor (Linnaeus, 1758)
+Picus minor Linnaeus, 1758
+Dryocopus F. Boie, 1826
+Dryocopus lineatus (Linnaeus, 1766)
+Dryocopus martius (Linnaeus, 1758)
+Jynx Linnaeus, 1758
+Jynx torquilla Linnaeus, 1758
+Jynx torquilla torquilla Linnaeus, 1758
+Jynx torquilla tschusii Kleinschmidt, 1907
+Melanerpes Swainson, 1832
+Melanerpes candidus (Otto, 1796)
+Melanerpes cruentatus (Boddaert, 1783)
+Melanerpes erythrocephalus (Linnaeus, 1758)
+Melanerpes herminieri (Lesson, 1830)
+Picoides Lacépède, 1799
+Picoides arcticus (Swainson, 1832)
+Picoides pubescens (Linnaeus, 1766)
+Picoides tridactylus (Linnaeus, 1758)
+Picus tridactylus Linnaeus, 1758
+Picoides villosus (Linnaeus, 1766)
+Piculus Spix, 1824
+Piculus chrysochloros (Vieillot, 1818)
+Piculus chrysochloros guianensis Todd, 1937
+Piculus flavigula (Boddaert, 1783)
+Picumnus Temminck, 1825
+Picumnus cirratus Temminck, 1825
+Picumnus cirratus confusus Kinnear, 1927
+Picumnus exilis (Lichtenstein, 1823)
+Picus exilis Lichtenstein, 1823
+Picumnus exilis buffoni Lafresnaye, 1845
+Picumnus minutissimus (Pallas, 1782)
+Picumnus spilogaster Sundevall, 1866
+Picus Linnaeus, 1758
+Picus canus Gmelin, 1788
+Picus viridis Linnaeus, 1758
+Picus viridis sharpei (H. Saunders, 1872)
+Picus viridis viridis Linnaeus, 1758
+Sphyrapicus Baird, 1858
+Sphyrapicus varius (Linnaeus, 1766)
+Veniliornis Bonaparte, 1854
+Veniliornis affinis (Swainson, 1821)
+Veniliornis cassini (Malherbe, 1862)
+Veniliornis passerinus (Linnaeus, 1766)
+Veniliornis sanguineus (Lichtenstein, 1783)
+Picoidea 
+Ramphastidae 
+Ramphastinae 
+Ramphastini 
+Aulacorhynchus Gould, 1835
+Aulacorhynchus derbianus Gould, 1835
+Aulacorhynchus whitelianus Salvin & Godman, 1882
+Aulacorhynchus derbianus auct. non Gould, 1835
+Aulacorhynchus whitelianus osgoodi Blake, 1941
+Pteroglossus Illiger, 1811
+Pteroglossus aracari (Linnaeus, 1758)
+Ramphastos Aracari Linnaeus, 1758
+Pteroglossus aracari atricollis (Statius Müller, 1776)
+Ramphastos atricollis Statius Müller, 1776
+Pteroglossus viridis (Linnaeus, 1766)
+Ramphastos Linnaeus, 1758
+Ramphastos toco Statius Müller, 1776
+Ramphastos tucanus Linnaeus, 1758
+Ramphastos vitellinus Lichtenstein, 1823
+Selenidera Gould, 1837
+Selenidera nattereri (Gould, 1836)
+Selenidera piperivora (Linnaeus, 1758)
+Pteroglossus culik Wagler, 1827
+Ramphastos piperivorus Linnaeus, 1758
+Selenidera culik (Wagler, 1827)
+Ramphastoidea 
+Ramphastides 
+Podicipediformes 
+Podicipedidae 
+Podicipitidae 
+Podiceps Latham, 1787
+Podiceps auritus (Linnaeus, 1758)
+Colymbus auritus Linnaeus, 1758
+Podicipes auritus (Linnaeus, 1758)
+Podiceps cristatus (Linnaeus, 1758)
+Colymbus cristatus Linnaeus, 1758
+Podicipes cristatus (Linnaeus, 1758)
+Podiceps grisegena (Boddaert, 1783)
+Colymbus grisegena Boddaert, 1783
+Podicipes grisegena Boddaert, 1783
+Podiceps nigricollis Brehm, 1831
+Podicipes nigricollis Brehm, 1831
+Podilymbus Lesson, 1831
+Podilymbus podiceps (Linnaeus, 1758)
+Colymbus podiceps Linnaeus, 1758
+Podilymbus podiceps antarcticus (Lesson, 1842)
+Podilymbus podiceps antillarum Bangs, 1913
+Tachybaptus Reichenbach, 1853
+Tachybaptus dominicus (Linnaeus, 1766)
+Colymbus dominicus Linnaeus, 1766
+Tachybaptus novaehollandiae (Stephens, 1826)
+Tachybaptus novaehollandiae leucosternos (Mayr, 1931)
+Tachybaptus ruficollis (Pallas, 1764)
+Colymbus ruficollis Pallas, 1764
+Podiceps ruficollis 
+Tachybaptus ruficollis capensis (Salvadori, 1884)
+Podiceps capensis Salvadori, 1884
+Procellariiformes 
+Procellarii 
+Procellarioidea 
+Diomedeidae 
+Diomedeoidea 
+Diomedea Linnaeus, 1758
+Diomedea bulleri (Rothschild, 1893)
+Diomedea epomophora Lesson, 1825
+Diomedea epomophora epomophora Lesson, 1825
+Diomedea epomorpha Lesson, 1825
+Diomedea exulans Linnaeus, 1758
+Diomedea exulans exulans Linnaeus, 1758
+Diomedea exulans amsterdamensis Roux, Jouventin, Mougin, Stahl & Weimerskirch, 1983
+Diomedea amsterdamensis Roux, Jouventin, Mougin, Stahl & Weimerskirch, 1983
+Phoebetria Reichenbach, 1852
+Phoebetria fusca (Hilsenberg, 1822)
+Phoebetria palpebrata (J. R. Forster, 1785)
+Thalassarche Reichenbach, 1853
+Thalassarche bulleri (Rothschild, 1893)
+Thalassarche carteri (Rothschild, 1903)
+Thalassarche bassi (Mathews, 1912)
+Thalassarche chlororhynchos carteri (Mathews, 1912)
+Thalassarche cauta (Gould, 1841)
+Diomedea cauta (Gould, 1841)
+Diomedea cauta Gould, 1841
+Thalassarche chlororhynchos (Gmelin, 1789)
+Diomedea chlororhynchos Gmelin, 1789
+Thalassarche chlororhynchos chlororynchos (Gmelin, 1789)
+Thalassarche chlororhynchus (Gmelin, 1789)
+Thalassarche chlororhyncos (Gmelin, 1789)
+Thalassarche chrysostoma (Forster, 1785)
+Diomedea chrysostoma Forster, 1785
+Thalassarche eremita Murphy, 1930
+Thalassarche impavida Mathews, 1912
+Thalassarche melanophris (Temminck, 1828)
+Diomedea melanophris Temminck, 1828
+Diomedea melanophrys Temminck, 1828
+Thalassarche melanophrys (Temminck, 1828)
+Thalassarche salvini (Rothschild, 1893)
+Thalassarche steadi Falla, 1933
+Hydrobatidae 
+Hydrobatoidea 
+Hydrobates Boie, 1822
+Oceanodroma Reichenbach, 1853
+Hydrobates castro (Harcourt, 1851)
+Oceanodroma castro (Harcourt, 1851)
+Thalassidroma castro Harcourt, 1851
+Hydrobates leucorhous (Vieillot, 1818)
+Oceanodroma leucorhoa (Vieillot, 1818)
+Procellaria leucorhoa Vieillot, 1818
+Hydrobates matsudairae (Kuroda, 1922)
+Oceanodroma matsudairae Kuroda, 1922
+Hydrobates monorhis (Swinhoe, 1867)
+Oceanodroma monorhii (Swinhoe, 1867)
+Oceanodroma monorhis (Swinhoe, 1867)
+Thalassidroma monorhis Swinhoe, 1867
+Hydrobates pelagicus (Linnaeus, 1758)
+Procellaria pelagica Linnaeus, 1758
+Hydrobates pelagicus melitensis (Schembri, 1843)
+Hydrobates pelagicus pelagicus (Linnaeus, 1758)
+Oceanitidae 
+Oceanitinae 
+Fregetta Bonaparte, 1855
+Fregetta grallaria (Vieillot, 1818)
+Fregetta grallaria titan Murphy, 1928
+Fregetta tropica (Gould, 1844)
+Garrodia W. A. Forbes, 1881
+Garrodia nereis (Gould, 1841)
+Oceanites nereis Gould, 1844
+Nesofregetta Mathews, 1912
+Nesofregetta fuliginosa (Gmelin, 1789)
+Oceanites Keyserling & Blasius, 1840
+Oceanites oceanicus (Kuhl, 1820)
+Procellaria oceanica Kühl, 1820
+Pelagodroma Reichenbach, 1852
+Pelagodroma marina (Latham, 1790)
+Procellaria marina Latham, 1790
+Procellariidae 
+Pelecanoididae 
+Aphrodroma Olson, 2000
+Aphrodroma brevirostris (Lesson, 1831)
+Lugensa brevirostris (Lesson, 1831)
+Pterodroma brevirostris (Lesson, 1831)
+Ardenna Reichenbach, 1853
+Ardenna carneipes (Gould, 1844)
+Puffinus carneipes Gould, 1844
+Ardenna gravis (O'Reilly, 1818)
+Procellaria gravis O'Reilly, 1818
+Puffinus gravis (O'Reilly, 1818)
+Ardenna pacifica (Gmelin, 1789)
+Puffinus pacificus (Gmelin, 1789)
+Ardenna pacifica chlororhynchus (Lesson, 1831)
+Puffinus pacificus chlororhynchus Lesson, 1831
+Bulweria Bonaparte, 1843
+Bulweria bulwerii (Jardine & Selby, 1828)
+Procellaria bulwerii Jardine & Selby, 1828
+Bulweria fallax Jouanin, 1955
+Calonectris Mathews & Iredale, 1915
+Calonectris diomedea (Scopoli, 1769)
+Calonectris diomedea borealis (Cory, 1881)
+Calonectris diomedea diomedea (Scopoli, 1769)
+Procellaria diomedea Scopoli, 1769
+Puffinus diomedea (Scopoli, 1769)
+Puffinus kuhli (Boie, 1835)
+Calonectris leucomelas (Temminck, 1835)
+Daption Stephens, 1826
+Daption capense (Linnaeus, 1758)
+Fulmarus Stephens, 1826
+Fulmarus glacialis (Linnaeus, 1761)
+Procellaria glacialis Linnaeus, 1761
+Fulmarus glacialoides (A. Smith, 1840)
+Halobaena Bonaparte, 1856
+Halobaena caerulea (Gmelin, 1789)
+Macronectes Richmond, 1905
+Macronectes giganteus (Gmelin, 1789)
+Procellaria gigantea Gmelin, 1789
+Macronectes halli Mathews, 1912
+Pachyptila Illiger, 1811
+Pachyptila belcheri (Mathews, 1912)
+Pachyptila desolata (Gmelin, 1789)
+Pachyptila salvini (Mathews, 1912)
+Pachyptila salvini macgillivrayi (Mathews, 1912)
+Pachyptila macgillivrayi (Mathews, 1912)
+Pachyptila turtur (Kuhl, 1820)
+Pachyptila crassirostris (Mathews, 1912)
+Pachyptila vittata (Forster, 1777)
+Pagodroma Bonaparte, 1856
+Pagodroma nivea (G. Forster, 1777)
+Pelecanoides Lacepède, 1799
+Pelecanoides georgicus Murphy & Harper, 1916
+Pelecanoides urinatrix (Gmelin, 1789)
+Pelecanoides urinatix (Gmelin, 1789)
+Pelecanoides urinatrix exsul Salvin, 1896
+Procellaria Linnaeus, 1758
+Procellaria aequinoctialis Linnaeus, 1758
+Procellaria cinerea Gmelin, 1789
+Adamastor cinereus (Gmelin, 1789)
+Procellaria conspicillata Gould, 1844
+Pseudobulweria Mathews, 1936
+Pseudobulweria aterrima (Bonaparte, 1857)
+Pterodroma aterrima Bonaparte, 1857
+Pseudobulweria rostrata (Peale, 1848)
+Pseudobulweria rostrata rostrata (Peale, 1848)
+Pseudobulweria rostrata trouessarti (Brasil, 1917)
+Pterodroma rostrata trouessarti Brasil, 1917
+Pterodroma Bonaparte, 1856
+Pterodroma alba (Gmelin, 1789)
+Pterodroma arminjoniana (Giglioli & Salvadori, 1869)
+Pterodroma baraui (Jouanin, 1964)
+Bulweria baraui Jouanin, 1964
+Pterodroma brevipes (Peale, 1848)
+Pterodroma (Leucoptera) brevipes 
+Pterodroma leucoptera brevipes (Peale, 1848)
+Pterodroma caribbaea Carte, 1866
+Pterodroma hasitata caribbaea Carte, 1866
+Pterodroma cervicalis (Salvin, 1891)
+Pterodroma cookii (G. R. Gray, 1843)
+Pterodroma deserta Mathews, 1934
+Pterodroma feae deserta Mathews, 1934
+Pterodroma externa (Salvin, 1875)
+Pterodroma feae (Salvadori, 1899)
+Pterodroma feae Mathews, 1934
+Pterodroma hasitata (Kuhl, 1820)
+Pterodroma heraldica (Salvin, 1888)
+Pterodroma arminjoniana heraldica (Salvin, 1888)
+Pterodroma inexpectata (J. R. Forster, 1844)
+Pterodroma lessonii (Garnot, 1826)
+Pterodroma leucoptera (Gould, 1844)
+Pterodroma leucoptera caledonica Naurois, 1978
+Pterodroma macroptera (A. Smith, 1840)
+Pterodroma madeira Mathews, 1934
+Pterodroma mollis madeira Mathews, 1934
+Pterodroma mollis (Gould, 1844)
+Pterodroma neglecta (Schlegel, 1863)
+Pterodroma nigripennis (Rothschild, 1893)
+Pterodroma sandwichensis (Ridgway, 1884)
+Oestrelata sandwichensis Ridgway, 1884
+Pterodroma solandri (Gould, 1844)
+Pterodroma phillipii Gray, 1862
+Pterodroma ultima Murphy, 1949
+Puffinus Brisson, 1760
+Puffinus assimilis Gould, 1838
+Puffinus auricularis Townsend, 1890
+Puffinus auricularis myrtae Bourne, 1959
+Puffinus assimilis myrtae Bourne, 1959
+Puffinus bailloni Bonaparte, 1857
+Puffinus bailloni bailloni Bonaparte, 1857
+Puffinus lherminieri bailloni (Bonaparte, 1857)
+Puffinus bulleri Salvin, 1888
+Ardenna bulleri (Salvin, 1888)
+Puffinus creatopus Coues, 1864
+Puffinus gavia (J. R. Forster, 1844)
+Puffinus griseus (Gmelin, 1789)
+Ardenna grisea (Gmelin, 1789)
+Procellaria grisea Gmelin, 1789
+Puffinus lherminieri Lesson, 1839
+Puffinus lherminieri baroli (Bonaparte, 1857)
+Procellaria baroli Bonaparte, 1857
+Puffinus assimilis baroli (Bonaparte, 1857)
+Puffinus baroli (Bonaparte, 1857)
+Puffinus lherminieri gunax Mathews, 1930
+Puffinus lherminieri temptator Louette & Herremans, 1985
+Puffinus bailloni temptator Louette & Herremans, 1985
+Puffinus persicus temptator Louette & Herremans, 1985
+Puffinus mauretanicus Lowe, 1921
+Puffinus puffinus mauretanicus Lowe, 1921
+Puffinus puffinus mauretanicus P. R. Lowe, 1921
+Puffinus yelkouan mauretanicus Lowe, 1921
+Puffinus nativitatis Streets, 1877
+Puffinus puffinus (Brünnich, 1764)
+Procellaria puffinus Brunnich, 1764
+Puffinus puffinus puffinus (Brünnich, 1764)
+Puffinus tenuirostris (Temminck, 1835)
+Ardenna tenuirostris (Temminck, 1835)
+Puffinus yelkouan (Acerbi, 1827)
+Puffinus puffinus yelkouan (Acerbi, 1827)
+Puffinus yelkouan yelkouan (Acerbi, 1827)
+Thalassoica Reichenbach, 1852
+Thalassoica antarctica (Gmelin, 1789)
+Procellaria antarctica Gmelin, 1789
+Procellariimorphae 
+Psittaciformes 
+Cacatuidae 
+Nymphicus Wagler, 1832
+Nymphicus hollandicus (Kerr, 1792)
+Psittaci 
+Psittacidae 
+Psittaculidae 
+Agapornis Selby, 1836
+Agapornis canus (J. F. Gmelin, 1788)
+Agapornis fischeri Reichenow, 1887
+Agapornis personatus Reichenow, 1887
+Agapornis pullarius (Linnaeus, 1758)
+Amazona Lesson, 1830
+Amazona amazonica (Linnaeus, 1766)
+Amazona dufresniana (Shaw, 1812)
+Psittacus dufresnianus Shaw, 1812
+Amazona farinosa (Boddaert, 1783)
+Amazona martinicana Clark, 1905
+Amazona martinicana Labat, 1905
+Ara martinica 
+Amazona ochrocephala (Gmelin, 1788)
+Amazona violacea (Gmelin, 1789)
+Ara Lacépède, 1799
+Ara ararauna (Linnaeus, 1758)
+Ara chloropterus G. R. Gray, 1859
+Ara guadeloupensis Clark, 1905
+Ara macao (Linnaeus, 1758)
+Ara severus (Linnaeus, 1758)
+Ara severa (Linnaeus, 1758)
+Psittacus severus Linnaeus, 1758
+Aratinga Spix, 1824
+Aratinga nenday (Vieillot, 1823)
+Nandayus nenday (Vieillot, 1823)
+Psittacus nenday Vieillot, 1823
+Aratinga solstitialis (Linnaeus, 1758)
+Psittacus solstitialis Linnaeus, 1758
+Brotogeris Vigors, 1825
+Brotogeris chrysoptera (Linnaeus, 1766)
+Brotogeris chrysopterus (Linnaeus, 1766)
+Psittacus chrysopterus Linnaeus, 1766
+Brotogeris versicolurus (P. L. S. Müller, 1776)
+Charmosyna Wagler, 1832
+Charmosyna diadema (Verreaux & Des Murs, 1860)
+Cyanoramphus Bonaparte, 1854
+Cyanoramphus saisseti J. Verreaux & Des Murs, 1860
+Cyanoramphus ulietanus (Gmelin, 1788)
+Cyanoramphus zealandicus (Latham, 1790)
+Deroptyus Wagler, 1832
+Deroptyus accipitrinus (Linnaeus, 1758)
+Diopsittaca Ridgway, 1912
+Diopsittaca nobilis (Linnaeus, 1758)
+Ara nobilis (Linnaeus, 1758)
+Psittacus nobilis Linnaeus, 1758
+Eunymphicus Peters, 1937
+Eunymphicus cornutus (Gmelin, 1788)
+Eunymphicus cornutus cornutus (Gmelin, 1788)
+Eunymphicus uvaeensis (E. L. Layard & E. L. C. Layard, 1882)
+Eunymphicus cornutus uvaeensis (E. L. Layard & E. L. C. Layard, 1882)
+Eupsittula Bonaparte, 1853
+Eupsittula aurea (Gmelin, 1788)
+Aratinga aurea (Gmelin, 1788)
+Psittacus aureus Gmelin, 1788
+Eupsittula labati Rothschild, 1905
+Aratinga labati (Rothschild, 1905)
+Eupsittula pertinax (Linnaeus, 1758)
+Aratinga pertinax (Linnaeus, 1758)
+Psittacus pertinax Linnaeus, 1758
+Eupsittula pertinax surinama Zimmer & Phelps, 1951
+Forpus F. Boie, 1858
+Forpus modestus (Cabanis, 1849)
+Forpus modestus modestus (Cabanis, 1849)
+Forpus modestus sclateri (Gray, 1859)
+Forpus sclateri (Gray, 1859)
+Psittacula Sclateri Gray, 1859
+Forpus passerinus (Linnaeus, 1758)
+Graydidascalus Bonaparte, 1852
+Graydidascalus brachyurus (Kuhl, 1820)
+Lophopsittacus Newton, 1875
+Lophopsittacus bensoni Holyoak, 1973
+Mascarinus Lesson,1830
+Mascarinus mascarin (Linnaeus, 1771)
+Mascarinus mascarinus (Linnaeus, 1771)
+Melopsittacus Gould, 1840
+Melopsittacus undulatus (Shaw, 1805)
+Myiopsitta Bonaparte, 1854
+Myiopsitta monacha (Boddaert, 1783)
+Myiopsitta monachus (Boddaert, 1783)
+Orthopsittaca Ridgway, 1912
+Orthopsittaca manilatus (Boddaert, 1783)
+Ara manilata (Boddaert, 1783)
+Orthopsittaca manilata (Boddaert, 1783)
+Psittacus manilatus Boddaert, 1783
+Pionites Heine, 1890
+Pionites melanocephalus (Linnaeus, 1758)
+Pionites melanocephala (Linnaeus, 1758)
+Psittacus melanocephalus Linnaeus, 1758
+Pionus Wagler, 1832
+Pionus fuscus (Statius Müller, 1776)
+Pionus menstruus (Linnaeus, 1766)
+Psittacara Vigors, 1825
+Psittacara chloropterus Souancé, 1856
+Aratinga chloroptera (Souancé, 1856)
+Psittacara leucophthalmus (Statius Müller, 1776)
+Aratinga leucophthalma (Statius Müller, 1776)
+Aratinga leucophthalmus (Statius Müller, 1776)
+Psittacus leucophthalmus Statius Müller, 1776
+Psittacula Cuvier, 1800
+Psittacula eques (Boddaert, 1783)
+Psittacula eques eques (Boddaert, 1783)
+Psittacula krameri (Scopoli, 1769)
+Paleornis torquatus 
+Psittacus krameri Scopoli, 1769
+Psittacus Linnaeus, 1758
+Psittacus borbonicus Rothschild, 1907
+Psittacus erithacus Linnaeus, 1758
+Pyrilia Bonaparte, 1856
+Pyrilia caica (Latham, 1790)
+Gypopsitta caica (Latham, 1790)
+Pionopsitta caica (Latham, 1790)
+Pyrrhura Bonaparte, 1856
+Pyrrhura picta (Statius Müller, 1776)
+Touit Gray, 1855
+Touit batavicus (Boddaert, 1783)
+Psittaca Batavica Boddaert, 1783
+Touit batavica (Boddaert, 1783)
+Touit purpuratus (Gmelin, 1788)
+Psittacus purpuratus Gmelin, 1788
+Touit purpurata (Gmelin, 1788)
+Trichoglossus Stephens, 1826
+Trichoglossus haematodus (Linnaeus, 1771)
+Trichoglossus haematodus deplanchei J. Verreaux & Des Murs, 1860
+Vini Lesson, 1833
+Vini australis (Gmelin, 1788)
+Vini kuhlii (Vigors, 1824)
+Vini peruviana (Statius Müller, 1776)
+Vini sinotoi Steadman & Zarriello, 1987
+Vini ultramarina (Kuhl, 1820)
+Vini vidivici Steadman & Zarriello, 1987
+Psittacoidea 
+Pterocliformes 
+Pteroclidae Bonaparte, 1831
+Pteroclidi 
+Pteroclididae 
+Pteroclidoidea 
+Pterocles 
+Pterocles alchata (Linnaeus, 1758)
+Tetrao alchata Linnaeus, 1776
+Syrrhaptes 
+Syrrhaptes paradoxus (Pallas, 1773)
+Ratitae 
+Sphenisciformes 
+Spheniscidae 
+Aptenodytes J. R. Forster, 1777
+Aptenodytes forsteri G. R. Gray, 1844
+Aptenodytes patagonicus Miller, 1778
+Aptenodytes patagonicus halli Mathews, 1911
+Eudyptes Vieillot, 1816
+Eudyptes chrysocome (Forster, 1781)
+Eudyptes chrysocome chrysocome (Forster, 1781)
+Eudyptes chrysocome filholi Hutton, 1879
+Eudyptes filholi Hutton, 1879
+Eudyptes chrysolophus (Brandt, 1837)
+Eudyptes moseleyi Mathews & Iredale, 1921
+Eudyptes chrysocome moseleyi Mathews & Iredale, 1921
+Eudyptes schlegeli Finsch, 1876
+Eudyptes sclateri Buller, 1888
+Pygoscelis Wagler, 1832
+Pygoscelis adeliae (Hombron & Jacquinot, 1841)
+Pygoscelis antarcticus (Forster, 1781)
+Pygoscelis antarctica (J. R. Forster, 1781)
+Pygoscelis papua (J. R. Forster, 1781)
+Strigiformes 
+Strigi 
+Strigidae 
+Aegolius 
+Aegolius acadicus (Gmelin, 1788)
+Aegolius funereus (Linnaeus, 1758)
+Strix funerea Linnaeus, 1758
+Asio Brisson, 1760
+Asio clamator (Vieillot, 1807)
+Bubo Clamator Vieillot, 1808
+Pseudoscops clamator (Vieillot, 1807)
+Asio flammeus (Pontoppidan, 1763)
+Asio accipitrinus Zarudny & Loudon, 1906
+Strix flammeus Pontoppidan, 1763
+Asio otus (Linnaeus, 1758)
+Strix otus Linnaeus, 1758
+Asio stygius (Wagler, 1832)
+Athene 
+Athene cunicularia (Molina, 1782)
+Strix Cunicularia Molina, 1782
+Athene cunicularia minor (Cory, 1918)
+Speotyto cunicularia minor Cory, 1918
+Athene noctua (Scopoli, 1769)
+Athene noctua vidalii (Brehm, 1857)
+Strix noctua Scopoli, 1769
+Athene noctua lunellensis Mourer-Chauviré, 1975
+Bubo 
+Bubo bubo (Linnaeus, 1758)
+Bubo bubo bubo (Linnaeus, 1758)
+Bubo bubo hispaus Rothschild & Hartert, 1910
+Bubo maximus Flemm.
+Strix bubo Linnaeus, 1758
+Bubo scandiaca (Linnaeus, 1758)
+Bubo scandiacus (Linnaeus, 1758)
+Nyctea nivea 
+Nyctea nyctea 
+Nyctea scandiaca (Linnaeus, 1758)
+Strix scandiaca Linnaeus, 1758
+Bubo virginianus (Gmelin, 1788)
+Strix virginiana Gmelin, 1788
+Bubo virginianus nacurutu (Vieillot, 1817)
+Strix nacurutu Vieillot, 1817
+Ciccaba 
+Ciccaba huhula (Daudin, 1800)
+Strix huhula Daudin, 1800
+Ciccaba virgata (Cassin, 1849)
+Strix virgata (Cassin, 1849)
+Syrnium virgatum Cassin, 1849
+Ciccaba virgata macconnelli Chubb, 1916
+Ciccaba superciliaris macconnelli Chubb, 1916
+Glaucidium 
+Glaucidium brasilianum (Gmelin, 1788)
+Glaucidium hardyi Vielliard, 1989
+Glaucidium passerinum (Linnaeus, 1758)
+Strix passerina Linnaeus, 1758
+Lophostrix 
+Lophostrix cristata (Daudin, 1800)
+Mascarenotus Mourer-Chauviré, Bour, Moutou & Ribes, 1994
+Mascarenotus grucheti Mourer-Chauviré, Bour, Moutou & Ribes, 1994
+Megascops Kaup, 1848
+Megascops choliba (Vieillot, 1817)
+Otus choliba (Vieillot, 1817)
+Strix choliba Vieillot, 1817
+Megascops choliba cruciger (Spix, 1824)
+Strix crucigera Spix, 1824
+Megascops guatemalae (Sharpe, 1875)
+Scops guatemalae Sharpe, 1875
+Megascops guatemalae roraimae (Salvin, 1897)
+Megascops roraimae (Salvin, 1897)
+Otus guatemalae roraimae (Salvin, 1897)
+Otus roraimae (Salvin, 1897)
+Otus vermiculatus roraimae (Salvin, 1897)
+Scops roraimae Salvin, 1897
+Megascops watsonii (Cassin, 1848)
+Ephialtes watsonii Cassin, 1848
+Otus watsonii (Cassin, 1848)
+Otus Pennant, 1769
+Otus mayottensis Benson, 1960
+Otus rutilus mayottensis Benson , 1960
+Otus rutilus (Pucheran, 1849)
+Scops rutilus Pucheran, 1849
+Otus scops (Linnaeus, 1758)
+Strix scops Linnaeus, 1758
+Pulsatrix 
+Pulsatrix perspicillata (Latham, 1790)
+Strix Linnaeus, 1758
+Strix aluco Linnaeus, 1758
+Surnia 
+Surnia ulula (Linnaeus, 1758)
+Strix ulula Linnaeus, 1758
+Strigoidea 
+Tytonidae 
+Tyto 
+Tyto alba (Scopoli, 1769)
+Strix alba Scopoli, 1769
+Tyto alba alba (Scopoli, 1769)
+Tyto alba ernesti (Kleinschmidt, 1901)
+Tyto alba affinis (Blyth, 1862)
+Tyto alba delicatula (Gould, 1837)
+Strix delicatulus Gould, 1837
+Tyto alba hellmayri Griscom & Greenway, 1937
+Tyto javanica (Gmelin, 1788)
+Tyto delicatula (Gould, 1875)
+Tyto? letocarti Balouet & Olson, 1989
+Tyto longimembris (Jerdon, 1839)
+Tyto capensis longimembris (Jerdon, 1839)
+Tyto longimembris oustaleti (Hartlaub, 1879)
+Tytonoidea 
+Strigimorphae 
+Tinamiformes 
+Tinamidae 
+Crypturellus Brabourne & Chubb, 1914
+Crypturellus brevirostris (Pelzeln, 1863)
+Tinamus brevirostris Pelzeln, 1863
+Crypturellus cinereus (Gmelin, 1789)
+Crypturellus erythropus (Pelzeln, 1863)
+Crypturellus soui (Hermann, 1783)
+Crypturellus undulatus (Temminck, 1815)
+Crypturellus variegatus (Gmelin, 1789)
+Tinamus Hermann, 1783
+Tinamus major (Gmelin, 1789)
+Trogoniformes 
+Trogonidae 
+Trogon 
+Trogon collaris Vieillot, 1817
+Trogon melanurus Swainson, 1838
+Trogon rufus Gmelin, 1788
+Trogon violaceus Gmelin, 1788
+Trogon viridis Linnaeus, 1766
