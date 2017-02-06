@@ -17,7 +17,7 @@ os.mkdir("images")
 
 #Step 2
 for i in range(len(my_array)) :
-    obj = (requests.get('http://api.gbif.org/v1/species/match?verbose=true&kingdom=Plantae&name=' + my_array[i]).json())
+    obj = (requests.get('http://api.gbif.org/v1/species/match?verbose=true&kingdom=Plantae&name=' + my_array[i] + "&class=aves").json())
     if "alternatives" in obj :
         for alternative in obj["alternatives"] :
             obj2 = requests.get('http://api.gbif.org/v1/species/{}/media'.format(alternative['usageKey'])).json()
